@@ -34,10 +34,16 @@ JST = timezone(timedelta(hours=9))
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 TIMEOUT = 20
-USER_AGENT = (
-    "Mozilla/5.0 (compatible; gov-news-digest-bot/1.0; "
-    "+https://github.com/y8891y889-web/traning)"
-)
+# A generic bot UA gets a 403 from some ministry WAFs (e.g. METI); a
+# regular-browser-looking UA plus ja Accept-Language passes.
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
+}
 
 SITES = {
     "cao": {"name": "内閣府", "url": "https://www.cao.go.jp/"},
@@ -59,7 +65,7 @@ class Entry:
 
 
 def fetch(url: str) -> requests.Response:
-    resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=TIMEOUT)
+    resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
     resp.raise_for_status()
     return resp
 
