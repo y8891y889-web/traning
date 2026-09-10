@@ -80,13 +80,23 @@ def find_feed_url(base_url: str, soup: BeautifulSoup) -> str | None:
     return None
 
 
-def find_whatsnew_url(base_url: str, soup: BeautifulSoup) -> str | None:
-    candidates = soup.find_all("a", string=re.compile("新着"))
-    for a in candidates:
-        href = a.get("href")
-        if href:
-            return urljoin(base_url, href)
-    return None
+WHATSNEW_LINK_PATTERNS = ["新着", "お知らせ", "ニュースリリース", "報道発表"]
+
+
+def find_whatsnew_urls(base_url: str, soup: BeautifulSoup) -> list[str]:
+    """Candidate 'what's new' page URLs, most likely label first."""
+    urls: list[str] = []
+    seen: set[str] = set()
+    for pattern in WHATSNEW_LINK_PATTERNS:
+        for a in soup.find_all("a", string=re.compile(pattern)):
+            href = a.get("href")
+            if not href:
+                continue
+            url = urljoin(base_url, href)
+            if url not in seen:
+                seen.add(url)
+                urls.append(url)
+    return urls
 
 
 def extract_date(text: str) -> str | None:
@@ -162,6 +172,12 @@ def parse_whatsnew_page(page_url: str, soup: BeautifulSoup) -> list[Entry]:
             entries.append(Entry(title=title, url=href, date=date))
             seen_urls.add(href)
 
+    # Navigation menus rarely carry a date next to their links, while real
+    # "what's new" listings almost always do; prefer dated entries so menu
+    # noise doesn't drown out actual news items.
+    dated = [e for e in entries if e.date]
+    if len(dated) >= 3:
+        return dated[:200]
     return entries[:200]
 
 
@@ -180,13 +196,21 @@ def collect_site(site_key: str, site_url: str) -> tuple[list[Entry], str]:
         if entries:
             return entries, feed_url
 
-    whatsnew_url = find_whatsnew_url(site_url, soup)
-    if whatsnew_url:
+    best: tuple[list[Entry], str] | None = None
+    for whatsnew_url in find_whatsnew_urls(site_url, soup):
         page = fetch(whatsnew_url)
         page_soup = BeautifulSoup(page.content, "lxml")
         entries = parse_whatsnew_page(whatsnew_url, page_soup)
-        if entries:
+        if not entries:
+            continue
+        dated_count = sum(1 for e in entries if e.date)
+        if dated_count >= 3:
+            # Good enough: a real dated listing, stop searching.
             return entries, whatsnew_url
+        if best is None:
+            best = (entries, whatsnew_url)
+    if best is not None:
+        return best
 
     # Fallback: try extracting straight off the homepage.
     entries = parse_whatsnew_page(site_url, soup)
