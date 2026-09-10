@@ -90,9 +90,11 @@ def find_whatsnew_urls(base_url: str, soup: BeautifulSoup) -> list[str]:
     for pattern in WHATSNEW_LINK_PATTERNS:
         for a in soup.find_all("a", string=re.compile(pattern)):
             href = a.get("href")
-            if not href:
+            if not href or href.startswith(("javascript:", "mailto:", "#")):
                 continue
             url = urljoin(base_url, href)
+            if not url.startswith(("http://", "https://")):
+                continue
             if url not in seen:
                 seen.add(url)
                 urls.append(url)
@@ -198,9 +200,13 @@ def collect_site(site_key: str, site_url: str) -> tuple[list[Entry], str]:
 
     best: tuple[list[Entry], str] | None = None
     for whatsnew_url in find_whatsnew_urls(site_url, soup):
-        page = fetch(whatsnew_url)
-        page_soup = BeautifulSoup(page.content, "lxml")
-        entries = parse_whatsnew_page(whatsnew_url, page_soup)
+        try:
+            page = fetch(whatsnew_url)
+            page_soup = BeautifulSoup(page.content, "lxml")
+            entries = parse_whatsnew_page(whatsnew_url, page_soup)
+        except Exception as exc:  # noqa: BLE001 - one bad candidate link shouldn't sink the site
+            print(f"  (skipping candidate {whatsnew_url}: {exc})", file=sys.stderr)
+            continue
         if not entries:
             continue
         dated_count = sum(1 for e in entries if e.date)
