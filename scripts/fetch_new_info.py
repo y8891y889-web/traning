@@ -52,6 +52,12 @@ SITES = {
 }
 
 DATE_RE = re.compile(r"(20\d{2})[年./-](\d{1,2})[月./-](\d{1,2})日?")
+# Japanese era (元号) dates, e.g. "令和8年8月27日". First year of an era is
+# "元年" instead of "1年", hence the (\d{1,2}|元) alternation.
+ERA_STARTS = {"令和": 2018, "平成": 1988, "昭和": 1925}
+ERA_DATE_RE = re.compile(
+    r"(令和|平成|昭和)(\d{1,2}|元)年(\d{1,2})月(\d{1,2})日?"
+)
 
 
 @dataclass
@@ -103,10 +109,16 @@ def find_whatsnew_urls(base_url: str, soup: BeautifulSoup) -> list[str]:
 
 def extract_date(text: str) -> str | None:
     m = DATE_RE.search(text)
-    if not m:
-        return None
-    y, mo, d = m.groups()
-    return f"{int(y):04d}-{int(mo):02d}-{int(d):02d}"
+    if m:
+        y, mo, d = m.groups()
+        return f"{int(y):04d}-{int(mo):02d}-{int(d):02d}"
+    m = ERA_DATE_RE.search(text)
+    if m:
+        era, era_year, mo, d = m.groups()
+        era_year_num = 1 if era_year == "元" else int(era_year)
+        y = ERA_STARTS[era] + era_year_num
+        return f"{y:04d}-{int(mo):02d}-{int(d):02d}"
+    return None
 
 
 def parse_feed(feed_url: str, base_url: str) -> list[Entry]:
