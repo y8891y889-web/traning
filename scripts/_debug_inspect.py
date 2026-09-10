@@ -1,47 +1,24 @@
-"""Throwaway helper: dump raw HTML around date-like substrings so we can
-see what markup actually wraps entries on pages the generic extractor
-handles poorly. Not part of the daily pipeline."""
+"""Throwaway helper: run the real collect_site() against sites that were
+scoring poorly, so we can see what it picks without touching data/. Not
+part of the daily pipeline."""
 
-import re
+import sys
 
-import requests
+sys.path.insert(0, "scripts")
+from fetch_new_info import collect_site, SITES  # noqa: E402
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
-}
+TARGETS = ["stat", "soumu"]
 
-URLS = {
-    "soumu": "https://www.soumu.go.jp/toukei/snews_back.html",
-    "stat": "https://www.stat.go.jp/data/index.html",
-}
-
-DATE_PATTERN = re.compile(
-    r"(20\d{2}[年./-]\d{1,2}[月./-]\d{1,2}|令和\d{1,2}年\d{1,2}月\d{1,2})"
-)
-
-from bs4 import BeautifulSoup
-
-for key, url in URLS.items():
-    resp = requests.get(url, headers=HEADERS, timeout=20)
-    html = resp.content.decode(resp.apparent_encoding or "utf-8", errors="replace")
-    print(f"=== {key} {url} status={resp.status_code} len={len(html)} ===")
-    matches = list(DATE_PATTERN.finditer(html))
-    print(f"date-like matches: {len(matches)}")
-    for m in matches[:10]:
-        s, e = max(0, m.start() - 100), min(len(html), m.end() + 100)
-        print(repr(html[s:e]))
-        print("---")
-
-    if key == "stat":
-        soup = BeautifulSoup(resp.content, "lxml")
-        print("all links with text:")
-        for a in soup.find_all("a", href=True):
-            text = a.get_text(strip=True)
-            if text:
-                print(f"  {text!r} -> {a['href']}")
+for key in TARGETS:
+    meta = SITES[key]
+    print(f"=== {key} ({meta['name']}) {meta['url']} ===")
+    try:
+        entries, source_url = collect_site(key, meta["url"])
+    except Exception as exc:  # noqa: BLE001
+        print(f"ERROR: {exc}")
+        continue
+    dated = sum(1 for e in entries if e.date)
+    print(f"source_url={source_url} total={len(entries)} dated={dated}")
+    for e in entries[:15]:
+        print(f"  {e.date} {e.title!r} -> {e.url}")
     print()

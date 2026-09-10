@@ -90,15 +90,22 @@ def find_feed_url(base_url: str, soup: BeautifulSoup) -> str | None:
     return None
 
 
-WHATSNEW_LINK_PATTERNS = ["新着", "お知らせ", "ニュースリリース", "報道発表"]
+WHATSNEW_LINK_PATTERNS = ["新着", "お知らせ", "ニュースリリース", "報道発表", "トピックス"]
 
 
 def find_whatsnew_urls(base_url: str, soup: BeautifulSoup) -> list[str]:
     """Candidate 'what's new' page URLs, most likely label first."""
     urls: list[str] = []
     seen: set[str] = set()
+    all_links = soup.find_all("a", href=True)
     for pattern in WHATSNEW_LINK_PATTERNS:
-        for a in soup.find_all("a", string=re.compile(pattern)):
+        regex = re.compile(pattern)
+        for a in all_links:
+            # get_text() (not a.string, which is None for anchors with
+            # nested markup like <a><span>報道発表</span></a>) so labels
+            # wrapped in extra tags are still matched.
+            if not regex.search(a.get_text()):
+                continue
             href = a.get("href")
             if not href or href.startswith(("javascript:", "mailto:", "#")):
                 continue
