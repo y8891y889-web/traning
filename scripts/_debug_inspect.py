@@ -24,6 +24,8 @@ DATE_PATTERN = re.compile(
     r"(20\d{2}[年./-]\d{1,2}[月./-]\d{1,2}|令和\d{1,2}年\d{1,2}月\d{1,2})"
 )
 
+from bs4 import BeautifulSoup
+
 for key, url in URLS.items():
     resp = requests.get(url, headers=HEADERS, timeout=20)
     html = resp.content.decode(resp.apparent_encoding or "utf-8", errors="replace")
@@ -34,4 +36,12 @@ for key, url in URLS.items():
         s, e = max(0, m.start() - 100), min(len(html), m.end() + 100)
         print(repr(html[s:e]))
         print("---")
+
+    if key == "stat":
+        soup = BeautifulSoup(resp.content, "lxml")
+        print("all links with text:")
+        for a in soup.find_all("a", href=True):
+            text = a.get_text(strip=True)
+            if text:
+                print(f"  {text!r} -> {a['href']}")
     print()

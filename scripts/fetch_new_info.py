@@ -140,11 +140,52 @@ def parse_feed(feed_url: str, base_url: str) -> list[Entry]:
     return entries
 
 
-def parse_whatsnew_page(page_url: str, soup: BeautifulSoup) -> list[Entry]:
+def _strategy_dl(page_url: str, soup: BeautifulSoup) -> list[Entry]:
+    """<dt>date</dt><dd><a>title</a></dd> pairs, common on gov "what's new"
+    archives (e.g. 総務省統計局's news backlog)."""
     entries: list[Entry] = []
     seen_urls: set[str] = set()
+    for dl in soup.find_all("dl"):
+        dts = dl.find_all("dt")
+        dds = dl.find_all("dd")
+        for dt, dd in zip(dts, dds):
+            a = dd.find("a", href=True)
+            if not a:
+                continue
+            title = a.get_text(strip=True)
+            href = urljoin(page_url, a["href"])
+            if not title or href in seen_urls:
+                continue
+            date = extract_date(dt.get_text(strip=True))
+            entries.append(Entry(title=title, url=href, date=date))
+            seen_urls.add(href)
+    return entries
 
-    # Strategy 1: <li> items containing a link
+
+def _strategy_table(page_url: str, soup: BeautifulSoup) -> list[Entry]:
+    entries: list[Entry] = []
+    seen_urls: set[str] = set()
+    for tr in soup.find_all("tr"):
+        a = tr.find("a", href=True)
+        if not a:
+            continue
+        title = a.get_text(strip=True)
+        href = urljoin(page_url, a["href"])
+        if not title or href in seen_urls:
+            continue
+        date = extract_date(tr.get_text(" ", strip=True))
+        entries.append(Entry(title=title, url=href, date=date))
+        seen_urls.add(href)
+    return entries
+
+
+def _strategy_li(page_url: str, soup: BeautifulSoup) -> list[Entry]:
+    """Generic <li> items containing a link. Broadest strategy, but also
+    the one most prone to picking up nav-menu links instead of real
+    content, so it's only preferred when nothing more specific scores
+    better on dated entries."""
+    entries: list[Entry] = []
+    seen_urls: set[str] = set()
     for li in soup.find_all("li"):
         a = li.find("a", href=True)
         if not a:
@@ -158,45 +199,34 @@ def parse_whatsnew_page(page_url: str, soup: BeautifulSoup) -> list[Entry]:
         date = extract_date(li.get_text(" ", strip=True))
         entries.append(Entry(title=title, url=href, date=date))
         seen_urls.add(href)
+    return entries
 
-    # Strategy 2: definition lists (<dt> date / <dd> link) common on gov sites
-    if not entries:
-        for dl in soup.find_all("dl"):
-            dts = dl.find_all("dt")
-            dds = dl.find_all("dd")
-            for dt, dd in zip(dts, dds):
-                a = dd.find("a", href=True)
-                if not a:
-                    continue
-                title = a.get_text(strip=True)
-                href = urljoin(page_url, a["href"])
-                if not title or href in seen_urls:
-                    continue
-                date = extract_date(dt.get_text(strip=True))
-                entries.append(Entry(title=title, url=href, date=date))
-                seen_urls.add(href)
 
-    # Strategy 3: table rows
-    if not entries:
-        for tr in soup.find_all("tr"):
-            a = tr.find("a", href=True)
-            if not a:
-                continue
-            title = a.get_text(strip=True)
-            href = urljoin(page_url, a["href"])
-            if not title or href in seen_urls:
-                continue
-            date = extract_date(tr.get_text(" ", strip=True))
-            entries.append(Entry(title=title, url=href, date=date))
-            seen_urls.add(href)
+def parse_whatsnew_page(page_url: str, soup: BeautifulSoup) -> list[Entry]:
+    candidates = [
+        _strategy_dl(page_url, soup),
+        _strategy_table(page_url, soup),
+        _strategy_li(page_url, soup),
+    ]
+    candidates = [c for c in candidates if c]
+    if not candidates:
+        return []
 
     # Navigation menus rarely carry a date next to their links, while real
-    # "what's new" listings almost always do; prefer dated entries so menu
-    # noise doesn't drown out actual news items.
-    dated = [e for e in entries if e.date]
+    # "what's new" listings almost always do; prefer whichever strategy
+    # yields the most dated entries so menu noise doesn't drown out actual
+    # news items.
+    def dated_count(es: list[Entry]) -> int:
+        return sum(1 for e in es if e.date)
+
+    best = max(candidates, key=dated_count)
+    dated = [e for e in best if e.date]
     if len(dated) >= 3:
         return dated[:200]
-    return entries[:200]
+
+    # No strategy found a confident dated listing; fall back to whichever
+    # produced the most entries overall.
+    return max(candidates, key=len)[:200]
 
 
 def collect_site(site_key: str, site_url: str) -> tuple[list[Entry], str]:
