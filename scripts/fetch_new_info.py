@@ -168,7 +168,11 @@ def parse_whatsnew_page(page_url: str, soup: BeautifulSoup) -> list[Entry]:
 def collect_site(site_key: str, site_url: str) -> tuple[list[Entry], str]:
     """Returns (entries, source_url_used)."""
     home = fetch(site_url)
-    soup = BeautifulSoup(home.text, "lxml")
+    # Use raw bytes, not .text: requests defaults to ISO-8859-1 when a
+    # server's Content-Type header omits charset (common on these sites,
+    # which declare it via <meta charset> instead), which mangles Japanese
+    # text. BeautifulSoup's own encoding sniffing handles this correctly.
+    soup = BeautifulSoup(home.content, "lxml")
 
     feed_url = find_feed_url(site_url, soup)
     if feed_url:
@@ -179,7 +183,7 @@ def collect_site(site_key: str, site_url: str) -> tuple[list[Entry], str]:
     whatsnew_url = find_whatsnew_url(site_url, soup)
     if whatsnew_url:
         page = fetch(whatsnew_url)
-        page_soup = BeautifulSoup(page.text, "lxml")
+        page_soup = BeautifulSoup(page.content, "lxml")
         entries = parse_whatsnew_page(whatsnew_url, page_soup)
         if entries:
             return entries, whatsnew_url
