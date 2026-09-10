@@ -49,6 +49,10 @@ SITES = {
     "cao": {"name": "内閣府", "url": "https://www.cao.go.jp/"},
     "meti": {"name": "経済産業省", "url": "https://www.meti.go.jp/"},
     "mof": {"name": "財務省", "url": "https://www.mof.go.jp/"},
+    "moj": {"name": "法務省", "url": "https://www.moj.go.jp/"},
+    "stat": {"name": "総務省統計局", "url": "https://www.stat.go.jp/data/index.html"},
+    "soumu": {"name": "総務省(統計)", "url": "https://www.soumu.go.jp/toukei/"},
+    "fsa": {"name": "金融庁", "url": "https://www.fsa.go.jp/"},
 }
 
 DATE_RE = re.compile(r"(20\d{2})[年./-](\d{1,2})[月./-](\d{1,2})日?")
