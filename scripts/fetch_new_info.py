@@ -375,24 +375,29 @@ def parse_whatsnew_page(page_url: str, soup: BeautifulSoup) -> list[Entry]:
         return dated[:200]
 
     # No strategy found a confident (>=3) dated listing. A candidate with
-    # zero dated entries is almost always a nav/footer/facet-filter menu
-    # (common on modern JS-rendered government sites, where the real
+    # few or no dated entries is almost always a nav/footer/facet-filter
+    # menu (common on modern JS-rendered government sites, where the real
     # article list loads client-side and never appears in the static HTML
-    # this script sees) rather than real content -- e.g. a lone "2026"
-    # year-filter link. Returning it anyway would silently poison the
-    # digest with site chrome instead of failing loudly via the
-    # "extraction failed" path in main(). But some genuine listings (e.g.
-    # Oracle's Critical Patch Update index) only ever put the year in a
-    # longer descriptive title ("Oracle Critical Patch Update July 2026")
-    # rather than a day-level date the regexes above can parse, so treat a
-    # long, year-mentioning title as "dated enough" too.
+    # this script sees) rather than real content -- e.g. a real page's
+    # sidebar or footer routinely contains one or two incidental dated
+    # links (an archived "2016 report" PDF, a single stray dated item)
+    # among dozens of undated nav labels. Returning the whole thing anyway
+    # would silently poison the digest with site chrome instead of failing
+    # loudly via the "extraction failed" path in main().
+    #
+    # Some genuine listings (e.g. Oracle's Critical Patch Update index)
+    # only ever put the year in a longer descriptive title ("Oracle
+    # Critical Patch Update July 2026") rather than a day-level date the
+    # regexes above can parse, so also count a long, year-mentioning title
+    # as a "dated enough" signal.
     def looks_dated_enough(es: list[Entry]) -> int:
         return sum(
             1 for e in es if len(e.title) >= 15 and _YEAR_MENTION_RE.search(e.title)
         )
 
     fallback = max(candidates, key=len)
-    if dated_count(fallback) == 0 and looks_dated_enough(fallback) == 0:
+    signal = dated_count(fallback) + looks_dated_enough(fallback)
+    if signal < max(3, len(fallback) // 2):
         return []
     return fallback[:200]
 
