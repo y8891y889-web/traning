@@ -1,4 +1,4 @@
-name: Daily gov new-info digest
+name: Daily gov & security news digest
 
 on:
   schedule:
@@ -31,7 +31,7 @@ jobs:
       - name: Fetch new info
         run: python scripts/fetch_new_info.py
 
-      # Some ministries may intermittently fail; still commit whatever the
+      # Some sites may intermittently fail; still commit whatever the
       # other sites successfully fetched instead of losing the whole run.
       - name: Commit and push results
         if: always()
@@ -42,6 +42,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: daily gov new-info update ($(date -u +%F))"
+            git commit -m "chore: daily gov & security news update ($(date -u +%F))"
             git push
           fi

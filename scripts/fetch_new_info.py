@@ -1,10 +1,13 @@
-"""Daily fetcher for "新着情報" (what's new) listings on Japanese government sites.
+"""Daily fetcher for "新着情報" (what's new) listings on Japanese government
+sites, plus incident/advisory news feeds from non-Japan cybersecurity
+sources (national CERTs and reputable security news outlets).
 
 For each configured site this script:
   1. Fetches the homepage and looks for an RSS/Atom feed link in <head>.
   2. If no feed is found, looks for a navigation link whose text contains
-     "新着" and follows it, then extracts date/title/link entries with a
-     handful of generic HTML patterns (<li>, <dl>, <table> rows).
+     "新着" (or, for English-language sites, "news"/"advisor"/"alert"/etc.)
+     and follows it, then extracts date/title/link entries with a handful
+     of generic HTML patterns (<li>, <dl>, <table> rows).
   3. Compares the freshly extracted entries against the previously saved
      snapshot (data/<site>/latest.json) and records anything new.
   4. Updates data/<site>/latest.json, appends new entries to
@@ -55,12 +58,52 @@ SITES = {
     "fsa": {"name": "金融庁", "url": "https://www.fsa.go.jp/"},
 }
 
+# Non-Japan cybersecurity sources: national CERT/government advisory sites
+# plus reputable independent security news outlets. Together these cover
+# incident reports, vulnerability advisories, and countermeasure guidance
+# from outside Japan.
+SECURITY_SITES = {
+    "cisa": {"name": "CISA(米国土安全保障省サイバーセキュリティ庁)", "url": "https://www.cisa.gov/"},
+    "ncsc_uk": {"name": "NCSC(英国国家サイバーセキュリティセンター)", "url": "https://www.ncsc.gov.uk/"},
+    "enisa": {"name": "ENISA(EUサイバーセキュリティ機関)", "url": "https://www.enisa.europa.eu/"},
+    "cyber_gov_au": {"name": "ACSC(豪州サイバーセキュリティセンター)", "url": "https://www.cyber.gov.au/"},
+    "cccs_ca": {"name": "CCCS(カナダサイバーセキュリティセンター)", "url": "https://www.cyber.gc.ca/en/"},
+    "sans_isc": {"name": "SANS Internet Storm Center", "url": "https://isc.sans.edu/"},
+    "krebsonsecurity": {"name": "Krebs on Security", "url": "https://krebsonsecurity.com/"},
+    "thehackernews": {"name": "The Hacker News", "url": "https://thehackernews.com/"},
+    "bleepingcomputer": {"name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/"},
+}
+
 DATE_RE = re.compile(r"(20\d{2})[年./-](\d{1,2})[月./-](\d{1,2})日?")
 # Japanese era (元号) dates, e.g. "令和8年8月27日". First year of an era is
 # "元年" instead of "1年", hence the (\d{1,2}|元) alternation.
 ERA_STARTS = {"令和": 2018, "平成": 1988, "昭和": 1925}
 ERA_DATE_RE = re.compile(
     r"(令和|平成|昭和)(\d{1,2}|元)年(\d{1,2})月(\d{1,2})日?"
+)
+
+# English month-name dates, e.g. "March 1, 2024" or the RFC822-ish "1 Mar
+# 2024" used on English-language CERT/news sites.
+MONTH_NAMES = {
+    "january": 1, "jan": 1,
+    "february": 2, "feb": 2,
+    "march": 3, "mar": 3,
+    "april": 4, "apr": 4,
+    "may": 5,
+    "june": 6, "jun": 6,
+    "july": 7, "jul": 7,
+    "august": 8, "aug": 8,
+    "september": 9, "sept": 9, "sep": 9,
+    "october": 10, "oct": 10,
+    "november": 11, "nov": 11,
+    "december": 12, "dec": 12,
+}
+_MONTH_ALT = "|".join(sorted(MONTH_NAMES, key=len, reverse=True))
+EN_DATE_RE_MDY = re.compile(
+    rf"\b({_MONTH_ALT})[a-z]*\.?\s+(\d{{1,2}}),?\s+(20\d{{2}})\b", re.IGNORECASE
+)
+EN_DATE_RE_DMY = re.compile(
+    rf"\b(\d{{1,2}})\s+({_MONTH_ALT})[a-z]*\.?,?\s+(20\d{{2}})\b", re.IGNORECASE
 )
 
 
@@ -90,7 +133,11 @@ def find_feed_url(base_url: str, soup: BeautifulSoup) -> str | None:
     return None
 
 
-WHATSNEW_LINK_PATTERNS = ["新着", "お知らせ", "ニュースリリース", "報道発表", "トピックス"]
+WHATSNEW_LINK_PATTERNS = [
+    "新着", "お知らせ", "ニュースリリース", "報道発表", "トピックス",
+    # English-language equivalents, for non-Japan CERT/news sites.
+    "advisor", "alert", "press release", "news", "latest", "blog", "update",
+]
 
 
 def find_whatsnew_urls(base_url: str, soup: BeautifulSoup) -> list[str]:
@@ -99,7 +146,7 @@ def find_whatsnew_urls(base_url: str, soup: BeautifulSoup) -> list[str]:
     seen: set[str] = set()
     all_links = soup.find_all("a", href=True)
     for pattern in WHATSNEW_LINK_PATTERNS:
-        regex = re.compile(pattern)
+        regex = re.compile(pattern, re.IGNORECASE)
         for a in all_links:
             # get_text() (not a.string, which is None for anchors with
             # nested markup like <a><span>報道発表</span></a>) so labels
@@ -129,6 +176,14 @@ def extract_date(text: str) -> str | None:
         era_year_num = 1 if era_year == "元" else int(era_year)
         y = ERA_STARTS[era] + era_year_num
         return f"{y:04d}-{int(mo):02d}-{int(d):02d}"
+    m = EN_DATE_RE_MDY.search(text)
+    if m:
+        mon, d, y = m.groups()
+        return f"{int(y):04d}-{MONTH_NAMES[mon.lower()]:02d}-{int(d):02d}"
+    m = EN_DATE_RE_DMY.search(text)
+    if m:
+        d, mon, y = m.groups()
+        return f"{int(y):04d}-{MONTH_NAMES[mon.lower()]:02d}-{int(d):02d}"
     return None
 
 
@@ -141,7 +196,14 @@ def parse_feed(feed_url: str, base_url: str) -> list[Entry]:
         if not title or not link:
             continue
         date = None
-        if item.get("published"):
+        # Prefer feedparser's own normalized struct_time: it already
+        # understands RFC822, ISO8601, and other feed date formats, which a
+        # regex over the raw string (tuned for Japanese gov date styles)
+        # would otherwise miss on English-language feeds.
+        struct = item.get("published_parsed") or item.get("updated_parsed")
+        if struct:
+            date = datetime(*struct[:6], tzinfo=timezone.utc).strftime("%Y-%m-%d")
+        elif item.get("published"):
             date = extract_date(item["published"])
         entries.append(Entry(title=title, url=urljoin(base_url, link), date=date))
     return entries
@@ -315,11 +377,14 @@ def append_history(site_key: str, new_entries: list[Entry]) -> None:
 
 def main() -> int:
     today = datetime.now(JST).strftime("%Y-%m-%d")
-    digest_lines = [f"# 官公庁 新着情報ダイジェスト {today}", ""]
+    digest_lines = [
+        f"# 新着情報ダイジェスト {today}(官公庁 + 海外サイバーセキュリティ)",
+        "",
+    ]
     any_new = False
     exit_code = 0
 
-    for site_key, meta in SITES.items():
+    for site_key, meta in {**SITES, **SECURITY_SITES}.items():
         site_name = meta["name"]
         site_url = meta["url"]
         digest_lines.append(f"## {site_name} ({site_url})")
