@@ -1,8 +1,7 @@
 """Daily fetcher for "新着情報" (what's new) listings on Japanese government
 sites, plus incident/advisory news feeds from non-Japan cybersecurity
 sources: national CERTs and reputable security news outlets, vendor PSIRT
-bulletins, SEC EDGAR 8-K filings (material cybersecurity incidents must be
-disclosed via Item 1.05), and state data breach notification registries.
+bulletins, and state data breach notification registries.
 
 For each configured site this script:
   1. Fetches the homepage and looks for an RSS/Atom feed link in <head>.
@@ -29,7 +28,7 @@ import sys
 from dataclasses import dataclass, asdict
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin
 
 import feedparser
 import requests
@@ -48,13 +47,6 @@ HEADERS = {
     ),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
-}
-# SEC's fair-access policy asks bulk/automated EDGAR users to send a
-# descriptive, non-browser User-Agent identifying the requester; a
-# browser-spoofed UA gets 403'd. See https://www.sec.gov/os/accessing-edgar-data
-SEC_HEADERS = {
-    **HEADERS,
-    "User-Agent": "traning-security-digest-bot (+https://github.com/y8891y889-web/traning)",
 }
 
 SITES = {
@@ -93,42 +85,22 @@ SECURITY_SITES = {
 VENDOR_SITES = {
     "msrc": {"name": "Microsoft Security Response Center", "url": "https://msrc.microsoft.com/blog/feed"},
     # security.googleblog.com doesn't advertise its feed via a <link
-    # rel="alternate"> tag, but links to it directly from the page body.
-    "google_security_blog": {"name": "Google Security Blog", "url": "https://security.googleblog.com/security/rss/"},
+    # rel="alternate"> tag; use Blogger's standard feed path instead.
+    "google_security_blog": {"name": "Google Security Blog", "url": "https://security.googleblog.com/feeds/posts/default"},
     "cisco_talos": {"name": "Cisco Talos", "url": "https://blog.talosintelligence.com/"},
     "adobe_psirt": {"name": "Adobe Security Bulletins", "url": "https://helpx.adobe.com/security.html"},
     "oracle_security": {"name": "Oracle Security Alerts", "url": "https://www.oracle.com/security-alerts/"},
     "aws_security": {"name": "AWS Security Bulletins", "url": "https://aws.amazon.com/security/security-bulletins/"},
 }
 
-# SEC EDGAR per-company 8-K filing feeds for major IT/tech companies. Since
-# 2023 US public companies must disclose material cybersecurity incidents
-# via 8-K Item 1.05 within 4 business days, so this is a legally-mandated,
-# often-first disclosure channel. NOTE: EDGAR's filing-list feed covers
-# *all* 8-K filings for the company (earnings, executive changes, etc.),
-# not just Item 1.05 cybersecurity disclosures -- there is no per-item feed
-# -- so entries here need a human skim rather than being incident reports
-# on their own. CIKs are stable SEC identifiers but should be re-verified
-# at https://www.sec.gov/cgi-bin/browse-edgar if a company stops appearing.
-_SEC_8K_FEED = (
-    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={cik}"
-    "&type=8-K&dateb=&owner=include&count=40&output=atom"
-)
-SEC_8K_SITES = {
-    f"sec_{slug}": {"name": f"{name}(SEC 8-K開示)", "url": _SEC_8K_FEED.format(cik=cik)}
-    for slug, name, cik in [
-        ("apple", "Apple Inc.", "0000320193"),
-        ("microsoft", "Microsoft Corp.", "0000789019"),
-        ("alphabet", "Alphabet Inc.(Google)", "0001652044"),
-        ("amazon", "Amazon.com Inc.", "0001018724"),
-        ("meta", "Meta Platforms Inc.", "0001326801"),
-        ("cisco", "Cisco Systems Inc.", "0000858877"),
-        ("ibm", "IBM Corp.", "0000051143"),
-        ("solarwinds", "SolarWinds Corp.", "0001739942"),
-        ("okta", "Okta Inc.", "0001660134"),
-        ("crowdstrike", "CrowdStrike Holdings Inc.", "0001535527"),
-    ]
-}
+# NOTE: SEC EDGAR per-company 8-K filing feeds (material cybersecurity
+# incidents must be disclosed via Item 1.05 within 4 business days) were
+# tried here and removed. Two separate live runs from GitHub Actions got a
+# 403 on every single company, with and without a compliant identifying
+# User-Agent (SEC's own fair-access policy requires one:
+# https://www.sec.gov/os/accessing-edgar-data) -- this points to SEC's WAF
+# blocking the runner's cloud IP range outright rather than a fixable
+# request-shape issue, so this source can't work from this environment.
 
 # State-run public data breach notification registries. Companies are
 # legally required to notify these regulators of breaches affecting that
@@ -193,8 +165,7 @@ class Entry:
 
 
 def fetch(url: str) -> requests.Response:
-    headers = SEC_HEADERS if urlparse(url).netloc.endswith("sec.gov") else HEADERS
-    resp = requests.get(url, headers=headers, timeout=TIMEOUT)
+    resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
     resp.raise_for_status()
     return resp
 
@@ -503,7 +474,7 @@ def append_history(site_key: str, new_entries: list[Entry]) -> None:
 def main() -> int:
     today = datetime.now(JST).strftime("%Y-%m-%d")
     digest_lines = [
-        f"# 新着情報ダイジェスト {today}(官公庁 / 海外セキュリティ機関・メディア / ベンダーPSIRT / SEC 8-K / データ侵害通知)",
+        f"# 新着情報ダイジェスト {today}(官公庁 / 海外セキュリティ機関・メディア / ベンダーPSIRT / データ侵害通知)",
         "",
     ]
     any_new = False
@@ -513,7 +484,6 @@ def main() -> int:
         **SITES,
         **SECURITY_SITES,
         **VENDOR_SITES,
-        **SEC_8K_SITES,
         **BREACH_NOTICE_SITES,
     }
     for site_key, meta in all_sites.items():
