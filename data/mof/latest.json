@@ -1,16 +1,21 @@
 {
-  "fetched_at": "2026-09-11T08:54:56.560901+09:00",
+  "fetched_at": "2026-09-11T11:08:18.506863+09:00",
   "source_url": "https://www.mof.go.jp/public_relations/whats_new/202609.html",
   "entries": [
+    {
+      "title": "財政投融資財政投融資分科会（令和8年7月15日開催）議事録",
+      "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/proceedings/zaitoa20260715.html",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "国債国債金利情報(令和8年9月10日)(CSV:2KB)",
+      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "date": "2026-09-10"
+    },
     {
       "title": "国債エネルギー対策特別会計の借入金の入札結果（令和8年9月10日入札）",
       "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-result260910.htm",
       "date": "2026-09-10"
-    },
-    {
-      "title": "国債国債金利情報(令和8年9月9日)(CSV:1KB)",
-      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-      "date": "2026-09-09"
     },
     {
       "title": "国際政策片山大臣とセラフィン欧州委員との面会（令和8年9月9日（水））",

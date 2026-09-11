@@ -1,0 +1,236 @@
+{
+  "fetched_at": "2026-09-11T11:09:32.522464+09:00",
+  "source_url": "https://aws.amazon.com/jp/new/?nc2=h_dsc_new",
+  "entries": [
+    {
+      "title": "お問い合わせ",
+      "url": "https://aws.amazon.com/jp/contact-us/?nc2=h_ut_cu",
+      "date": null
+    },
+    {
+      "title": "AWS Marketplace",
+      "url": "https://aws.amazon.com/marketplace/?nc2=h_utmp",
+      "date": null
+    },
+    {
+      "title": "re:Invent",
+      "url": "https://aws.amazon.com/events/reinvent/?nc2=h_l1_f",
+      "date": null
+    },
+    {
+      "title": "コンソールにサインイン",
+      "url": "https://console.aws.amazon.com/console/home/?nc2=h_si&src=header-signin",
+      "date": null
+    },
+    {
+      "title": "アカウントの作成",
+      "url": "https://signin.aws.amazon.com/signup?request_type=register",
+      "date": null
+    },
+    {
+      "title": "AWS が選ばれる理由",
+      "url": "https://aws.amazon.com/jp/what-is-aws/?nc2=h_dsc_aa_wtaws",
+      "date": null
+    },
+    {
+      "title": "開始方法",
+      "url": "https://aws.amazon.com/jp/getting-started/?nc2=h_dsc_aa_gs",
+      "date": null
+    },
+    {
+      "title": "セキュリティ",
+      "url": "https://aws.amazon.com/jp/security/?nc2=h_dsc_aa_sec",
+      "date": null
+    },
+    {
+      "title": "コンプライアンス",
+      "url": "https://aws.amazon.com/jp/compliance/?nc2=h_dsc_aa_cmp",
+      "date": null
+    },
+    {
+      "title": "Trust Center",
+      "url": "https://aws.amazon.com/jp/trust-center/?nc2=h_dsc_aa_trc",
+      "date": null
+    },
+    {
+      "title": "持続可能性",
+      "url": "https://aws.amazon.com/jp/sustainability/?nc2=h_dsc_aa_sus",
+      "date": null
+    },
+    {
+      "title": "グローバルインフラストラクチャ",
+      "url": "https://aws.amazon.com/jp/about-aws/global-infrastructure/?nc2=h_dsc_aa_gi",
+      "date": null
+    },
+    {
+      "title": "AWS とは？",
+      "url": "https://aws.amazon.com/jp/what-is-aws/?nc1=f_cc",
+      "date": null
+    },
+    {
+      "title": "クラウドコンピューティングとは?",
+      "url": "https://aws.amazon.com/jp/what-is-cloud-computing/?nc1=f_cc",
+      "date": null
+    },
+    {
+      "title": "エージェンティック AI とは?",
+      "url": "https://aws.amazon.com/jp/what-is/agentic-ai/?nc1=f_cc",
+      "date": null
+    },
+    {
+      "title": "クラウドコンピューティングコンセプトのハブ",
+      "url": "https://aws.amazon.com/jp/what-is/?nc1=f_cc",
+      "date": null
+    },
+    {
+      "title": "AWS クラウドセキュリティ",
+      "url": "https://aws.amazon.com/jp/security/?nc1=f_cc",
+      "date": null
+    },
+    {
+      "title": "最新情報",
+      "url": "https://aws.amazon.com/jp/new/?nc1=f_cc",
+      "date": null
+    },
+    {
+      "title": "プレスリリース",
+      "url": "https://press.aboutamazon.com/aws",
+      "date": null
+    },
+    {
+      "title": "開始方法",
+      "url": "https://aws.amazon.com/jp/getting-started/?nc1=f_cc",
+      "date": null
+    },
+    {
+      "title": "トレーニング",
+      "url": "https://aws.amazon.com/jp/training/?nc1=f_cc",
+      "date": null
+    },
+    {
+      "title": "AWS Trust Center",
+      "url": "https://aws.amazon.com/jp/trust-center/?nc1=f_cc",
+      "date": null
+    },
+    {
+      "title": "AWS ソリューションライブラリ",
+      "url": "https://aws.amazon.com/jp/solutions/?nc1=f_cc",
+      "date": null
+    },
+    {
+      "title": "アーキテクチャセンター",
+      "url": "https://aws.amazon.com/jp/architecture/?nc1=f_cc",
+      "date": null
+    },
+    {
+      "title": "製品と技術上のよくある質問",
+      "url": "https://aws.amazon.com/jp/faqs/?nc1=f_dr",
+      "date": null
+    },
+    {
+      "title": "アナリストレポート",
+      "url": "https://aws.amazon.com/jp/resources/analyst-reports/?nc1=f_cc",
+      "date": null
+    },
+    {
+      "title": "AWS パートナー",
+      "url": "https://aws.amazon.com/jp/partners/work-with-partners/?nc1=f_dr",
+      "date": null
+    },
+    {
+      "title": "Builder Center",
+      "url": "https://aws.amazon.com/jp/developer/?nc1=f_dr",
+      "date": null
+    },
+    {
+      "title": "SDK とツール",
+      "url": "https://aws.amazon.com/developer/tools/?nc1=f_dr",
+      "date": null
+    },
+    {
+      "title": "AWS での .NET",
+      "url": "https://builder.aws.com/content/2zSx6gTiseJULEcqQFXqm3pzJoW/aws-tools-and-resources-net?nc1=f_dr",
+      "date": null
+    },
+    {
+      "title": "AWS での Python",
+      "url": "https://builder.aws.com/content/2zYQkMbmrsxHPtT89s3teyKJh79/aws-tools-and-resources-python?nc1=f_dr",
+      "date": null
+    },
+    {
+      "title": "AWS での Java",
+      "url": "https://builder.aws.com/content/2zZDrpGNFIOPAOT9PXifxnumRUC/aws-tools-and-resources-java?nc1=f_dr",
+      "date": null
+    },
+    {
+      "title": "AWS での PHP",
+      "url": "https://builder.aws.com/content/2zYR2daUzavSaUwnAI9X92Q1tfd/aws-tools-and-resources-php?nc1=f_dr",
+      "date": null
+    },
+    {
+      "title": "AWS での JavaScript",
+      "url": "https://builder.aws.com/content/2zYRIN2NxZTNLhwP9ZyaiJBEWrI/aws-tools-and-resources-javascript?nc1=f_dr",
+      "date": null
+    },
+    {
+      "title": "builders.flash - AWS の公式ウェブマガジン",
+      "url": "https://aws.amazon.com/jp/builders-flash/?nc1=f_dr",
+      "date": null
+    },
+    {
+      "title": "お問い合わせ",
+      "url": "https://aws.amazon.com/jp/contact-us/?nc1=f_m",
+      "date": null
+    },
+    {
+      "title": "サポートチケットを申請する",
+      "url": "https://console.aws.amazon.com/support/home/?nc1=f_dr",
+      "date": null
+    },
+    {
+      "title": "AWS re:Post",
+      "url": "https://repost.aws/?nc1=f_dr",
+      "date": null
+    },
+    {
+      "title": "ナレッジセンター",
+      "url": "https://repost.aws/knowledge-center?nc1=f_dr",
+      "date": null
+    },
+    {
+      "title": "AWS サポートの概要",
+      "url": "https://aws.amazon.com/jp/premiumsupport/?nc1=f_dr",
+      "date": null
+    },
+    {
+      "title": "AWS のアクセシビリティ",
+      "url": "https://aws.amazon.com/accessibility/?nc1=f_cc",
+      "date": null
+    },
+    {
+      "title": "イベント行動規範",
+      "url": "https://aws.amazon.com/jp/codeofconduct/?nc1=f_cc",
+      "date": null
+    },
+    {
+      "title": "イベントの利用規約",
+      "url": "https://aws.amazon.com/jp/events/terms/?nc1=f_cc",
+      "date": null
+    },
+    {
+      "title": "プライバシー",
+      "url": "https://aws.amazon.com/jp/privacy/?nc1=f_pr",
+      "date": null
+    },
+    {
+      "title": "サイト規約",
+      "url": "https://aws.amazon.com/jp/terms/?nc1=f_pr",
+      "date": null
+    },
+    {
+      "title": "プライバシーの選択肢California Consumer Privacy Act (CCPA) Opt-Out Icon",
+      "url": "https://aws.amazon.com/jp/new/?nc2=h_dsc_new",
+      "date": null
+    }
+  ]
+}

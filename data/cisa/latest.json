@@ -1,0 +1,1001 @@
+{
+  "fetched_at": "2026-09-11T11:08:26.056729+09:00",
+  "source_url": "https://www.cisa.gov/news-events/cybersecurity-advisories",
+  "entries": [
+    {
+      "title": "Topics",
+      "url": "https://www.cisa.gov/topics",
+      "date": null
+    },
+    {
+      "title": "Spotlight",
+      "url": "https://www.cisa.gov/spotlight",
+      "date": null
+    },
+    {
+      "title": "Resources & Tools",
+      "url": "https://www.cisa.gov/resources-tools",
+      "date": null
+    },
+    {
+      "title": "News & Events",
+      "url": "https://www.cisa.gov/news-events",
+      "date": null
+    },
+    {
+      "title": "Careers",
+      "url": "https://www.cisa.gov/careers",
+      "date": null
+    },
+    {
+      "title": "About",
+      "url": "https://www.cisa.gov/about",
+      "date": null
+    },
+    {
+      "title": "Home",
+      "url": "https://www.cisa.gov/",
+      "date": null
+    },
+    {
+      "title": "Alert",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_type%3A93",
+      "date": null
+    },
+    {
+      "title": "Analysis Report",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_type%3A65",
+      "date": null
+    },
+    {
+      "title": "Cybersecurity Advisory",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_type%3A94",
+      "date": null
+    },
+    {
+      "title": "Educational Institutions",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_audience%3A39",
+      "date": null
+    },
+    {
+      "title": "Executives",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_audience%3A789",
+      "date": null
+    },
+    {
+      "title": "High-Risk Communities",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_audience%3A788",
+      "date": null
+    },
+    {
+      "title": "Federal Government",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_audience%3A37",
+      "date": null
+    },
+    {
+      "title": "Individuals and Families",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_audience%3A128",
+      "date": null
+    },
+    {
+      "title": "Industry",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_audience%3A40",
+      "date": null
+    },
+    {
+      "title": "Small and Medium Businesses",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_audience%3A130",
+      "date": null
+    },
+    {
+      "title": "Faith-Based Community",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_audience%3A782",
+      "date": null
+    },
+    {
+      "title": "State, Local, Tribal, and Territorial Government",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_audience%3A129",
+      "date": null
+    },
+    {
+      "title": "Cyber National Mission Force",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_co_sealers_and_partners%3A1030",
+      "date": null
+    },
+    {
+      "title": "Federal Bureau of Investigation",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_co_sealers_and_partners%3A1028",
+      "date": null
+    },
+    {
+      "title": "Federal Civilian Executive Branch Agencies",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_co_sealers_and_partners%3A1033",
+      "date": null
+    },
+    {
+      "title": "Five Eyes",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_co_sealers_and_partners%3A1036",
+      "date": null
+    },
+    {
+      "title": "International",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_co_sealers_and_partners%3A1035",
+      "date": null
+    },
+    {
+      "title": "Multi-State Information Sharing and Analysis Center",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_co_sealers_and_partners%3A1034",
+      "date": null
+    },
+    {
+      "title": "National Security Agency",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_co_sealers_and_partners%3A1029",
+      "date": null
+    },
+    {
+      "title": "Office of the National Cyber Director",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_co_sealers_and_partners%3A1046",
+      "date": null
+    },
+    {
+      "title": "United States Coast Guard",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_co_sealers_and_partners%3A1031",
+      "date": null
+    },
+    {
+      "title": "United States Cyber Command",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_co_sealers_and_partners%3A1047",
+      "date": null
+    },
+    {
+      "title": "Brute Force (T1110)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1022",
+      "date": null
+    },
+    {
+      "title": "Collection (TA0009)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1018",
+      "date": null
+    },
+    {
+      "title": "Command and Control (TA0011)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1019",
+      "date": null
+    },
+    {
+      "title": "Credential Access (TA0006)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1015",
+      "date": null
+    },
+    {
+      "title": "Defense Evasion (TA0005)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1014",
+      "date": null
+    },
+    {
+      "title": "Discovery (TA0007)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1016",
+      "date": null
+    },
+    {
+      "title": "Execution (TA0002)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1011",
+      "date": null
+    },
+    {
+      "title": "Exfiltration (TA0010)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1020",
+      "date": null
+    },
+    {
+      "title": "Impact (TA0040)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1021",
+      "date": null
+    },
+    {
+      "title": "Initial Access (TA0001)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1010",
+      "date": null
+    },
+    {
+      "title": "Lateral Movement (TA0008)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1017",
+      "date": null
+    },
+    {
+      "title": "Persistence (TA0003)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1012",
+      "date": null
+    },
+    {
+      "title": "Phishing for Information (T1598)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1025",
+      "date": null
+    },
+    {
+      "title": "Privilege Escalation (TA0004)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1013",
+      "date": null
+    },
+    {
+      "title": "Reconnaissance (TA0043)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1008",
+      "date": null
+    },
+    {
+      "title": "Resource Development (TA0042)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_mitre_att_ck_ttp%3A1009",
+      "date": null
+    },
+    {
+      "title": "China",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_nation_state_actor%3A1038",
+      "date": null
+    },
+    {
+      "title": "Iran",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_nation_state_actor%3A1040",
+      "date": null
+    },
+    {
+      "title": "North Korea",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_nation_state_actor%3A1039",
+      "date": null
+    },
+    {
+      "title": "Russia",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_nation_state_actor%3A1037",
+      "date": null
+    },
+    {
+      "title": "2026",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2026",
+      "date": null
+    },
+    {
+      "title": "2025",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2025",
+      "date": null
+    },
+    {
+      "title": "2024",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2024",
+      "date": null
+    },
+    {
+      "title": "2023",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2023",
+      "date": null
+    },
+    {
+      "title": "2022",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2022",
+      "date": null
+    },
+    {
+      "title": "2021",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2021",
+      "date": null
+    },
+    {
+      "title": "2020",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2020",
+      "date": null
+    },
+    {
+      "title": "2019",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2019",
+      "date": null
+    },
+    {
+      "title": "2018",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2018",
+      "date": null
+    },
+    {
+      "title": "2017",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2017",
+      "date": null
+    },
+    {
+      "title": "2016",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2016",
+      "date": null
+    },
+    {
+      "title": "2015",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2015",
+      "date": null
+    },
+    {
+      "title": "2014",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2014",
+      "date": null
+    },
+    {
+      "title": "2013",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2013",
+      "date": null
+    },
+    {
+      "title": "2012",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2012",
+      "date": null
+    },
+    {
+      "title": "2011",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2011",
+      "date": null
+    },
+    {
+      "title": "2010",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2010",
+      "date": null
+    },
+    {
+      "title": "2009",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2009",
+      "date": null
+    },
+    {
+      "title": "2008",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2008",
+      "date": null
+    },
+    {
+      "title": "2007",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2007",
+      "date": null
+    },
+    {
+      "title": "2006",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2006",
+      "date": null
+    },
+    {
+      "title": "2005",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2005",
+      "date": null
+    },
+    {
+      "title": "2004",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_release_date_year%3A2004",
+      "date": null
+    },
+    {
+      "title": "Chemical Sector",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A8",
+      "date": null
+    },
+    {
+      "title": "Commercial Facilities Sector",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A9",
+      "date": null
+    },
+    {
+      "title": "Communications Sector",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A10",
+      "date": null
+    },
+    {
+      "title": "Critical Manufacturing Sector",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A11",
+      "date": null
+    },
+    {
+      "title": "Dams Sector",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A12",
+      "date": null
+    },
+    {
+      "title": "Defense Industrial Base Sector",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A13",
+      "date": null
+    },
+    {
+      "title": "Emergency Services Sector",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A14",
+      "date": null
+    },
+    {
+      "title": "Energy Sector",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A15",
+      "date": null
+    },
+    {
+      "title": "Financial Services Sector",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A16",
+      "date": null
+    },
+    {
+      "title": "Food and Agriculture Sector",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A17",
+      "date": null
+    },
+    {
+      "title": "Government Services and Facilities Sector",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A18",
+      "date": null
+    },
+    {
+      "title": "Healthcare and Public Health Sector",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A19",
+      "date": null
+    },
+    {
+      "title": "Information Technology Sector",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A20",
+      "date": null
+    },
+    {
+      "title": "Nuclear Reactors, Materials, and Waste Sector",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A21",
+      "date": null
+    },
+    {
+      "title": "Transportation Systems Sector",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A23",
+      "date": null
+    },
+    {
+      "title": "Water and Wastewater Systems",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_sector%3A24",
+      "date": null
+    },
+    {
+      "title": "Identity Theft and Personal Cyber Threats",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A237",
+      "date": null
+    },
+    {
+      "title": "Industrial Control System Vulnerabilities",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A184",
+      "date": null
+    },
+    {
+      "title": "Nation-State Threats",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A126",
+      "date": null
+    },
+    {
+      "title": "Extreme Weather",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A200",
+      "date": null
+    },
+    {
+      "title": "Manage Industrial Control System Security Risks",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A197",
+      "date": null
+    },
+    {
+      "title": "Multifactor Authentication",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A109",
+      "date": null
+    },
+    {
+      "title": "Cybersecurity Best Practices",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A68",
+      "date": null
+    },
+    {
+      "title": "Incident Response",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A230",
+      "date": null
+    },
+    {
+      "title": "Internet of Things Security",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A185",
+      "date": null
+    },
+    {
+      "title": "Information Sharing",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A231",
+      "date": null
+    },
+    {
+      "title": "Medical Technology",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A186",
+      "date": null
+    },
+    {
+      "title": "Organizations and Cyber Safety",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A238",
+      "date": null
+    },
+    {
+      "title": "Malware, Phishing, and Ransomware",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A236",
+      "date": null
+    },
+    {
+      "title": "Zero Trust",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A1337",
+      "date": null
+    },
+    {
+      "title": "Industrial Control Systems",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A75",
+      "date": null
+    },
+    {
+      "title": "Securing Networks",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A233",
+      "date": null
+    },
+    {
+      "title": "Critical Infrastructure Security and Resilience",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A79",
+      "date": null
+    },
+    {
+      "title": "Emergency Communications",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A73",
+      "date": null
+    },
+    {
+      "title": "Partnerships and Collaboration",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A76",
+      "date": null
+    },
+    {
+      "title": "Risk Management",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A77",
+      "date": null
+    },
+    {
+      "title": "Information and Communications Technology Supply Chain Security",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A78",
+      "date": null
+    },
+    {
+      "title": "Cyber Threats and Response",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_topics%3A69",
+      "date": null
+    },
+    {
+      "title": "Rockwell Automation(45)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A283",
+      "date": null
+    },
+    {
+      "title": "Mitsubishi Electric(44)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A341",
+      "date": null
+    },
+    {
+      "title": "Schneider Electric(42)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A294",
+      "date": null
+    },
+    {
+      "title": "Siemens(38)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A281",
+      "date": null
+    },
+    {
+      "title": "Hitachi Energy(33)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A687",
+      "date": null
+    },
+    {
+      "title": "Delta Electronics(25)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A476",
+      "date": null
+    },
+    {
+      "title": "ABB(13)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A347",
+      "date": null
+    },
+    {
+      "title": "ICONICS, Mitsubishi Electric(11)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A728",
+      "date": null
+    },
+    {
+      "title": "Fuji Electric(10)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A503",
+      "date": null
+    },
+    {
+      "title": "AutomationDirect(7)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A486",
+      "date": null
+    },
+    {
+      "title": "Johnson Controls(7)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A415",
+      "date": null
+    },
+    {
+      "title": "Johnson Controls Inc.(7)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A739",
+      "date": null
+    },
+    {
+      "title": "AVEVA(6)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A550",
+      "date": null
+    },
+    {
+      "title": "Festo(6)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A392",
+      "date": null
+    },
+    {
+      "title": "Advantech(5)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A276",
+      "date": null
+    },
+    {
+      "title": "SUBNET Solutions Inc.(5)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A380",
+      "date": null
+    },
+    {
+      "title": "PTC(4)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A640",
+      "date": null
+    },
+    {
+      "title": "Yokogawa(4)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A395",
+      "date": null
+    },
+    {
+      "title": "Baxter(3)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A435",
+      "date": null
+    },
+    {
+      "title": "Emerson(3)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A343",
+      "date": null
+    },
+    {
+      "title": "HMS Networks(3)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A615",
+      "date": null
+    },
+    {
+      "title": "Honeywell(3)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A353",
+      "date": null
+    },
+    {
+      "title": "mySCADA(3)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A519",
+      "date": null
+    },
+    {
+      "title": "National Instruments(3)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A636",
+      "date": null
+    },
+    {
+      "title": "Philips(3)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A382",
+      "date": null
+    },
+    {
+      "title": "Westermo(3)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A447",
+      "date": null
+    },
+    {
+      "title": "Automated Logic(2)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A707",
+      "date": null
+    },
+    {
+      "title": "B&R(2)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A611",
+      "date": null
+    },
+    {
+      "title": "Becton, Dickinson and Company (BD)(2)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A452",
+      "date": null
+    },
+    {
+      "title": "Carrier(2)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A717",
+      "date": null
+    },
+    {
+      "title": "Contec Health(2)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A736",
+      "date": null
+    },
+    {
+      "title": "Horner Automation(2)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A571",
+      "date": null
+    },
+    {
+      "title": "IDEC(2)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A693",
+      "date": null
+    },
+    {
+      "title": "Johnson Controls, Inc(2)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A726",
+      "date": null
+    },
+    {
+      "title": "Keysight Technologies(2)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A715",
+      "date": null
+    },
+    {
+      "title": "Kunbus(2)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A578",
+      "date": null
+    },
+    {
+      "title": "Microsoft(2)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A284",
+      "date": null
+    },
+    {
+      "title": "Opto 22(2)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A419",
+      "date": null
+    },
+    {
+      "title": "AzeoTech(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A277",
+      "date": null
+    },
+    {
+      "title": "CAREL(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A723",
+      "date": null
+    },
+    {
+      "title": "CODESYS(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A666",
+      "date": null
+    },
+    {
+      "title": "Cognex(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A675",
+      "date": null
+    },
+    {
+      "title": "ETIC(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A747",
+      "date": null
+    },
+    {
+      "title": "Fujifilm(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A584",
+      "date": null
+    },
+    {
+      "title": "GE Healthcare(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A637",
+      "date": null
+    },
+    {
+      "title": "Inductive Automation(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A359",
+      "date": null
+    },
+    {
+      "title": "INVT Electric(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A569",
+      "date": null
+    },
+    {
+      "title": "LCDS(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A671",
+      "date": null
+    },
+    {
+      "title": "LCDS - Leão Consultoria e Desenvolvimento de Sistemas Ltda ME(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A488",
+      "date": null
+    },
+    {
+      "title": "LOYTEC(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A443",
+      "date": null
+    },
+    {
+      "title": "LS Electric(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A732",
+      "date": null
+    },
+    {
+      "title": "Measuresoft(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A311",
+      "date": null
+    },
+    {
+      "title": "Medtronic(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A545",
+      "date": null
+    },
+    {
+      "title": "Mirion Technologies(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A506",
+      "date": null
+    },
+    {
+      "title": "Mitsubishi Electric Europe B.V.(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A508",
+      "date": null
+    },
+    {
+      "title": "Motorola Solutions(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A445",
+      "date": null
+    },
+    {
+      "title": "Moxa(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A318",
+      "date": null
+    },
+    {
+      "title": "Ocean Data(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A363",
+      "date": null
+    },
+    {
+      "title": "Open Automation Software(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A371",
+      "date": null
+    },
+    {
+      "title": "OPW Fuel Management Systems(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A516",
+      "date": null
+    },
+    {
+      "title": "Schweitzer Engineering Laboratories(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A296",
+      "date": null
+    },
+    {
+      "title": "SDG Technologies(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A327",
+      "date": null
+    },
+    {
+      "title": "SMA Solar Technology AG(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A428",
+      "date": null
+    },
+    {
+      "title": "SnapOne(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A764",
+      "date": null
+    },
+    {
+      "title": "Tibbo(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A440",
+      "date": null
+    },
+    {
+      "title": "Treck(1)",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=vendor%3A644",
+      "date": null
+    },
+    {
+      "title": "Page2",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?page=1",
+      "date": null
+    },
+    {
+      "title": "Page3",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?page=2",
+      "date": null
+    },
+    {
+      "title": "Page4",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?page=3",
+      "date": null
+    },
+    {
+      "title": "Page5",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?page=4",
+      "date": null
+    },
+    {
+      "title": "Page6",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?page=5",
+      "date": null
+    },
+    {
+      "title": "Page7",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?page=6",
+      "date": null
+    },
+    {
+      "title": "Page8",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?page=7",
+      "date": null
+    },
+    {
+      "title": "Page9",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?page=8",
+      "date": null
+    },
+    {
+      "title": "Go to last pageLast",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories?page=506",
+      "date": null
+    },
+    {
+      "title": "Facebook",
+      "url": "https://www.facebook.com/CISA",
+      "date": null
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/company/cybersecurity-and-infrastructure-security-agency",
+      "date": null
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/@cisagov",
+      "date": null
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/cisagov",
+      "date": null
+    },
+    {
+      "title": "Budget and Performance",
+      "url": "https://www.dhs.gov/performance-financial-reports",
+      "date": null
+    },
+    {
+      "title": "DHS.gov",
+      "url": "https://www.dhs.gov",
+      "date": null
+    },
+    {
+      "title": "FOIA Requests",
+      "url": "https://www.dhs.gov/foia",
+      "date": null
+    },
+    {
+      "title": "No FEAR Act",
+      "url": "https://www.cisa.gov/no-fear-act",
+      "date": null
+    },
+    {
+      "title": "Office of Inspector General",
+      "url": "https://www.oig.dhs.gov/",
+      "date": null
+    },
+    {
+      "title": "Privacy Policy",
+      "url": "https://www.cisa.gov/privacy-policy",
+      "date": null
+    },
+    {
+      "title": "Subscribe",
+      "url": "https://public.govdelivery.com/accounts/USDHSCISA/subscriber/new?topic_id=USDHSCISA_138",
+      "date": null
+    },
+    {
+      "title": "The White House",
+      "url": "https://www.whitehouse.gov/",
+      "date": null
+    },
+    {
+      "title": "USA.gov",
+      "url": "https://www.usa.gov/",
+      "date": null
+    },
+    {
+      "title": "Website Feedback",
+      "url": "https://www.cisa.gov/forms/feedback",
+      "date": null
+    }
+  ]
+}

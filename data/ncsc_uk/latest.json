@@ -1,0 +1,376 @@
+{
+  "fetched_at": "2026-09-11T11:08:27.310937+09:00",
+  "source_url": "https://www.ncsc.gov.uk/section/keep-up-to-date/reports-advisories",
+  "entries": [
+    {
+      "title": "About NCSC",
+      "url": "https://www.ncsc.gov.uk/section/about-ncsc/what-we-do",
+      "date": null
+    },
+    {
+      "title": "Report an incident",
+      "url": "https://report.ncsc.gov.uk/",
+      "date": null
+    },
+    {
+      "title": "Contact us",
+      "url": "https://www.ncsc.gov.uk/section/about-this-website/contact-us",
+      "date": null
+    },
+    {
+      "title": "You & your family",
+      "url": "https://www.ncsc.gov.uk/section/advice-guidance/you-your-family",
+      "date": null
+    },
+    {
+      "title": "Small & medium sized organisations",
+      "url": "https://www.ncsc.gov.uk/section/advice-guidance/small-medium-sized-organisations",
+      "date": null
+    },
+    {
+      "title": "Large organisations",
+      "url": "https://www.ncsc.gov.uk/section/advice-guidance/large-organisations",
+      "date": null
+    },
+    {
+      "title": "Self employed & sole traders",
+      "url": "https://www.ncsc.gov.uk/section/advice-guidance/self-employed-sole-traders",
+      "date": null
+    },
+    {
+      "title": "Public sector",
+      "url": "https://www.ncsc.gov.uk/section/advice-guidance/public-sector",
+      "date": null
+    },
+    {
+      "title": "Cyber security professionals",
+      "url": "https://www.ncsc.gov.uk/section/advice-guidance/cyber-security-professionals",
+      "date": null
+    },
+    {
+      "title": "All advice and guidance articles",
+      "url": "https://www.ncsc.gov.uk/section/advice-guidance/all-articles",
+      "date": null
+    },
+    {
+      "title": "Artificial intelligence",
+      "url": "https://www.ncsc.gov.uk/section/advice-guidance/all-topics/artificial-intelligence",
+      "date": null
+    },
+    {
+      "title": "Cyber attack",
+      "url": "https://www.ncsc.gov.uk/section/advice-guidance/all-topics/cyber-attack",
+      "date": null
+    },
+    {
+      "title": "Frontier AI",
+      "url": "https://www.ncsc.gov.uk/section/advice-guidance/all-topics/frontier-ai",
+      "date": null
+    },
+    {
+      "title": "Passkeys",
+      "url": "https://www.ncsc.gov.uk/section/advice-guidance/all-topics/passkeys",
+      "date": null
+    },
+    {
+      "title": "Phishing",
+      "url": "https://www.ncsc.gov.uk/section/advice-guidance/all-topics/phishing",
+      "date": null
+    },
+    {
+      "title": "All topics",
+      "url": "https://www.ncsc.gov.uk/section/advice-guidance/all-topics",
+      "date": null
+    },
+    {
+      "title": "Glossary of terms",
+      "url": "https://www.ncsc.gov.uk/section/advice-guidance/glossary",
+      "date": null
+    },
+    {
+      "title": "Infographics",
+      "url": "https://www.ncsc.gov.uk/section/infographics/home",
+      "date": null
+    },
+    {
+      "title": "Verify an NCSC contact",
+      "url": "https://www.ncsc.gov.uk/guidance/how-to-spot-scammers-claiming-to-be-from-the-ncsc",
+      "date": null
+    },
+    {
+      "title": "Heightened cyber threat information",
+      "url": "https://www.ncsc.gov.uk/section/keep-up-to-date/heightened-threat",
+      "date": null
+    },
+    {
+      "title": "Cyber Governance for Boards",
+      "url": "https://www.ncsc.gov.uk/cyber-governance-for-boards/overview",
+      "date": null
+    },
+    {
+      "title": "Advice for medium to large organisations",
+      "url": "https://www.ncsc.gov.uk/section/respond-recover/medium-large",
+      "date": null
+    },
+    {
+      "title": "Advice for sole traders and small businesses",
+      "url": "https://www.ncsc.gov.uk/section/respond-recover/sole-small",
+      "date": null
+    },
+    {
+      "title": "Advice for individuals",
+      "url": "https://www.ncsc.gov.uk/section/respond-recover/you",
+      "date": null
+    },
+    {
+      "title": "Hacked account",
+      "url": "https://www.ncsc.gov.uk/section/respond-recover/hacked-accounts",
+      "date": null
+    },
+    {
+      "title": "Infected device",
+      "url": "https://www.ncsc.gov.uk/section/respond-recover/citizen-infected-devices",
+      "date": null
+    },
+    {
+      "title": "Ransomware attack",
+      "url": "https://www.ncsc.gov.uk/section/respond-recover/ransomware-attack",
+      "date": null
+    },
+    {
+      "title": "Suspicious messages",
+      "url": "https://www.ncsc.gov.uk/section/respond-recover/phishing",
+      "date": null
+    },
+    {
+      "title": "Products & services overview",
+      "url": "https://www.ncsc.gov.uk/section/products-services/overview",
+      "date": null
+    },
+    {
+      "title": "Browse cyber security services",
+      "url": "https://www.ncsc.gov.uk/section/products-services/browse-services",
+      "date": null
+    },
+    {
+      "title": "NCSC assured services",
+      "url": "https://www.ncsc.gov.uk/section/products-services/assured-services",
+      "date": null
+    },
+    {
+      "title": "Assuring technology",
+      "url": "https://www.ncsc.gov.uk/section/products-services/assuring-technology",
+      "date": null
+    },
+    {
+      "title": "Search assured providers",
+      "url": "https://www.ncsc.gov.uk/section/products-services/search",
+      "date": null
+    },
+    {
+      "title": "Cyber Essentials",
+      "url": "https://www.ncsc.gov.uk/cyberessentials/overview",
+      "date": null
+    },
+    {
+      "title": "Active Cyber Defence services",
+      "url": "https://www.ncsc.gov.uk/section/active-cyber-defence/services",
+      "date": null
+    },
+    {
+      "title": "MyNCSC",
+      "url": "https://www.ncsc.gov.uk/information/myncsc",
+      "date": null
+    },
+    {
+      "title": "Schools",
+      "url": "https://www.ncsc.gov.uk/section/education-skills/schools",
+      "date": null
+    },
+    {
+      "title": "Higher education",
+      "url": "https://www.ncsc.gov.uk/section/education-skills/higher-education",
+      "date": null
+    },
+    {
+      "title": "Professional skills training",
+      "url": "https://www.ncsc.gov.uk/section/education-skills/professional-skills-training",
+      "date": null
+    },
+    {
+      "title": "Working with the NCSC",
+      "url": "https://www.ncsc.gov.uk/section/education-skills/working-with-the-ncsc",
+      "date": null
+    },
+    {
+      "title": "Research & academia",
+      "url": "https://www.ncsc.gov.uk/section/education-skills/research-and-academia",
+      "date": null
+    },
+    {
+      "title": "Cyber Skills",
+      "url": "https://www.ncsc.gov.uk/cyber-skills",
+      "date": null
+    },
+    {
+      "title": "Training resources for school staff",
+      "url": "https://www.ncsc.gov.uk/information/cyber-security-training-schools",
+      "date": null
+    },
+    {
+      "title": "Resources for higher education institutions",
+      "url": "https://www.ncsc.gov.uk/section/education-skills/cyber-security-heis-feis",
+      "date": null
+    },
+    {
+      "title": "Cyber Security Body of Knowledge (CyBOK)",
+      "url": "https://www.ncsc.gov.uk/section/education-skills/cybok",
+      "date": null
+    },
+    {
+      "title": "CYBERUK 2026",
+      "url": "https://www.ncsc.gov.uk/section/keep-up-to-date/cyberuk",
+      "date": null
+    },
+    {
+      "title": "NCSC for StartUps",
+      "url": "https://www.ncsc.gov.uk/section/ncsc-for-startups/overview",
+      "date": null
+    },
+    {
+      "title": "Industry 100",
+      "url": "https://www.ncsc.gov.uk/section/industry-100/about",
+      "date": null
+    },
+    {
+      "title": "Cyber League",
+      "url": "https://www.ncsc.gov.uk/information/cyber-league",
+      "date": null
+    },
+    {
+      "title": "News",
+      "url": "https://www.ncsc.gov.uk/section/keep-up-to-date",
+      "date": null
+    },
+    {
+      "title": "Blogs",
+      "url": "https://www.ncsc.gov.uk/section/keep-up-to-date/all-blogs",
+      "date": null
+    },
+    {
+      "title": "Speeches",
+      "url": "https://www.ncsc.gov.uk/section/keep-up-to-date/all-speeches",
+      "date": null
+    },
+    {
+      "title": "Reports & advisories",
+      "url": "https://www.ncsc.gov.uk/section/keep-up-to-date/reports-advisories",
+      "date": null
+    },
+    {
+      "title": "Malware analysis reports",
+      "url": "https://www.ncsc.gov.uk/section/keep-up-to-date/malware-analysis-reports",
+      "date": null
+    },
+    {
+      "title": "The NCSC's Cyber Series podcast",
+      "url": "https://www.ncsc.gov.uk/section/cyber-series-podcast/overview",
+      "date": null
+    },
+    {
+      "title": "Subscribe",
+      "url": "https://www.ncsc.gov.uk/register/subscribe",
+      "date": null
+    },
+    {
+      "title": "Passkeys",
+      "url": "https://www.ncsc.gov.uk/search?keyword=passkeys",
+      "date": null
+    },
+    {
+      "title": "Training",
+      "url": "https://www.ncsc.gov.uk/search?keyword=training",
+      "date": null
+    },
+    {
+      "title": "Cyber Assessment Framework",
+      "url": "https://www.ncsc.gov.uk/section/advice-guidance/all-topics/cyber-assessment-framework",
+      "date": null
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://uk.linkedin.com/company/national-cyber-security-centre",
+      "date": null
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/cyberhq/",
+      "date": null
+    },
+    {
+      "title": "Threads",
+      "url": "https://www.threads.com/@cyberhq",
+      "date": null
+    },
+    {
+      "title": "Privacy notice",
+      "url": "https://www.ncsc.gov.uk/section/about-this-website/privacy-statement",
+      "date": null
+    },
+    {
+      "title": "Cookies",
+      "url": "https://www.ncsc.gov.uk/section/about-this-website/cookies",
+      "date": null
+    },
+    {
+      "title": "Accessibility",
+      "url": "https://www.ncsc.gov.uk/section/about-this-website/accessibility-statement-for-wwwncscgovuk",
+      "date": null
+    },
+    {
+      "title": "Terms & conditions",
+      "url": "https://www.ncsc.gov.uk/section/about-this-website/terms-and-conditions",
+      "date": null
+    },
+    {
+      "title": "Social media policy",
+      "url": "https://www.ncsc.gov.uk/section/about-this-website/social-media-policy",
+      "date": null
+    },
+    {
+      "title": "Report suspicious messages or websites",
+      "url": "https://www.ncsc.gov.uk/collection/phishing-scams",
+      "date": null
+    },
+    {
+      "title": "Report a vulnerability",
+      "url": "https://www.ncsc.gov.uk/information/vulnerability-reporting",
+      "date": null
+    },
+    {
+      "title": "Contact the press office",
+      "url": "https://www.ncsc.gov.uk/section/about-ncsc/media-centre",
+      "date": null
+    },
+    {
+      "title": "Can't find what you're looking for?",
+      "url": "https://www.ncsc.gov.uk/section/about-this-website/cant-find-what-you-are-looking-for",
+      "date": null
+    },
+    {
+      "title": "GCHQ",
+      "url": "https://www.gchq.gov.uk/",
+      "date": null
+    },
+    {
+      "title": "NPSA",
+      "url": "https://www.npsa.gov.uk/",
+      "date": null
+    },
+    {
+      "title": "GOV.UK",
+      "url": "https://www.gov.uk/",
+      "date": null
+    }
+  ]
+}
