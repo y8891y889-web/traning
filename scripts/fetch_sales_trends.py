@@ -35,13 +35,23 @@ For each configured adult-doujin marketplace this script:
 NOTE ON VERIFICATION: this script was written without the ability to
 fetch either site from the authoring environment (both domains were
 blocked by that environment's outbound network policy), so it was first
-validated live via a GitHub Actions workflow_dispatch run. DLsite worked
-on the first try. FANZA doujin's ranking page needed its extraction
-config adjusted after inspecting the real HTML via a temporary debug
-workflow (see git history around the fix) -- if either site's markup
-drifts again in the future, the RANKING_URL / DETAIL_URL_MARKER / genre
-marker constants below are the place to adjust, the same iterative
-process this repo already used for gov-site "what's new" selectors.
+validated live via a GitHub Actions workflow_dispatch run.
+
+DLsite worked on the first try (30 items, 100+ genres extracted). FANZA
+doujin currently does NOT work: every candidate URL tried (the ranking
+page, the ranking page with no term filter, a sort=ranking listing, and
+even the doujin top page itself) 302-redirects to
+accounts.dmm.co.jp/service/login -- i.e. the doujin section now requires
+a logged-in DMM account to view at all, not just an age-gate cookie. This
+script does not attempt to log in (storing real account credentials in
+CI for an adult platform is a decision for a human, not something to
+wire up unilaterally). collect_fanza() is left in place and fails soft
+(the daily digest reports "ランキングの抽出に失敗しました" rather than
+crashing the whole run), so DLsite's data keeps flowing either way. If
+FANZA access is revisited, the marker/URL constants below are the place
+to update -- ideally with the exact current URL/cookie state from a real
+logged-in browser session, since this environment can't reach dmm.co.jp
+at all to re-diagnose further.
 
 This only collects ranking metadata (rank, title, circle/maker, genre
 tags, URL) for aggregate trend analysis -- never any paid or explicit
