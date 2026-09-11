@@ -90,7 +90,7 @@ VENDOR_SITES = {
     "cisco_talos": {"name": "Cisco Talos", "url": "https://blog.talosintelligence.com/"},
     "adobe_psirt": {"name": "Adobe Security Bulletins", "url": "https://helpx.adobe.com/security.html"},
     "oracle_security": {"name": "Oracle Security Alerts", "url": "https://www.oracle.com/security-alerts/"},
-    "aws_security": {"name": "AWS Security Bulletins", "url": "https://aws.amazon.com/security/security-bulletins/rss/"},
+    "aws_security": {"name": "AWS Security Bulletins", "url": "https://aws.amazon.com/security/security-bulletins/"},
 }
 
 # NOTE: SEC EDGAR per-company 8-K filing feeds (material cybersecurity
