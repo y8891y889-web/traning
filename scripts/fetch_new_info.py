@@ -1,6 +1,8 @@
 """Daily fetcher for "新着情報" (what's new) listings on Japanese government
 sites, plus incident/advisory news feeds from non-Japan cybersecurity
-sources (national CERTs and reputable security news outlets).
+sources: national CERTs and reputable security news outlets, vendor PSIRT
+bulletins, SEC EDGAR 8-K filings (material cybersecurity incidents must be
+disclosed via Item 1.05), and state data breach notification registries.
 
 For each configured site this script:
   1. Fetches the homepage and looks for an RSS/Atom feed link in <head>.
@@ -72,6 +74,58 @@ SECURITY_SITES = {
     "krebsonsecurity": {"name": "Krebs on Security", "url": "https://krebsonsecurity.com/"},
     "thehackernews": {"name": "The Hacker News", "url": "https://thehackernews.com/"},
     "bleepingcomputer": {"name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/"},
+}
+
+# Vendor PSIRT (Product Security Incident Response Team) blogs / bulletin
+# pages: official first-party vulnerability and patch advisories, straight
+# from the source rather than filtered through third-party reporting.
+VENDOR_SITES = {
+    "msrc": {"name": "Microsoft Security Response Center", "url": "https://msrc.microsoft.com/blog/"},
+    "google_security_blog": {"name": "Google Security Blog", "url": "https://security.googleblog.com/"},
+    "cisco_talos": {"name": "Cisco Talos", "url": "https://blog.talosintelligence.com/"},
+    "adobe_psirt": {"name": "Adobe Security Bulletins", "url": "https://helpx.adobe.com/security.html"},
+    "oracle_security": {"name": "Oracle Security Alerts", "url": "https://www.oracle.com/security-alerts/"},
+    "aws_security": {"name": "AWS Security Bulletins", "url": "https://aws.amazon.com/security/security-bulletins/"},
+}
+
+# SEC EDGAR per-company 8-K filing feeds for major IT/tech companies. Since
+# 2023 US public companies must disclose material cybersecurity incidents
+# via 8-K Item 1.05 within 4 business days, so this is a legally-mandated,
+# often-first disclosure channel. NOTE: EDGAR's filing-list feed covers
+# *all* 8-K filings for the company (earnings, executive changes, etc.),
+# not just Item 1.05 cybersecurity disclosures -- there is no per-item feed
+# -- so entries here need a human skim rather than being incident reports
+# on their own. CIKs are stable SEC identifiers but should be re-verified
+# at https://www.sec.gov/cgi-bin/browse-edgar if a company stops appearing.
+_SEC_8K_FEED = (
+    "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={cik}"
+    "&type=8-K&dateb=&owner=include&count=40&output=atom"
+)
+SEC_8K_SITES = {
+    f"sec_{slug}": {"name": f"{name}(SEC 8-K開示)", "url": _SEC_8K_FEED.format(cik=cik)}
+    for slug, name, cik in [
+        ("apple", "Apple Inc.", "0000320193"),
+        ("microsoft", "Microsoft Corp.", "0000789019"),
+        ("alphabet", "Alphabet Inc.(Google)", "0001652044"),
+        ("amazon", "Amazon.com Inc.", "0001018724"),
+        ("meta", "Meta Platforms Inc.", "0001326801"),
+        ("cisco", "Cisco Systems Inc.", "0000858877"),
+        ("ibm", "IBM Corp.", "0000051143"),
+        ("solarwinds", "SolarWinds Corp.", "0001739942"),
+        ("okta", "Okta Inc.", "0001660134"),
+        ("crowdstrike", "CrowdStrike Holdings Inc.", "0001535527"),
+    ]
+}
+
+# State-run public data breach notification registries. Companies are
+# legally required to notify these regulators of breaches affecting that
+# state's residents, so this is another disclosure channel independent of
+# a company's own press releases.
+BREACH_NOTICE_SITES = {
+    "ca_ag_databreach": {
+        "name": "カリフォルニア州司法長官 データ侵害通知一覧",
+        "url": "https://oag.ca.gov/privacy/databreach/list",
+    },
 }
 
 DATE_RE = re.compile(r"(20\d{2})[年./-](\d{1,2})[月./-](\d{1,2})日?")
@@ -313,6 +367,14 @@ def collect_site(site_key: str, site_url: str) -> tuple[list[Entry], str]:
         if entries:
             return entries, feed_url
 
+    # Some configured URLs are themselves already an RSS/Atom feed rather
+    # than an HTML page linking to one (e.g. SEC EDGAR's per-company
+    # "output=atom" filing list). feedparser silently returns zero entries
+    # for a non-feed response, so this is a no-op for ordinary HTML sites.
+    direct_entries = parse_feed(site_url, site_url)
+    if direct_entries:
+        return direct_entries, site_url
+
     best: tuple[list[Entry], str] | None = None
     for whatsnew_url in find_whatsnew_urls(site_url, soup):
         try:
@@ -378,13 +440,20 @@ def append_history(site_key: str, new_entries: list[Entry]) -> None:
 def main() -> int:
     today = datetime.now(JST).strftime("%Y-%m-%d")
     digest_lines = [
-        f"# 新着情報ダイジェスト {today}(官公庁 + 海外サイバーセキュリティ)",
+        f"# 新着情報ダイジェスト {today}(官公庁 / 海外セキュリティ機関・メディア / ベンダーPSIRT / SEC 8-K / データ侵害通知)",
         "",
     ]
     any_new = False
     exit_code = 0
 
-    for site_key, meta in {**SITES, **SECURITY_SITES}.items():
+    all_sites = {
+        **SITES,
+        **SECURITY_SITES,
+        **VENDOR_SITES,
+        **SEC_8K_SITES,
+        **BREACH_NOTICE_SITES,
+    }
+    for site_key, meta in all_sites.items():
         site_name = meta["name"]
         site_url = meta["url"]
         digest_lines.append(f"## {site_name} ({site_url})")
