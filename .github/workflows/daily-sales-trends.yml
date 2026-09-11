@@ -1,8 +1,8 @@
-name: Daily FANZA/DLsite sales trend digest
+name: Daily DLsite sales trend digest
 
 on:
   schedule:
-    # 23:00 UTC = 08:00 JST -- after both sites' "daily" rankings have
+    # 23:00 UTC = 08:00 JST -- after the site's "daily" ranking has
     # finalized for the previous JST day.
     - cron: "0 23 * * *"
   workflow_dispatch: {}
@@ -32,8 +32,6 @@ jobs:
       - name: Fetch sales trends
         run: python scripts/fetch_sales_trends.py
 
-      # A site's markup drifting shouldn't lose the other site's results;
-      # still commit whatever was successfully fetched.
       - name: Commit and push results
         if: always()
         run: |

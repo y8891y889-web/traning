@@ -1,20 +1,18 @@
-"""Daily sales-ranking / genre-trend tracker for FANZA同人 and DLsite.
+"""Daily sales-ranking / genre-trend tracker for DLsite.
 
 For each configured adult-doujin marketplace this script:
-  1. Fetches that day's sales ranking page (age-gate cookie included, since
-     both sites interstitial-redirect an unverified visitor away from the
-     ranking listing).
+  1. Fetches that day's sales ranking page (age-gate cookie included,
+     since the site interstitial-redirects an unverified visitor away
+     from the ranking listing).
   2. Extracts ranked items by their product **detail-page URL pattern**
-     (e.g. DMM's "/detail/=/cid=..." , DLsite's "/work/=/product_id/...")
-     rather than by CSS class names. Class names on these sites' ranking
-     pages get renamed across front-end redesigns; the URL grammar for a
-     product page is a much more stable target to search a
-     ranking is by that pattern -- the same fallback-first philosophy
+     ("/work/=/product_id/...") rather than by CSS class names. Class
+     names on a ranking page get renamed across front-end redesigns; the
+     URL grammar for a product page is a much more stable target to
+     search a ranking by -- the same fallback-first philosophy
      scripts/fetch_new_info.py uses for government "what's new" listings.
-  3. For each ranked item, looks for genre/tag links near it (FANZA shows
-     these inline on the ranking tile; DLsite's ranking list only shows
-     them on the work's own detail page, so for DLsite this makes one
-     extra request per ranked item, politely rate-limited).
+  3. For each ranked item, looks for genre/tag links near it; DLsite's
+     ranking list only shows them on the work's own detail page, so this
+     makes one extra request per ranked item, politely rate-limited.
   4. Aggregates genre occurrence counts across that day's top N ranked
      items, saves the day's snapshot to
      data/sales_trends/<site>/latest.json, upserts it into
@@ -27,31 +25,19 @@ For each configured adult-doujin marketplace this script:
      rank-weighted points per appearance in a day's top N, summed across
      a trailing window (compute_custom_ranking()), saved to
      data/sales_trends/<site>/custom_ranking_7d.json and included in the
-     digest. This is independent of -- and complementary to -- each
+     digest. This is independent of -- and complementary to -- the
      site's own daily ranking: a title that keeps reappearing near the
      top outscores one that spiked once, which a single day's snapshot
      can't distinguish.
 
-NOTE ON VERIFICATION: this script was written without the ability to
-fetch either site from the authoring environment (both domains were
-blocked by that environment's outbound network policy), so it was first
-validated live via a GitHub Actions workflow_dispatch run.
-
-DLsite worked on the first try (30 items, 100+ genres extracted). FANZA
-doujin currently does NOT work: every candidate URL tried (the ranking
-page, the ranking page with no term filter, a sort=ranking listing, and
-even the doujin top page itself) 302-redirects to
-accounts.dmm.co.jp/service/login -- i.e. the doujin section now requires
-a logged-in DMM account to view at all, not just an age-gate cookie. This
-script does not attempt to log in (storing real account credentials in
-CI for an adult platform is a decision for a human, not something to
-wire up unilaterally). collect_fanza() is left in place and fails soft
-(the daily digest reports "ランキングの抽出に失敗しました" rather than
-crashing the whole run), so DLsite's data keeps flowing either way. If
-FANZA access is revisited, the marker/URL constants below are the place
-to update -- ideally with the exact current URL/cookie state from a real
-logged-in browser session, since this environment can't reach dmm.co.jp
-at all to re-diagnose further.
+NOTE ON SCOPE: FANZA同人 was tried here too but dropped. Every candidate
+URL on dmm.co.jp (the ranking page, the ranking page with no term
+filter, a sort=ranking listing, and even the doujin top page itself)
+302-redirects to accounts.dmm.co.jp/service/login -- the doujin section
+now requires a logged-in DMM account to view at all, not just an
+age-gate cookie -- and this pipeline deliberately does not store real
+account credentials in CI to work around that. DLsite alone worked
+cleanly (30 items, 100+ genres) from the first live run.
 
 This only collects ranking metadata (rank, title, circle/maker, genre
 tags, URL) for aggregate trend analysis -- never any paid or explicit
@@ -89,15 +75,6 @@ HEADERS = {
 }
 
 SITES = {
-    "fanza_doujin": {
-        "name": "FANZA同人",
-        "ranking_url": "https://www.dmm.co.jp/dc/doujin/-/ranking/=/term=daily/",
-        # Bypasses the age-verification interstitial that otherwise
-        # redirects an unverified visitor away from adult-floor pages.
-        "cookies": {"age_check_done": "1", "ckcy": "1"},
-        "detail_url_marker": "/detail/=/cid=",
-        "genre_href_markers": ("article=keyword", "article=genre"),
-    },
     "dlsite_maniax": {
         "name": "DLsite(成年向け)",
         "ranking_url": "https://www.dlsite.com/maniax/ranking/=/term/day/",
@@ -204,23 +181,6 @@ def fetch_dlsite_work_genres(work_url: str, cookies: dict[str, str]) -> list[str
     return genres
 
 
-def collect_fanza(meta: dict) -> tuple[list[RankedItem], str]:
-    url = meta["ranking_url"]
-    resp = fetch(url, cookies=meta.get("cookies"))
-    soup = BeautifulSoup(resp.content, "lxml")
-    raw = find_ranked_items(soup, url, meta["detail_url_marker"], TOP_N)
-    items = [
-        RankedItem(
-            rank=rank,
-            title=title,
-            url=item_url,
-            genres=extract_genres_near(a, meta["genre_href_markers"]),
-        )
-        for rank, (item_url, title, a) in enumerate(raw, start=1)
-    ]
-    return items, url
-
-
 def collect_dlsite(meta: dict) -> tuple[list[RankedItem], str]:
     url = meta["ranking_url"]
     cookies = meta.get("cookies")
@@ -238,7 +198,6 @@ def collect_dlsite(meta: dict) -> tuple[list[RankedItem], str]:
 
 
 COLLECTORS = {
-    "fanza_doujin": collect_fanza,
     "dlsite_maniax": collect_dlsite,
 }
 
@@ -332,7 +291,7 @@ def compute_custom_ranking(
     records: dict[str, dict], window_days: int = 7, top_n: int = 20
 ) -> list[dict]:
     """This pipeline's own accumulated ranking, independent of any single
-    day's official FANZA/DLsite listing: each appearance in a day's top-N
+    day's official listing: each appearance in a day's top-N
     scores rank-weighted points (1st place = TOP_N points, last place = 1
     point), summed across the trailing `window_days`. A work that keeps
     reappearing near the top outscores one that spiked once, which a raw
@@ -380,7 +339,7 @@ def save_custom_ranking(site_key: str, window_days: int, ranking: list[dict]) ->
 
 def main() -> int:
     today = datetime.now(JST).strftime("%Y-%m-%d")
-    digest_lines = [f"# 売上ジャンル傾向ダイジェスト {today}(FANZA同人 / DLsite)", ""]
+    digest_lines = [f"# 売上ジャンル傾向ダイジェスト {today}(DLsite)", ""]
     exit_code = 0
 
     for site_key, meta in SITES.items():
