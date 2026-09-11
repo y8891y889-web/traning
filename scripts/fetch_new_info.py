@@ -1,10 +1,14 @@
-"""Daily fetcher for "新着情報" (what's new) listings on Japanese government sites.
+"""Daily fetcher for "新着情報" (what's new) listings on Japanese government
+sites, plus incident/advisory news feeds from non-Japan cybersecurity
+sources: national CERTs and reputable security news outlets, vendor PSIRT
+bulletins, and state data breach notification registries.
 
 For each configured site this script:
   1. Fetches the homepage and looks for an RSS/Atom feed link in <head>.
   2. If no feed is found, looks for a navigation link whose text contains
-     "新着" and follows it, then extracts date/title/link entries with a
-     handful of generic HTML patterns (<li>, <dl>, <table> rows).
+     "新着" (or, for English-language sites, "news"/"advisor"/"alert"/etc.)
+     and follows it, then extracts date/title/link entries with a handful
+     of generic HTML patterns (<li>, <dl>, <table> rows).
   3. Compares the freshly extracted entries against the previously saved
      snapshot (data/<site>/latest.json) and records anything new.
   4. Updates data/<site>/latest.json, appends new entries to
@@ -55,6 +59,65 @@ SITES = {
     "fsa": {"name": "金融庁", "url": "https://www.fsa.go.jp/"},
 }
 
+# Non-Japan cybersecurity sources: national CERT/government advisory sites
+# plus reputable independent security news outlets. Together these cover
+# incident reports, vulnerability advisories, and countermeasure guidance
+# from outside Japan.
+SECURITY_SITES = {
+    # CISA and NCSC's own HTML advisory-listing pages are Drupal
+    # faceted-search views whose actual entries only load client-side, so
+    # the generic what's-new scraper only ever sees the filter-facet menu
+    # there; point straight at their published RSS/Atom feeds instead.
+    "cisa": {"name": "CISA(米国土安全保障省サイバーセキュリティ庁)", "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml"},
+    "ncsc_uk": {"name": "NCSC(英国国家サイバーセキュリティセンター)", "url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml"},
+    "enisa": {"name": "ENISA(EUサイバーセキュリティ機関)", "url": "https://www.enisa.europa.eu/news"},
+    "cyber_gov_au": {"name": "ACSC(豪州サイバーセキュリティセンター)", "url": "https://www.cyber.gov.au/"},
+    "cccs_ca": {"name": "CCCS(カナダサイバーセキュリティセンター)", "url": "https://www.cyber.gc.ca/en/"},
+    "sans_isc": {"name": "SANS Internet Storm Center", "url": "https://isc.sans.edu/"},
+    "krebsonsecurity": {"name": "Krebs on Security", "url": "https://krebsonsecurity.com/"},
+    "thehackernews": {"name": "The Hacker News", "url": "https://thehackernews.com/"},
+    "bleepingcomputer": {"name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/"},
+}
+
+# Vendor PSIRT (Product Security Incident Response Team) blogs / bulletin
+# pages: official first-party vulnerability and patch advisories, straight
+# from the source rather than filtered through third-party reporting.
+VENDOR_SITES = {
+    "msrc": {"name": "Microsoft Security Response Center", "url": "https://msrc.microsoft.com/blog/feed"},
+    # security.googleblog.com doesn't advertise its feed via a <link
+    # rel="alternate"> tag; use Blogger's standard feed path instead.
+    "google_security_blog": {"name": "Google Security Blog", "url": "https://security.googleblog.com/feeds/posts/default"},
+    "cisco_talos": {"name": "Cisco Talos", "url": "https://blog.talosintelligence.com/"},
+    "adobe_psirt": {"name": "Adobe Security Bulletins", "url": "https://helpx.adobe.com/security.html"},
+    "oracle_security": {"name": "Oracle Security Alerts", "url": "https://www.oracle.com/security-alerts/"},
+    "aws_security": {"name": "AWS Security Bulletins", "url": "https://aws.amazon.com/security/security-bulletins/"},
+}
+
+# NOTE: SEC EDGAR per-company 8-K filing feeds (material cybersecurity
+# incidents must be disclosed via Item 1.05 within 4 business days) were
+# tried here and removed. Two separate live runs from GitHub Actions got a
+# 403 on every single company, with and without a compliant identifying
+# User-Agent (SEC's own fair-access policy requires one:
+# https://www.sec.gov/os/accessing-edgar-data) -- this points to SEC's WAF
+# blocking the runner's cloud IP range outright rather than a fixable
+# request-shape issue, so this source can't work from this environment.
+
+# State-run public data breach notification registries. Companies are
+# legally required to notify these regulators of breaches affecting that
+# state's residents, so this is another disclosure channel independent of
+# a company's own press releases.
+BREACH_NOTICE_SITES = {
+    "ca_ag_databreach": {
+        "name": "カリフォルニア州司法長官 データ侵害通知一覧",
+        "url": "https://oag.ca.gov/privacy/databreach/list",
+        # This page's own nav has an unrelated "Alerts" link that the
+        # what's-new hunt would otherwise wander into (a general consumer
+        # alerts feed, not breach notices) before ever trying this exact
+        # page's own content.
+        "direct": True,
+    },
+}
+
 DATE_RE = re.compile(r"(20\d{2})[年./-](\d{1,2})[月./-](\d{1,2})日?")
 # Japanese era (元号) dates, e.g. "令和8年8月27日". First year of an era is
 # "元年" instead of "1年", hence the (\d{1,2}|元) alternation.
@@ -62,6 +125,33 @@ ERA_STARTS = {"令和": 2018, "平成": 1988, "昭和": 1925}
 ERA_DATE_RE = re.compile(
     r"(令和|平成|昭和)(\d{1,2}|元)年(\d{1,2})月(\d{1,2})日?"
 )
+
+# English month-name dates, e.g. "March 1, 2024" or the RFC822-ish "1 Mar
+# 2024" used on English-language CERT/news sites.
+MONTH_NAMES = {
+    "january": 1, "jan": 1,
+    "february": 2, "feb": 2,
+    "march": 3, "mar": 3,
+    "april": 4, "apr": 4,
+    "may": 5,
+    "june": 6, "jun": 6,
+    "july": 7, "jul": 7,
+    "august": 8, "aug": 8,
+    "september": 9, "sept": 9, "sep": 9,
+    "october": 10, "oct": 10,
+    "november": 11, "nov": 11,
+    "december": 12, "dec": 12,
+}
+_MONTH_ALT = "|".join(sorted(MONTH_NAMES, key=len, reverse=True))
+EN_DATE_RE_MDY = re.compile(
+    rf"\b({_MONTH_ALT})[a-z]*\.?\s+(\d{{1,2}}),?\s+(20\d{{2}})\b", re.IGNORECASE
+)
+EN_DATE_RE_DMY = re.compile(
+    rf"\b(\d{{1,2}})\s+({_MONTH_ALT})[a-z]*\.?,?\s+(20\d{{2}})\b", re.IGNORECASE
+)
+# A bare year mention (no day), e.g. "...Patch Update July 2026" -- used
+# only as a weak "this looks like real content, not a nav label" signal.
+_YEAR_MENTION_RE = re.compile(r"\b20\d{2}\b")
 
 
 @dataclass
@@ -90,7 +180,11 @@ def find_feed_url(base_url: str, soup: BeautifulSoup) -> str | None:
     return None
 
 
-WHATSNEW_LINK_PATTERNS = ["新着", "お知らせ", "ニュースリリース", "報道発表", "トピックス"]
+WHATSNEW_LINK_PATTERNS = [
+    "新着", "お知らせ", "ニュースリリース", "報道発表", "トピックス",
+    # English-language equivalents, for non-Japan CERT/news sites.
+    "advisor", "alert", "press release", "news", "latest", "blog", "update",
+]
 
 
 def find_whatsnew_urls(base_url: str, soup: BeautifulSoup) -> list[str]:
@@ -99,7 +193,7 @@ def find_whatsnew_urls(base_url: str, soup: BeautifulSoup) -> list[str]:
     seen: set[str] = set()
     all_links = soup.find_all("a", href=True)
     for pattern in WHATSNEW_LINK_PATTERNS:
-        regex = re.compile(pattern)
+        regex = re.compile(pattern, re.IGNORECASE)
         for a in all_links:
             # get_text() (not a.string, which is None for anchors with
             # nested markup like <a><span>報道発表</span></a>) so labels
@@ -129,11 +223,24 @@ def extract_date(text: str) -> str | None:
         era_year_num = 1 if era_year == "元" else int(era_year)
         y = ERA_STARTS[era] + era_year_num
         return f"{y:04d}-{int(mo):02d}-{int(d):02d}"
+    m = EN_DATE_RE_MDY.search(text)
+    if m:
+        mon, d, y = m.groups()
+        return f"{int(y):04d}-{MONTH_NAMES[mon.lower()]:02d}-{int(d):02d}"
+    m = EN_DATE_RE_DMY.search(text)
+    if m:
+        d, mon, y = m.groups()
+        return f"{int(y):04d}-{MONTH_NAMES[mon.lower()]:02d}-{int(d):02d}"
     return None
 
 
-def parse_feed(feed_url: str, base_url: str) -> list[Entry]:
-    parsed = feedparser.parse(feed_url)
+def parse_feed(content: bytes, base_url: str) -> list[Entry]:
+    """Parse already-fetched feed bytes. Feeding feedparser raw content we
+    fetched ourselves (rather than a URL for it to fetch independently)
+    keeps every HTTP request going through fetch()'s headers -- notably the
+    identifying User-Agent SEC EDGAR requires, which feedparser's own
+    built-in fetcher would not send."""
+    parsed = feedparser.parse(content)
     entries = []
     for item in parsed.entries:
         title = (item.get("title") or "").strip()
@@ -141,7 +248,14 @@ def parse_feed(feed_url: str, base_url: str) -> list[Entry]:
         if not title or not link:
             continue
         date = None
-        if item.get("published"):
+        # Prefer feedparser's own normalized struct_time: it already
+        # understands RFC822, ISO8601, and other feed date formats, which a
+        # regex over the raw string (tuned for Japanese gov date styles)
+        # would otherwise miss on English-language feeds.
+        struct = item.get("published_parsed") or item.get("updated_parsed")
+        if struct:
+            date = datetime(*struct[:6], tzinfo=timezone.utc).strftime("%Y-%m-%d")
+        elif item.get("published"):
             date = extract_date(item["published"])
         entries.append(Entry(title=title, url=urljoin(base_url, link), date=date))
     return entries
@@ -231,13 +345,44 @@ def parse_whatsnew_page(page_url: str, soup: BeautifulSoup) -> list[Entry]:
     if len(dated) >= 3:
         return dated[:200]
 
-    # No strategy found a confident dated listing; fall back to whichever
-    # produced the most entries overall.
-    return max(candidates, key=len)[:200]
+    # No strategy found a confident (>=3) dated listing. A candidate with
+    # few or no dated entries is almost always a nav/footer/facet-filter
+    # menu (common on modern JS-rendered government sites, where the real
+    # article list loads client-side and never appears in the static HTML
+    # this script sees) rather than real content -- e.g. a real page's
+    # sidebar or footer routinely contains one or two incidental dated
+    # links (an archived "2016 report" PDF, a single stray dated item)
+    # among dozens of undated nav labels. Returning the whole thing anyway
+    # would silently poison the digest with site chrome instead of failing
+    # loudly via the "extraction failed" path in main().
+    #
+    # Some genuine listings (e.g. Oracle's Critical Patch Update index)
+    # only ever put the year in a longer descriptive title ("Oracle
+    # Critical Patch Update July 2026") rather than a day-level date the
+    # regexes above can parse, so also count a long, year-mentioning title
+    # as a "dated enough" signal.
+    def looks_dated_enough(es: list[Entry]) -> int:
+        return sum(
+            1 for e in es if len(e.title) >= 15 and _YEAR_MENTION_RE.search(e.title)
+        )
+
+    fallback = max(candidates, key=len)
+    signal = dated_count(fallback) + looks_dated_enough(fallback)
+    if signal < max(3, len(fallback) // 2):
+        return []
+    return fallback[:200]
 
 
-def collect_site(site_key: str, site_url: str) -> tuple[list[Entry], str]:
-    """Returns (entries, source_url_used)."""
+def collect_site(site_key: str, site_url: str, direct: bool = False) -> tuple[list[Entry], str]:
+    """Returns (entries, source_url_used).
+
+    If `direct` is set, site_url is already the specific listing page we
+    want (not a homepage to explore from), so skip hunting for "what's
+    new"-labelled nav links: on a site with a generic nav item that
+    coincidentally matches (e.g. an "Alerts" link elsewhere on the site),
+    that hunt can wander off to an unrelated page instead of using the
+    page we were actually pointed at.
+    """
     home = fetch(site_url)
     # Use raw bytes, not .text: requests defaults to ISO-8859-1 when a
     # server's Content-Type header omits charset (common on these sites,
@@ -247,9 +392,22 @@ def collect_site(site_key: str, site_url: str) -> tuple[list[Entry], str]:
 
     feed_url = find_feed_url(site_url, soup)
     if feed_url:
-        entries = parse_feed(feed_url, site_url)
+        feed_resp = fetch(feed_url)
+        entries = parse_feed(feed_resp.content, feed_url)
         if entries:
             return entries, feed_url
+
+    # Some configured URLs are themselves already an RSS/Atom feed rather
+    # than an HTML page linking to one (e.g. SEC EDGAR's per-company
+    # "output=atom" filing list). feedparser silently returns zero entries
+    # for a non-feed response, so this is a no-op for ordinary HTML sites.
+    # Reuse the bytes already fetched above rather than fetching again.
+    direct_entries = parse_feed(home.content, site_url)
+    if direct_entries:
+        return direct_entries, site_url
+
+    if direct:
+        return parse_whatsnew_page(site_url, soup), site_url
 
     best: tuple[list[Entry], str] | None = None
     for whatsnew_url in find_whatsnew_urls(site_url, soup):
@@ -315,16 +473,25 @@ def append_history(site_key: str, new_entries: list[Entry]) -> None:
 
 def main() -> int:
     today = datetime.now(JST).strftime("%Y-%m-%d")
-    digest_lines = [f"# 官公庁 新着情報ダイジェスト {today}", ""]
+    digest_lines = [
+        f"# 新着情報ダイジェスト {today}(官公庁 / 海外セキュリティ機関・メディア / ベンダーPSIRT / データ侵害通知)",
+        "",
+    ]
     any_new = False
     exit_code = 0
 
-    for site_key, meta in SITES.items():
+    all_sites = {
+        **SITES,
+        **SECURITY_SITES,
+        **VENDOR_SITES,
+        **BREACH_NOTICE_SITES,
+    }
+    for site_key, meta in all_sites.items():
         site_name = meta["name"]
         site_url = meta["url"]
         digest_lines.append(f"## {site_name} ({site_url})")
         try:
-            entries, source_url = collect_site(site_key, site_url)
+            entries, source_url = collect_site(site_key, site_url, meta.get("direct", False))
         except Exception as exc:  # noqa: BLE001 - one site failing must not stop the rest
             digest_lines.append(f"- 取得エラー: {exc}")
             digest_lines.append("")

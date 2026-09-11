@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-09-11T11:35:15.173363+09:00",
+  "source_url": "https://www.cyber.gc.ca/en/",
+  "entries": [
+    {
+      "title": "HPE security advisory (AV26-909)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-909",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "WebPros security advisory (AV26-908)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/webpros-security-advisory-av26-908",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "Adobe security advisory (AV26-808) – Update 1",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-808",
+      "date": "2026-09-10"
+    }
+  ]
+}
