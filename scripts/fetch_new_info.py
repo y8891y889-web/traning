@@ -83,7 +83,7 @@ SECURITY_SITES = {
 # pages: official first-party vulnerability and patch advisories, straight
 # from the source rather than filtered through third-party reporting.
 VENDOR_SITES = {
-    "msrc": {"name": "Microsoft Security Response Center", "url": "https://msrc.microsoft.com/blog/feed"},
+    "msrc": {"name": "Microsoft Security Response Center", "url": "https://msrc.microsoft.com/blog/feed/"},
     # security.googleblog.com doesn't advertise its feed via a <link
     # rel="alternate"> tag; use Blogger's standard feed path instead.
     "google_security_blog": {"name": "Google Security Blog", "url": "https://security.googleblog.com/feeds/posts/default"},

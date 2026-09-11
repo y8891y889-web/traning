@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T15:53:49.529181+09:00",
+  "fetched_at": "2026-09-11T16:14:15.526661+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
     {
@@ -88,13 +88,13 @@
       "date": "2026-06-22"
     },
     {
-      "title": "Alert: NCSC issues advice following global targeting of Fortinet firewalls and VPN gateways",
-      "url": "https://www.ncsc.gov.uk/news/advice-following-global-targeting-of-fortinet-firewalls-and-vpn-gateways",
+      "title": "The 'vibe coding spectrum' approach to AI-assisted software development",
+      "url": "https://www.ncsc.gov.uk/blogs/the-vibe-coding-spectrum-approach-to-ai-assisted-software-development",
       "date": "2026-06-18"
     },
     {
-      "title": "The 'vibe coding spectrum' approach to AI-assisted software development",
-      "url": "https://www.ncsc.gov.uk/blogs/the-vibe-coding-spectrum-approach-to-ai-assisted-software-development",
+      "title": "Alert: NCSC issues advice following global targeting of Fortinet firewalls and VPN gateways",
+      "url": "https://www.ncsc.gov.uk/news/advice-following-global-targeting-of-fortinet-firewalls-and-vpn-gateways",
       "date": "2026-06-18"
     },
     {
