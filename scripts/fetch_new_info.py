@@ -83,14 +83,14 @@ SECURITY_SITES = {
 # pages: official first-party vulnerability and patch advisories, straight
 # from the source rather than filtered through third-party reporting.
 VENDOR_SITES = {
-    "msrc": {"name": "Microsoft Security Response Center", "url": "https://msrc.microsoft.com/blog/feed"},
+    "msrc": {"name": "Microsoft Security Response Center", "url": "https://msrc.microsoft.com/blog/feed/"},
     # security.googleblog.com doesn't advertise its feed via a <link
     # rel="alternate"> tag; use Blogger's standard feed path instead.
     "google_security_blog": {"name": "Google Security Blog", "url": "https://security.googleblog.com/feeds/posts/default"},
     "cisco_talos": {"name": "Cisco Talos", "url": "https://blog.talosintelligence.com/"},
     "adobe_psirt": {"name": "Adobe Security Bulletins", "url": "https://helpx.adobe.com/security.html"},
     "oracle_security": {"name": "Oracle Security Alerts", "url": "https://www.oracle.com/security-alerts/"},
-    "aws_security": {"name": "AWS Security Bulletins", "url": "https://aws.amazon.com/security/security-bulletins/"},
+    "aws_security": {"name": "AWS Security Bulletins", "url": "https://aws.amazon.com/security/security-bulletins/rss/"},
 }
 
 # NOTE: SEC EDGAR per-company 8-K filing feeds (material cybersecurity
