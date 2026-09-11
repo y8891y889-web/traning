@@ -1,0 +1,48 @@
+name: Daily FANZA/DLsite sales trend digest
+
+on:
+  schedule:
+    # 23:00 UTC = 08:00 JST -- after both sites' "daily" rankings have
+    # finalized for the previous JST day.
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-sales-trends-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch sales trends
+        run: python scripts/fetch_sales_trends.py
+
+      # A site's markup drifting shouldn't lose the other site's results;
+      # still commit whatever was successfully fetched.
+      - name: Commit and push results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/sales_trends/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: daily FANZA/DLsite sales trend update ($(date -u +%F))"
+            git push
+          fi
