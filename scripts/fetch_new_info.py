@@ -29,7 +29,7 @@ import sys
 from dataclasses import dataclass, asdict
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 
 import feedparser
 import requests
@@ -49,6 +49,13 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
 }
+# SEC's fair-access policy asks bulk/automated EDGAR users to send a
+# descriptive, non-browser User-Agent identifying the requester; a
+# browser-spoofed UA gets 403'd. See https://www.sec.gov/os/accessing-edgar-data
+SEC_HEADERS = {
+    **HEADERS,
+    "User-Agent": "traning-security-digest-bot (+https://github.com/y8891y889-web/traning)",
+}
 
 SITES = {
     "cao": {"name": "内閣府", "url": "https://www.cao.go.jp/"},
@@ -65,9 +72,13 @@ SITES = {
 # incident reports, vulnerability advisories, and countermeasure guidance
 # from outside Japan.
 SECURITY_SITES = {
-    "cisa": {"name": "CISA(米国土安全保障省サイバーセキュリティ庁)", "url": "https://www.cisa.gov/"},
-    "ncsc_uk": {"name": "NCSC(英国国家サイバーセキュリティセンター)", "url": "https://www.ncsc.gov.uk/"},
-    "enisa": {"name": "ENISA(EUサイバーセキュリティ機関)", "url": "https://www.enisa.europa.eu/"},
+    # CISA and NCSC's own HTML advisory-listing pages are Drupal
+    # faceted-search views whose actual entries only load client-side, so
+    # the generic what's-new scraper only ever sees the filter-facet menu
+    # there; point straight at their published RSS/Atom feeds instead.
+    "cisa": {"name": "CISA(米国土安全保障省サイバーセキュリティ庁)", "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml"},
+    "ncsc_uk": {"name": "NCSC(英国国家サイバーセキュリティセンター)", "url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml"},
+    "enisa": {"name": "ENISA(EUサイバーセキュリティ機関)", "url": "https://www.enisa.europa.eu/news"},
     "cyber_gov_au": {"name": "ACSC(豪州サイバーセキュリティセンター)", "url": "https://www.cyber.gov.au/"},
     "cccs_ca": {"name": "CCCS(カナダサイバーセキュリティセンター)", "url": "https://www.cyber.gc.ca/en/"},
     "sans_isc": {"name": "SANS Internet Storm Center", "url": "https://isc.sans.edu/"},
@@ -80,8 +91,10 @@ SECURITY_SITES = {
 # pages: official first-party vulnerability and patch advisories, straight
 # from the source rather than filtered through third-party reporting.
 VENDOR_SITES = {
-    "msrc": {"name": "Microsoft Security Response Center", "url": "https://msrc.microsoft.com/blog/"},
-    "google_security_blog": {"name": "Google Security Blog", "url": "https://security.googleblog.com/"},
+    "msrc": {"name": "Microsoft Security Response Center", "url": "https://msrc.microsoft.com/blog/feed"},
+    # security.googleblog.com doesn't advertise its feed via a <link
+    # rel="alternate"> tag, but links to it directly from the page body.
+    "google_security_blog": {"name": "Google Security Blog", "url": "https://security.googleblog.com/security/rss/"},
     "cisco_talos": {"name": "Cisco Talos", "url": "https://blog.talosintelligence.com/"},
     "adobe_psirt": {"name": "Adobe Security Bulletins", "url": "https://helpx.adobe.com/security.html"},
     "oracle_security": {"name": "Oracle Security Alerts", "url": "https://www.oracle.com/security-alerts/"},
@@ -125,6 +138,11 @@ BREACH_NOTICE_SITES = {
     "ca_ag_databreach": {
         "name": "カリフォルニア州司法長官 データ侵害通知一覧",
         "url": "https://oag.ca.gov/privacy/databreach/list",
+        # This page's own nav has an unrelated "Alerts" link that the
+        # what's-new hunt would otherwise wander into (a general consumer
+        # alerts feed, not breach notices) before ever trying this exact
+        # page's own content.
+        "direct": True,
     },
 }
 
@@ -159,6 +177,9 @@ EN_DATE_RE_MDY = re.compile(
 EN_DATE_RE_DMY = re.compile(
     rf"\b(\d{{1,2}})\s+({_MONTH_ALT})[a-z]*\.?,?\s+(20\d{{2}})\b", re.IGNORECASE
 )
+# A bare year mention (no day), e.g. "...Patch Update July 2026" -- used
+# only as a weak "this looks like real content, not a nav label" signal.
+_YEAR_MENTION_RE = re.compile(r"\b20\d{2}\b")
 
 
 @dataclass
@@ -172,7 +193,8 @@ class Entry:
 
 
 def fetch(url: str) -> requests.Response:
-    resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+    headers = SEC_HEADERS if urlparse(url).netloc.endswith("sec.gov") else HEADERS
+    resp = requests.get(url, headers=headers, timeout=TIMEOUT)
     resp.raise_for_status()
     return resp
 
@@ -241,8 +263,13 @@ def extract_date(text: str) -> str | None:
     return None
 
 
-def parse_feed(feed_url: str, base_url: str) -> list[Entry]:
-    parsed = feedparser.parse(feed_url)
+def parse_feed(content: bytes, base_url: str) -> list[Entry]:
+    """Parse already-fetched feed bytes. Feeding feedparser raw content we
+    fetched ourselves (rather than a URL for it to fetch independently)
+    keeps every HTTP request going through fetch()'s headers -- notably the
+    identifying User-Agent SEC EDGAR requires, which feedparser's own
+    built-in fetcher would not send."""
+    parsed = feedparser.parse(content)
     entries = []
     for item in parsed.entries:
         title = (item.get("title") or "").strip()
@@ -347,13 +374,39 @@ def parse_whatsnew_page(page_url: str, soup: BeautifulSoup) -> list[Entry]:
     if len(dated) >= 3:
         return dated[:200]
 
-    # No strategy found a confident dated listing; fall back to whichever
-    # produced the most entries overall.
-    return max(candidates, key=len)[:200]
+    # No strategy found a confident (>=3) dated listing. A candidate with
+    # zero dated entries is almost always a nav/footer/facet-filter menu
+    # (common on modern JS-rendered government sites, where the real
+    # article list loads client-side and never appears in the static HTML
+    # this script sees) rather than real content -- e.g. a lone "2026"
+    # year-filter link. Returning it anyway would silently poison the
+    # digest with site chrome instead of failing loudly via the
+    # "extraction failed" path in main(). But some genuine listings (e.g.
+    # Oracle's Critical Patch Update index) only ever put the year in a
+    # longer descriptive title ("Oracle Critical Patch Update July 2026")
+    # rather than a day-level date the regexes above can parse, so treat a
+    # long, year-mentioning title as "dated enough" too.
+    def looks_dated_enough(es: list[Entry]) -> int:
+        return sum(
+            1 for e in es if len(e.title) >= 15 and _YEAR_MENTION_RE.search(e.title)
+        )
+
+    fallback = max(candidates, key=len)
+    if dated_count(fallback) == 0 and looks_dated_enough(fallback) == 0:
+        return []
+    return fallback[:200]
 
 
-def collect_site(site_key: str, site_url: str) -> tuple[list[Entry], str]:
-    """Returns (entries, source_url_used)."""
+def collect_site(site_key: str, site_url: str, direct: bool = False) -> tuple[list[Entry], str]:
+    """Returns (entries, source_url_used).
+
+    If `direct` is set, site_url is already the specific listing page we
+    want (not a homepage to explore from), so skip hunting for "what's
+    new"-labelled nav links: on a site with a generic nav item that
+    coincidentally matches (e.g. an "Alerts" link elsewhere on the site),
+    that hunt can wander off to an unrelated page instead of using the
+    page we were actually pointed at.
+    """
     home = fetch(site_url)
     # Use raw bytes, not .text: requests defaults to ISO-8859-1 when a
     # server's Content-Type header omits charset (common on these sites,
@@ -363,7 +416,8 @@ def collect_site(site_key: str, site_url: str) -> tuple[list[Entry], str]:
 
     feed_url = find_feed_url(site_url, soup)
     if feed_url:
-        entries = parse_feed(feed_url, site_url)
+        feed_resp = fetch(feed_url)
+        entries = parse_feed(feed_resp.content, feed_url)
         if entries:
             return entries, feed_url
 
@@ -371,9 +425,13 @@ def collect_site(site_key: str, site_url: str) -> tuple[list[Entry], str]:
     # than an HTML page linking to one (e.g. SEC EDGAR's per-company
     # "output=atom" filing list). feedparser silently returns zero entries
     # for a non-feed response, so this is a no-op for ordinary HTML sites.
-    direct_entries = parse_feed(site_url, site_url)
+    # Reuse the bytes already fetched above rather than fetching again.
+    direct_entries = parse_feed(home.content, site_url)
     if direct_entries:
         return direct_entries, site_url
+
+    if direct:
+        return parse_whatsnew_page(site_url, soup), site_url
 
     best: tuple[list[Entry], str] | None = None
     for whatsnew_url in find_whatsnew_urls(site_url, soup):
@@ -458,7 +516,7 @@ def main() -> int:
         site_url = meta["url"]
         digest_lines.append(f"## {site_name} ({site_url})")
         try:
-            entries, source_url = collect_site(site_key, site_url)
+            entries, source_url = collect_site(site_key, site_url, meta.get("direct", False))
         except Exception as exc:  # noqa: BLE001 - one site failing must not stop the rest
             digest_lines.append(f"- 取得エラー: {exc}")
             digest_lines.append("")
