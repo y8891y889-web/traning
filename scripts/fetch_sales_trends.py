@@ -19,21 +19,29 @@ For each configured adult-doujin marketplace this script:
      items, saves the day's snapshot to
      data/sales_trends/<site>/latest.json, upserts it into
      data/sales_trends/<site>/history.jsonl (one record per calendar
-     date), and writes a same-day trend digest under
+     date, including that day's item list so later runs can look back
+     across days), and writes a same-day trend digest under
      data/sales_trends/digest/<YYYY-MM-DD>.md comparing today's genre
      counts against the most recent previous day on record.
+  5. Also computes this pipeline's own "独自ランキング" (custom ranking):
+     rank-weighted points per appearance in a day's top N, summed across
+     a trailing window (compute_custom_ranking()), saved to
+     data/sales_trends/<site>/custom_ranking_7d.json and included in the
+     digest. This is independent of -- and complementary to -- each
+     site's own daily ranking: a title that keeps reappearing near the
+     top outscores one that spiked once, which a single day's snapshot
+     can't distinguish.
 
-IMPORTANT CAVEAT: this script was written without the ability to fetch
-either site from the authoring environment (both domains are blocked by
-that environment's outbound network policy), so the URL grammar and genre
-extraction heuristics below are best-effort, based on each site's
-long-stable URL conventions rather than a live inspection of current page
-HTML. The first run (e.g. via workflow_dispatch) should be checked for the
-"抽出に失敗しました" warning path below; if either site's markup has
-drifted enough to break the detail-URL-pattern matching, the RANKING_URL /
-DETAIL_URL_MARKER / genre marker constants are the place to adjust, the
-same way earlier commits in this repo iterated on gov-site "what's new"
-selectors.
+NOTE ON VERIFICATION: this script was written without the ability to
+fetch either site from the authoring environment (both domains were
+blocked by that environment's outbound network policy), so it was first
+validated live via a GitHub Actions workflow_dispatch run. DLsite worked
+on the first try. FANZA doujin's ranking page needed its extraction
+config adjusted after inspecting the real HTML via a temporary debug
+workflow (see git history around the fix) -- if either site's markup
+drifts again in the future, the RANKING_URL / DETAIL_URL_MARKER / genre
+marker constants below are the place to adjust, the same iterative
+process this repo already used for gov-site "what's new" selectors.
 
 This only collects ranking metadata (rank, title, circle/maker, genre
 tags, URL) for aggregate trend analysis -- never any paid or explicit
@@ -268,13 +276,17 @@ def save_day(
     )
 
     # One record per calendar date (upsert, not append): a same-day rerun
-    # reflects the ranking's current state rather than duplicating it.
+    # reflects the ranking's current state rather than duplicating it. The
+    # per-item list (not just genre_counts) is kept here too, capped to
+    # TOP_N/day, so compute_custom_ranking() can look back across several
+    # days without re-fetching anything.
     records = load_history(site_key)
     records[date] = {
         "date": date,
         "source_url": source_url,
         "item_count": len(items),
         "genre_counts": genre_counts,
+        "items": [asdict(i) for i in items],
     }
     history_path = site_dir / "history.jsonl"
     with history_path.open("w", encoding="utf-8") as f:
@@ -304,6 +316,56 @@ def build_genre_trend_lines(
             trend = f"{diff:+d}" if diff != 0 else "±0"
             lines.append(f"{i}. {genre} — {count}件 ({trend})")
     return lines
+
+
+def compute_custom_ranking(
+    records: dict[str, dict], window_days: int = 7, top_n: int = 20
+) -> list[dict]:
+    """This pipeline's own accumulated ranking, independent of any single
+    day's official FANZA/DLsite listing: each appearance in a day's top-N
+    scores rank-weighted points (1st place = TOP_N points, last place = 1
+    point), summed across the trailing `window_days`. A work that keeps
+    reappearing near the top outscores one that spiked once, which a raw
+    "today's ranking" snapshot can't tell apart."""
+    dates = sorted(records.keys())[-window_days:]
+    scores: dict[str, dict] = {}
+    for date in dates:
+        for item in records[date].get("items", []):
+            url = item["url"]
+            rank = item["rank"]
+            entry = scores.setdefault(
+                url,
+                {"url": url, "title": item["title"], "score": 0, "appearances": 0,
+                 "best_rank": rank, "genres": set()},
+            )
+            entry["title"] = item["title"]  # keep most-recently-seen title
+            entry["score"] += max(0, TOP_N - rank + 1)
+            entry["appearances"] += 1
+            entry["best_rank"] = min(entry["best_rank"], rank)
+            entry["genres"].update(item.get("genres") or [])
+
+    ranked = sorted(scores.values(), key=lambda e: (-e["score"], e["best_rank"]))
+    return [
+        {
+            "url": e["url"],
+            "title": e["title"],
+            "score": e["score"],
+            "appearances": e["appearances"],
+            "best_rank": e["best_rank"],
+            "genres": sorted(e["genres"]),
+        }
+        for e in ranked[:top_n]
+    ]
+
+
+def save_custom_ranking(site_key: str, window_days: int, ranking: list[dict]) -> None:
+    path = DATA_DIR / site_key / f"custom_ranking_{window_days}d.json"
+    payload = {
+        "generated_at": datetime.now(JST).isoformat(),
+        "window_days": window_days,
+        "ranking": ranking,
+    }
+    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def main() -> int:
@@ -347,11 +409,29 @@ def main() -> int:
             digest_lines.append("- ジャンル別出現数(上位、前回比):")
             digest_lines.extend(build_genre_trend_lines(genre_counts, prev_counts))
         digest_lines.append("")
-        digest_lines.append("**売上上位(抜粋)**")
+        digest_lines.append("**売上上位(公式ランキング、抜粋)**")
         for item in items[:10]:
             genre_part = f" [{', '.join(item.genres)}]" if item.genres else ""
             digest_lines.append(f"{item.rank}. [{item.title}]({item.url}){genre_part}")
         digest_lines.append("")
+
+        custom_ranking = compute_custom_ranking(records, window_days=7, top_n=20)
+        save_custom_ranking(site_key, 7, custom_ranking)
+        window_dates = sorted(records.keys())[-7:]
+        digest_lines.append(
+            f"**独自累計ランキング(直近{len(window_dates)}日分、公式ランキングとは別に本パイプラインが算出)**"
+        )
+        if custom_ranking:
+            for i, e in enumerate(custom_ranking[:10], start=1):
+                genre_part = f" [{', '.join(e['genres'][:5])}]" if e["genres"] else ""
+                digest_lines.append(
+                    f"{i}. [{e['title']}]({e['url']}) — "
+                    f"score={e['score']} / 出現{e['appearances']}日 / 最高{e['best_rank']}位{genre_part}"
+                )
+        else:
+            digest_lines.append("- (データ蓄積中: まだ算出できる履歴がありません)")
+        digest_lines.append("")
+
         digest_lines.append(f"- (取得元: {source_url})")
         digest_lines.append("")
         print(f"[{site_key}] {len(items)} items, {len(genre_counts)} genres from {source_url}")
