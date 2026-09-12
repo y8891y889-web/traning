@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-12T09:01:54.010445+09:00",
+  "fetched_at": "2026-09-13T08:53:41.530047+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+      "date": "2026-09-12"
+    },
     {
       "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
@@ -70,11 +75,6 @@
     {
       "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
       "url": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
       "date": "2026-09-10"
     }
   ]

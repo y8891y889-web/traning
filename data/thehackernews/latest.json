@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-09-12T09:01:53.526961+09:00",
+  "fetched_at": "2026-09-13T08:53:40.772539+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+      "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
+      "date": "2026-09-12"
+    },
+    {
+      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+      "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+      "date": "2026-09-12"
+    },
     {
       "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
       "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
@@ -236,21 +251,6 @@
       "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
       "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
       "date": "2026-09-07"
-    },
-    {
-      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
-      "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
-      "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-      "date": "2026-09-06"
     }
   ]
 }
