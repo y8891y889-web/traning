@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-09-11T16:14:43.225450+09:00",
+  "fetched_at": "2026-09-12T09:01:52.506983+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "HPE security advisory (AV26-909)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-909",
-      "date": "2026-09-10"
+      "title": "GitLab security advisory (AV26-917)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-917",
+      "date": "2026-09-11"
     },
     {
-      "title": "WebPros security advisory (AV26-908)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/webpros-security-advisory-av26-908",
-      "date": "2026-09-10"
+      "title": "JFrog security advisory (AV26-867) – Update 2",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/jfrog-security-advisory-av26-867",
+      "date": "2026-09-11"
     },
     {
-      "title": "Adobe security advisory (AV26-808) – Update 1",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-808",
-      "date": "2026-09-10"
+      "title": "n8n security advisory (AV26-916)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-916",
+      "date": "2026-09-11"
     }
   ]
 }

@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-09-11T16:14:10.323081+09:00",
+  "fetched_at": "2026-09-12T09:01:19.392152+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "2026年度夏季の電力需給の見通し（9月11日公表）",
+      "url": "https://www.enecho.meti.go.jp/category/electricity_and_gas/electricity_measures/pdf/260911_jyukyu.pdf",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "バイオものづくりの最先端を共有！「関西バイオものづくりオンライン月例発表会」次回は9月17日に産業技術総合研究所関西センターの日野氏、王子ホールディングスバイオケミカル研究センター様が御登壇！",
+      "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
+      "date": "2026-09-11"
+    },
     {
       "title": "10月9日（金曜日）新潟県燕三条で製品安全セミナーを開催します",
       "url": "https://www.meti.go.jp/product_safety/ps-award/3-consumer/r8_explanatory_2.html",
@@ -66,11 +76,6 @@
       "title": "2026年度夏季の電力需給の見通し（8月14日公表）",
       "url": "https://www.enecho.meti.go.jp/category/electricity_and_gas/electricity_measures/pdf/260814_jyukyu.pdf",
       "date": "2026-08-14"
-    },
-    {
-      "title": "バイオものづくりの最先端を共有！「関西バイオものづくりオンライン月例発表会」次回は8月20日に地球環境産業技術研究機構の乾氏、ファーメランタ中川氏が御登壇！",
-      "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/biomonodukuri_monthly_session_R8fy_eventinfomation.html",
-      "date": "2026-08-10"
     },
     {
       "title": "2026年度夏季の電力需給の見通し（8月7日公表）",
@@ -281,16 +286,6 @@
       "title": "物流効率化法における特定荷主の届出の提出方法等に係る説明会の開催について",
       "url": "https://www.meti.go.jp/policy/economy/distribution/butsuryu-kouritsuka.html",
       "date": "2026-04-15"
-    },
-    {
-      "title": "プラスあんしんの応募受付を開始／応募企業説明会を開催します",
-      "url": "https://www.meti.go.jp/product_safety/ps-award/risksystem/news/news_16.html",
-      "date": "2026-04-14"
-    },
-    {
-      "title": "令和8年緑化推進運動功労者内閣総理大臣表彰の受賞者について",
-      "url": "https://www.meti.go.jp/policy/local_economy/koujourittihou/ryokukahyousyou/r8_ryokukasuishinundokourousya.html",
-      "date": "2026-04-13"
     }
   ]
 }

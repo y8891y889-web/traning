@@ -1,7 +1,42 @@
 {
-  "fetched_at": "2026-09-11T16:14:15.122239+09:00",
+  "fetched_at": "2026-09-12T09:01:26.736251+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "令和８年熊本地震関連情報に関する特設ページを更新しました。",
+      "url": "https://www.fsa.go.jp/ordinary/earthquake202607/press.html",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "無登録で貸金業を行っている者等（Bit Hills Inc.）に対する警告書の発出について公表しました。",
+      "url": "https://www.fsa.go.jp/ordinary/chuui/bithills_inc._keikokushiryo.pdf",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "「保険会社向けの総合的な監督指針」の一部改正（案）について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/hoken/20260911/20260911.html",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "令和８年熊本地震による金融機関等の報告の提出期限等に係る措置について掲載しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260911/20260911.html",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "「金融サービス利用者相談室」における相談等の受付状況等（期間：令和８年４月１日～同年６月30日）について公表しました。",
+      "url": "https://www.fsa.go.jp/soudan/2026soudan04-06/2026_04-06.html",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "BIS決済・市場インフラ委員会及び証券監督者国際機構による市中協議文書「サイバーレジリエンス実用ツール集：FMIのための実務的考慮事項」及び「『金融市場インフラ（FMI）のサードパーティ業者への依存：課題およびリスク』に関するディスカッション・ペーパー」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/ios/20260911/20260911.html",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "2027年版EDINETタクソノミ（案）について公表しました。",
+      "url": "https://www.fsa.go.jp/search/20260911.html",
+      "date": "2026-09-11"
+    },
     {
       "title": "企業会計審議会第２回サステナビリティ情報保証部会議事録について掲載しました。",
       "url": "https://www.fsa.go.jp/singi/singi_kigyou/gijiroku/hoshou/20260703.html",
@@ -40,11 +75,6 @@
     {
       "title": "「令和7年度政策評価実績評価書」等について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20260904/01.html",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "令和８年熊本地震関連情報に関する特設ページを更新しました。",
-      "url": "https://www.fsa.go.jp/ordinary/earthquake202607/press.html",
       "date": "2026-09-04"
     },
     {
@@ -971,36 +1001,6 @@
       "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年６月16日）について掲載しました。",
       "url": "https://www.fsa.go.jp/common/conference/minister/2026a/20260616-1.html",
       "date": "2026-06-19"
-    },
-    {
-      "title": "「サステナブルファイナンス有識者会議」（第30回）の開催について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r7/singi/20260617.html",
-      "date": "2026-06-17"
-    },
-    {
-      "title": "北洋銀行に対する信託兼営認可について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r7/ginkou/202606kenei.html",
-      "date": "2026-06-17"
-    },
-    {
-      "title": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in千葉」の開催について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r7/sonota/20260616/20260616.html",
-      "date": "2026-06-16"
-    },
-    {
-      "title": "預金口座の不正利用に係る情報提供件数等について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r7/ginkou/20260615.html",
-      "date": "2026-06-16"
-    },
-    {
-      "title": "「ベンチャーキャピタルに関する有識者会議」（第４回）議事次第について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/vc/siryou/20260618.html",
-      "date": "2026-06-15"
-    },
-    {
-      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年６月12日）について掲載しました。",
-      "url": "https://www.fsa.go.jp/common/conference/minister/2026a/20260612-1.html",
-      "date": "2026-06-15"
     }
   ]
 }
