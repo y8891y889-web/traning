@@ -478,7 +478,7 @@ def main() -> int:
         "",
     ]
     any_new = False
-    exit_code = 0
+    error_count = 0
 
     all_sites = {
         **SITES,
@@ -496,7 +496,7 @@ def main() -> int:
             digest_lines.append(f"- 取得エラー: {exc}")
             digest_lines.append("")
             print(f"[{site_key}] ERROR: {exc}", file=sys.stderr)
-            exit_code = 1
+            error_count += 1
             continue
 
         if not entries:
@@ -531,7 +531,15 @@ def main() -> int:
     if not any_new:
         print("No new entries found across any site today.")
 
-    return exit_code
+    # A handful of sites failing (WAF blocks, timeouts, sites that need
+    # re-tuning) is expected and already recorded per-site in the digest
+    # above -- that's the right place to surface it, not a red CI badge
+    # every single day. Only fail the whole run if every site errored,
+    # which would indicate something systemic (e.g. broken code) rather
+    # than an individual site's normal flakiness.
+    if error_count > 0 and error_count == len(all_sites):
+        return 1
+    return 0
 
 
 if __name__ == "__main__":
