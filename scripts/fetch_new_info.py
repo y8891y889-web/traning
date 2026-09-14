@@ -127,6 +127,50 @@ BREACH_NOTICE_SITES = {
     },
 }
 
+# Watchlist of individual stocks: (TSE ticker code, company name, IR
+# homepage URL). Used to build both the TDnet per-company disclosure feed
+# and the individual IR news page below.
+WATCHLIST = [
+    ("9433", "KDDI", "https://news.kddi.com/kddi/corporate/"),
+    ("8233", "高島屋", "https://www.takashimaya.co.jp/corporate/ir/"),
+    ("8593", "三菱HCキャピタル", "https://www.mitsubishi-hc-capital.com/ir/"),
+    ("7203", "トヨタ自動車", "https://global.toyota/jp/ir/"),
+    ("8766", "東京海上ホールディングス", "https://www.tokiomarinehd.com/ir/"),
+    ("8058", "三菱商事", "https://www.mitsubishicorp.com/jp/ja/ir/"),
+    ("8015", "豊田通商", "https://www.toyota-tsusho.com/ir/"),
+    ("8591", "オリックス", "https://www.orix.co.jp/grp/ir/"),
+    ("8316", "三井住友フィナンシャルグループ", "https://www.smfg.co.jp/investor/"),
+    ("1605", "INPEX", "https://www.inpex.co.jp/ir/"),
+    ("5020", "ENEOSホールディングス", "https://www.hd.eneos.co.jp/ir/"),
+    ("8306", "三菱UFJフィナンシャル・グループ", "https://www.mufg.jp/ir/"),
+    ("9432", "日本電信電話(NTT)", "https://www.ntt.co.jp/ir/"),
+]
+
+# TDnet (適時開示情報閲覧サービス) is the Tokyo Stock Exchange's official
+# real-time disclosure system -- material events (earnings, M&A, etc.) that
+# every listed company is legally required to file. Its own site is a
+# session/form-driven search UI this simple scraper can't drive, so this
+# uses a long-standing community JSON mirror of the same TDnet data,
+# queryable by ticker code and date: https://webapi.yanoshin.jp/webapi/tdnet
+# NOTE: unverified against a live run as of when this was written -- if the
+# JSON schema has drifted, this fails gracefully (empty result), same as
+# any other site here.
+TDNET_SITES = {
+    f"tdnet_{code}": {
+        "name": f"{name}(適時開示 TDnet)",
+        "url": f"https://webapi.yanoshin.jp/webapi/tdnet/list/{code}.json?limit=30",
+    }
+    for code, name, _ir_url in WATCHLIST
+}
+
+# Individual company IR ("投資家情報") news pages for the specific stocks
+# being watched, reusing the same feed/what's-new discovery pipeline as
+# the government sites above.
+IR_SITES = {
+    f"ir_{code}": {"name": f"{name}(IR新着)", "url": ir_url}
+    for code, name, ir_url in WATCHLIST
+}
+
 DATE_RE = re.compile(r"(20\d{2})[年./-](\d{1,2})[月./-](\d{1,2})日?")
 # Japanese era (元号) dates, e.g. "令和8年8月27日". First year of an era is
 # "元年" instead of "1年", hence the (\d{1,2}|元) alternation.
@@ -267,6 +311,35 @@ def parse_feed(content: bytes, base_url: str) -> list[Entry]:
         elif item.get("published"):
             date = extract_date(item["published"])
         entries.append(Entry(title=title, url=urljoin(base_url, link), date=date))
+    return entries
+
+
+def parse_tdnet_json(content: bytes, base_url: str) -> list[Entry]:
+    """Parse a webapi.yanoshin.jp TDnet listing response. Each item is
+    expected as {"Tdnet": {"title": ..., "document_url": ..., "pubdate":
+    ...}}; any other shape (including plain HTML from every non-TDnet
+    site, which is what most callers actually pass here) just yields no
+    entries rather than raising, so this is safe to try unconditionally."""
+    try:
+        data = json.loads(content)
+    except (json.JSONDecodeError, UnicodeDecodeError):
+        return []
+    if not isinstance(data, list):
+        return []
+    entries = []
+    for item in data:
+        if not isinstance(item, dict):
+            continue
+        td = item.get("Tdnet")
+        if not isinstance(td, dict):
+            continue
+        title = (td.get("title") or "").strip()
+        url = td.get("document_url") or ""
+        if not title or not url:
+            continue
+        pubdate = td.get("pubdate") or ""
+        date = pubdate[:10] if len(pubdate) >= 10 else None
+        entries.append(Entry(title=title, url=urljoin(base_url, url), date=date))
     return entries
 
 
@@ -415,6 +488,13 @@ def collect_site(site_key: str, site_url: str, direct: bool = False) -> tuple[li
     if direct_entries:
         return direct_entries, site_url
 
+    # Some configured URLs are a JSON API response (e.g. the TDnet mirror)
+    # rather than HTML or a feed. json.loads harmlessly fails on ordinary
+    # HTML, so this is a no-op for every other site.
+    json_entries = parse_tdnet_json(home.content, site_url)
+    if json_entries:
+        return json_entries, site_url
+
     if direct:
         return parse_whatsnew_page(site_url, soup), site_url
 
@@ -494,6 +574,8 @@ def main() -> int:
         **SECURITY_SITES,
         **VENDOR_SITES,
         **BREACH_NOTICE_SITES,
+        **TDNET_SITES,
+        **IR_SITES,
     }
     for site_key, meta in all_sites.items():
         site_name = meta["name"]
