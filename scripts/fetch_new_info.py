@@ -58,14 +58,14 @@ SITES = {
     "soumu": {"name": "総務省(統計)", "url": "https://www.soumu.go.jp/toukei/"},
     "fsa": {"name": "金融庁", "url": "https://www.fsa.go.jp/"},
     "enecho": {"name": "資源エネルギー庁", "url": "https://www.enecho.meti.go.jp/"},
-    "boj": {"name": "日本銀行", "url": "https://www.boj.or.jp/"},
+    "boj": {"name": "日本銀行", "url": "https://www.boj.or.jp/whatsnew/index.htm"},
     "npa": {"name": "警察庁", "url": "https://www.npa.go.jp/"},
     "mext": {"name": "文部科学省", "url": "https://www.mext.go.jp/"},
     "jogmec": {"name": "JOGMEC(エネルギー・金属鉱物資源機構)", "url": "https://www.jogmec.go.jp/"},
     "maff": {"name": "農林水産省", "url": "https://www.maff.go.jp/"},
     "mlit": {"name": "国土交通省", "url": "https://www.mlit.go.jp/"},
-    "env": {"name": "環境省", "url": "https://www.env.go.jp/"},
-    "mod": {"name": "防衛省", "url": "https://www.mod.go.jp/"},
+    "env": {"name": "環境省", "url": "https://www.env.go.jp/press/index.html"},
+    "mod": {"name": "防衛省", "url": "https://www.mod.go.jp/j/press/news/index.html"},
 }
 
 # Non-Japan cybersecurity sources: national CERT/government advisory sites
