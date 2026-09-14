@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-13T12:04:01.123203+09:00",
+  "fetched_at": "2026-09-14T09:01:20.652888+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+      "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+      "date": "2026-09-13"
+    },
     {
       "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
       "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
@@ -245,11 +250,6 @@
     {
       "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
       "url": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
-      "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
       "date": "2026-09-07"
     }
   ]

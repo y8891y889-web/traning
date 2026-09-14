@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-13T12:04:01.992098+09:00",
+  "fetched_at": "2026-09-14T09:01:21.326059+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+      "date": "2026-09-13"
+    },
     {
       "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
       "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
@@ -70,11 +75,6 @@
     {
       "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
       "date": "2026-09-10"
     }
   ]
