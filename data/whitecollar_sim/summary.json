@@ -1,0 +1,111 @@
+{
+  "assumptions": {
+    "segments": {
+      "management": {
+        "label_ja": "管理的職業",
+        "w0": 120,
+        "tau": 0.15,
+        "rho": 0.025
+      },
+      "professional": {
+        "label_ja": "専門的・技術的職業",
+        "w0": 1290,
+        "tau": 0.25,
+        "rho": 0.03
+      },
+      "clerical": {
+        "label_ja": "事務従事者",
+        "w0": 1230,
+        "tau": 0.45,
+        "rho": 0.035
+      },
+      "sales": {
+        "label_ja": "販売従事者",
+        "w0": 850,
+        "tau": 0.2,
+        "rho": 0.04
+      }
+    },
+    "scenarios": {
+      "conservative": {
+        "label_ja": "慎重シナリオ",
+        "t_mid": 15.0,
+        "k": 0.3,
+        "r0": 0.75,
+        "r_end": 0.55,
+        "rigidity": 0.05
+      },
+      "base": {
+        "label_ja": "標準シナリオ",
+        "t_mid": 10.0,
+        "k": 0.4,
+        "r0": 0.65,
+        "r_end": 0.4,
+        "rigidity": 0.15
+      },
+      "aggressive": {
+        "label_ja": "急進シナリオ",
+        "t_mid": 6.0,
+        "k": 0.5,
+        "r0": 0.55,
+        "r_end": 0.25,
+        "rigidity": 0.35
+      }
+    },
+    "start_year": 2025,
+    "years_simulated": 21
+  },
+  "results": [
+    {
+      "scenario": "conservative",
+      "label_ja": "慎重シナリオ",
+      "total_2025_manyoku": 3490,
+      "total_2030_manyoku": 3458.5,
+      "total_2035_manyoku": 3309.1,
+      "total_2040_manyoku": 2883.1,
+      "total_2045_manyoku": 2396.2,
+      "cagr_2025_2030_pct": -0.18,
+      "cagr_2025_2035_pct": -0.53,
+      "cagr_2025_2045_pct": -1.86,
+      "year_reach_minus10pct": 2037.2829439170978,
+      "year_reach_minus20pct": 2040.8944861422294,
+      "year_reach_minus30pct": 2044.4957413591362,
+      "peak_annual_decline_pct": 3.73,
+      "peak_annual_decline_year": 2045
+    },
+    {
+      "scenario": "base",
+      "label_ja": "標準シナリオ",
+      "total_2025_manyoku": 3490,
+      "total_2030_manyoku": 3399.4,
+      "total_2035_manyoku": 2969.2,
+      "total_2040_manyoku": 2368.6,
+      "total_2045_manyoku": 1812.4,
+      "cagr_2025_2030_pct": -0.52,
+      "cagr_2025_2035_pct": -1.6,
+      "cagr_2025_2045_pct": -3.22,
+      "year_reach_minus10pct": 2033.432817489668,
+      "year_reach_minus20pct": 2036.4968755074995,
+      "year_reach_minus30pct": 2039.382274246736,
+      "peak_annual_decline_pct": 5.39,
+      "peak_annual_decline_year": 2045
+    },
+    {
+      "scenario": "aggressive",
+      "label_ja": "急進シナリオ",
+      "total_2025_manyoku": 3490,
+      "total_2030_manyoku": 3169.0,
+      "total_2035_manyoku": 2352.2,
+      "total_2040_manyoku": 1532.0,
+      "total_2045_manyoku": 957.1,
+      "cagr_2025_2030_pct": -1.91,
+      "cagr_2025_2035_pct": -3.87,
+      "cagr_2025_2045_pct": -6.26,
+      "year_reach_minus10pct": 2030.2054967514719,
+      "year_reach_minus20pct": 2032.5210770464366,
+      "year_reach_minus30pct": 2034.4999157834084,
+      "peak_annual_decline_pct": 9.16,
+      "peak_annual_decline_year": 2045
+    }
+  ]
+}
