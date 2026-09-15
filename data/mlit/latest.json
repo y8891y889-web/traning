@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-14T09:32:30.208359+09:00",
+  "fetched_at": "2026-09-15T09:25:42.236364+09:00",
   "source_url": "https://www.mlit.go.jp/",
   "entries": [
+    {
+      "title": "道路",
+      "url": "https://www.mlit.go.jp/road/index.html",
+      "date": "2026-09-14"
+    },
     {
       "title": "総合政策",
       "url": "https://www.mlit.go.jp/sogoseisaku/index.html",
@@ -71,11 +76,6 @@
       "title": "土地・不動産・建設業",
       "url": "https://www.mlit.go.jp/totikensangyo/index.html",
       "date": "2026-09-09"
-    },
-    {
-      "title": "道路",
-      "url": "https://www.mlit.go.jp/road/index.html",
-      "date": "2026-09-08"
     },
     {
       "title": "航空",

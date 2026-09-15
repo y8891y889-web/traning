@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-09-14T09:32:18.605092+09:00",
+  "fetched_at": "2026-09-15T09:25:33.466004+09:00",
   "source_url": "https://www.enecho.meti.go.jp/notice/whatsnew/",
   "entries": [
+    {
+      "title": "公募を更新しました",
+      "url": "https://www.enecho.meti.go.jp/appli/public_offer/",
+      "date": "2026-09-14"
+    },
     {
       "title": "公募結果を更新しました",
       "url": "https://www.enecho.meti.go.jp/appli/public_offer_result/",
       "date": "2026-09-04"
-    },
-    {
-      "title": "公募を更新しました",
-      "url": "https://www.enecho.meti.go.jp/appli/public_offer/",
-      "date": "2026-09-01"
     },
     {
       "title": "ガス事業生産動態統計調査を更新しました",

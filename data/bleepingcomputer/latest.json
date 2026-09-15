@@ -1,7 +1,67 @@
 {
-  "fetched_at": "2026-09-14T09:32:59.448284+09:00",
+  "fetched_at": "2026-09-15T09:26:14.090703+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
+      "url": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+      "url": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Microsoft: September updates cause RDS failures on Windows Server",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Revolut discloses data breach exposing financial info, passports",
+      "url": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Microsoft: September updates break audio on some Windows PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
+      "date": "2026-09-14"
+    },
     {
       "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
@@ -16,66 +76,6 @@
       "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
       "date": "2026-09-11"
-    },
-    {
-      "title": "Florida confirms DMV database breached via stolen police account",
-      "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-      "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "GitLab urges users to patch max severity path traversal flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Conti ransomware gang member sentenced to 4 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "New Android malware encrypts files, steals data, and harasses victims",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "September Windows Server updates break Remote Desktop Services",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
-      "url": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
-      "date": "2026-09-10"
     }
   ]
 }

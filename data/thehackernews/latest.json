@@ -1,7 +1,47 @@
 {
-  "fetched_at": "2026-09-14T09:32:59.035078+09:00",
+  "fetched_at": "2026-09-15T09:26:13.338102+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+      "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+      "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+      "date": "2026-09-14"
+    },
     {
       "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
       "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
@@ -211,46 +251,6 @@
       "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
       "url": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
       "date": "2026-09-08"
-    },
-    {
-      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-      "url": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
-      "url": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
-      "url": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
-      "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
-      "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
-      "url": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-      "url": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-      "date": "2026-09-07"
     }
   ]
 }
