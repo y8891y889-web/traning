@@ -1,16 +1,21 @@
 {
-  "fetched_at": "2026-09-15T09:25:42.236364+09:00",
+  "fetched_at": "2026-09-16T09:05:25.806577+09:00",
   "source_url": "https://www.mlit.go.jp/",
   "entries": [
+    {
+      "title": "土地・不動産・建設業",
+      "url": "https://www.mlit.go.jp/totikensangyo/index.html",
+      "date": "2026-09-15"
+    },
     {
       "title": "道路",
       "url": "https://www.mlit.go.jp/road/index.html",
       "date": "2026-09-14"
     },
     {
-      "title": "総合政策",
-      "url": "https://www.mlit.go.jp/sogoseisaku/index.html",
-      "date": "2026-09-11"
+      "title": "金子大臣会見要旨",
+      "url": "https://www.mlit.go.jp/report/interview/daijin260915.html",
+      "date": "2026-09-15"
     },
     {
       "title": "金子大臣会見要旨",
@@ -58,11 +63,6 @@
       "date": "2026-07-28"
     },
     {
-      "title": "金子大臣会見要旨",
-      "url": "https://www.mlit.go.jp/report/interview/daijin260724.html",
-      "date": "2026-07-24"
-    },
-    {
       "title": "海事",
       "url": "https://www.mlit.go.jp/",
       "date": "2026-09-11"
@@ -73,14 +73,9 @@
       "date": "2026-09-10"
     },
     {
-      "title": "土地・不動産・建設業",
-      "url": "https://www.mlit.go.jp/totikensangyo/index.html",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "航空",
-      "url": "https://www.mlit.go.jp/koku/index.html",
-      "date": "2026-09-04"
+      "title": "総合政策",
+      "url": "https://www.mlit.go.jp/sogoseisaku/index.html",
+      "date": "2026-09-10"
     },
     {
       "title": "令和８年度医療費通知書作成等業務委託(PDF形式:150KB)",

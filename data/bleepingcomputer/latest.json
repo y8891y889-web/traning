@@ -1,7 +1,57 @@
 {
-  "fetched_at": "2026-09-15T09:26:14.090703+09:00",
+  "fetched_at": "2026-09-16T09:05:54.161493+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "BambooToken malware controls Windows and Linux systems via MQTT",
+      "url": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
+      "url": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
+      "url": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
+      "date": "2026-09-15"
+    },
     {
       "title": "Microsoft releases emergency Windows updates to fix RDS failures",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
@@ -26,56 +76,6 @@
       "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
       "date": "2026-09-14"
-    },
-    {
-      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
-      "url": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Microsoft: September updates cause RDS failures on Windows Server",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Revolut discloses data breach exposing financial info, passports",
-      "url": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Microsoft: September updates break audio on some Windows PCs",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-      "date": "2026-09-11"
     }
   ]
 }

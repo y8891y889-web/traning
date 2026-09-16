@@ -1,7 +1,52 @@
 {
-  "fetched_at": "2026-09-15T09:25:44.265887+09:00",
+  "fetched_at": "2026-09-16T09:05:27.871372+09:00",
   "source_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
   "entries": [
+    {
+      "title": "Protecting Tokens and Assertions from Forgery, Theft, and Misuse: Implementation Recommendations for Agencies and Cloud Service Providers",
+      "url": "https://www.cisa.gov/resources-tools/resources/protecting-tokens-and-assertions-forgery-theft-and-misuse-implementation-recommendations-agencies",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Digital Watchdog VMAX DVR and NVR Product Lineups",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-01",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "mySCADA myPRO Manager",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-03",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Schneider Electric SCADAPack x70 Products",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-04",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Siemens Teamcenter",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-07",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Siemens Mendix SAML",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-06",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Wärtsilä FOS-Onboard",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-02",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Siemens Reyrolle 7SR5",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-05",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "CareCam CM2507",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-08",
+      "date": "2026-09-15"
+    },
     {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/09/14/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -18,11 +63,6 @@
       "date": "2026-09-11"
     },
     {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/10/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-09-10"
-    },
-    {
       "title": "Orthanc DICOM Server",
       "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-253-02",
       "date": "2026-09-10"
@@ -30,6 +70,11 @@
     {
       "title": "AVEVA Pipeline Integrity Monitor",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-253-01",
+      "date": "2026-09-10"
+    },
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/10/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-09-10"
     },
     {
@@ -48,8 +93,8 @@
       "date": "2026-09-09"
     },
     {
-      "title": "China-Based Artificial Intelligence Companies Conducting Industrial-Scale Distillation Campaigns Against U.S. AI Companies",
-      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/08/cisa-adds-four-known-exploited-vulnerabilities-catalog",
       "date": "2026-09-08"
     },
     {
@@ -58,49 +103,14 @@
       "date": "2026-09-08"
     },
     {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/08/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "title": "China-Based Artificial Intelligence Companies Conducting Industrial-Scale Distillation Campaigns Against U.S. AI Companies",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
       "date": "2026-09-08"
     },
     {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/09/04/cisa-adds-one-known-exploited-vulnerability-catalog",
       "date": "2026-09-04"
-    },
-    {
-      "title": "IXON VPN Client",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-02",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Tycon Systems TPDIN-Monitor-WEB3",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-08",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Inductive Automation Ignition",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-06",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Rockwell Automation ArmorStart LT",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-04",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products (Update A)",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "OPCFoundation OPC UA LocalDiscoveryServer (LDS)",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-01",
-      "date": "2026-09-03"
-    },
-    {
-      "title": "Preparing for the Post-Quantum Era: A Call to Action",
-      "url": "https://www.cisa.gov/resources-tools/resources/preparing-post-quantum-era-call-action",
-      "date": "2026-09-03"
     },
     {
       "title": "Rockwell Automation ControlFLASH",
@@ -113,44 +123,34 @@
       "date": "2026-09-03"
     },
     {
-      "title": "Pyramid Solutions NetStaX EtherNet/IP Stack",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-07",
-      "date": "2026-09-03"
-    },
-    {
       "title": "Tycon Systems TPDIN-Monitor-WEB2 (Update A)",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-01",
       "date": "2026-09-03"
     },
     {
-      "title": "Communicating Under Pressure: Best Practices for Service Providers",
-      "url": "https://www.cisa.gov/resources-tools/resources/communicating-under-pressure-best-practices-service-providers",
-      "date": "2026-09-02"
+      "title": "Tycon Systems TPDIN-Monitor-WEB3",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-08",
+      "date": "2026-09-03"
     },
     {
-      "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/02/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
-      "date": "2026-09-02"
+      "title": "OPCFoundation OPC UA LocalDiscoveryServer (LDS)",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-01",
+      "date": "2026-09-03"
     },
     {
-      "title": "Rockwell Automation Logix Platform",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-03",
-      "date": "2026-09-01"
+      "title": "Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products (Update A)",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07",
+      "date": "2026-09-03"
     },
     {
-      "title": "Rockwell Automation FactoryTalk Activation Manager",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-04",
-      "date": "2026-09-01"
+      "title": "Rockwell Automation ArmorStart LT",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-04",
+      "date": "2026-09-03"
     },
     {
-      "title": "Rockwell Automation Redundancy Module Configuration Tool",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-02",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "Rockwell Automation RSLinx Classic",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-01",
-      "date": "2026-09-01"
+      "title": "Pyramid Solutions NetStaX EtherNet/IP Stack",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-07",
+      "date": "2026-09-03"
     }
   ]
 }

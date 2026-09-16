@@ -1,7 +1,52 @@
 {
-  "fetched_at": "2026-09-15T09:26:13.338102+09:00",
+  "fetched_at": "2026-09-16T09:05:53.700568+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+      "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
+      "url": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+      "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+      "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+      "url": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+      "url": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+      "url": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+      "url": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+      "url": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+      "date": "2026-09-15"
+    },
     {
       "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
       "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
@@ -206,51 +251,6 @@
       "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
       "url": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
       "date": "2026-09-09"
-    },
-    {
-      "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
-      "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
-      "url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
-      "url": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
-      "url": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
-      "url": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
-      "url": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "What It Took to Reach 1 Billion Build Manifests",
-      "url": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
-      "url": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
-      "date": "2026-09-08"
     }
   ]
 }

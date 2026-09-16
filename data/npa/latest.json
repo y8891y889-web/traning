@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-09-15T09:25:36.057603+09:00",
+  "fetched_at": "2026-09-16T09:05:17.889401+09:00",
   "source_url": "https://www.npa.go.jp/newlyarrived/index.html",
   "entries": [
+    {
+      "title": "令和８年夏期における山岳遭難及び水難の概況について",
+      "url": "https://www.npa.go.jp/publications/statistics/safetylife/sounan.html",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "令和８年度国家公務員総合職の中途採用募集の実施について",
+      "url": "https://www.npa.go.jp/news/release/2026/20260914001.html",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "犯罪統計資料(令和８年１～８月分)",
+      "url": "https://www.npa.go.jp/toukei/keiji35/new_hanzai08.htm",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "チャイルドシートの使用状況等についてPDFファイルを開く",
+      "url": "https://www.npa.go.jp/newlyarrived/2026/CSR_2026kouhou.pdf",
+      "date": "2026-09-15"
+    },
     {
       "title": "捜査特別報奨金に関する広告（令和８年９月11日）",
       "url": "https://www.npa.go.jp/bureau/criminal/reward/contents117.html",
@@ -66,11 +86,6 @@
       "title": "令和８年中の月別自殺者数について（７月末の暫定値）",
       "url": "https://www.npa.go.jp/news/release/2026/20260811001.html",
       "date": "2026-08-17"
-    },
-    {
-      "title": "犯罪統計資料(令和８年１～7月分)",
-      "url": "https://www.npa.go.jp/toukei/keiji35/new_hanzai08.htm",
-      "date": "2026-08-14"
     }
   ]
 }
