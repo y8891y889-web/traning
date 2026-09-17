@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-16T09:05:53.210923+09:00",
+  "fetched_at": "2026-09-17T09:16:22.219830+09:00",
   "source_url": "https://krebsonsecurity.com/feed/",
   "entries": [
+    {
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "date": "2026-09-16"
+    },
     {
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -46,11 +51,6 @@
       "title": "Microsoft Patches a Record 570 Security Flaws",
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
       "date": "2026-07-14"
-    },
-    {
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "date": "2026-07-13"
     }
   ]
 }

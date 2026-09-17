@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-09-16T09:05:52.908087+09:00",
+  "fetched_at": "2026-09-17T09:16:21.748588+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
+      "url": "https://isc.sans.edu/diary/rss/33344",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, September 16th, 2026 https://isc.sans.edu/podcastdetail/10096, (Wed, Sep 16th)",
+      "url": "https://isc.sans.edu/diary/rss/33342",
+      "date": "2026-09-16"
+    },
     {
       "title": "MacOS 27 - First Boot, (Tue, Sep 15th)",
       "url": "https://isc.sans.edu/diary/rss/33340",
@@ -41,16 +51,6 @@
       "title": "ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)",
       "url": "https://isc.sans.edu/diary/rss/33328",
       "date": "2026-09-10"
-    },
-    {
-      "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
-      "url": "https://isc.sans.edu/diary/rss/33324",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)",
-      "url": "https://isc.sans.edu/diary/rss/33322",
-      "date": "2026-09-09"
     }
   ]
 }

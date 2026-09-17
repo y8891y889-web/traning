@@ -10,3 +10,6 @@
 {"title": "Docker security advisory (AV26-925)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av26-925", "date": "2026-09-15", "found_at": "2026-09-16T09:05:52.526942+09:00"}
 {"title": "Mozilla security advisory (AV26-924)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-924", "date": "2026-09-15", "found_at": "2026-09-16T09:05:52.526942+09:00"}
 {"title": "GNU security advisory (AV26-923)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/gnu-security-advisory-av26-923", "date": "2026-09-15", "found_at": "2026-09-16T09:05:52.526942+09:00"}
+{"title": "ISC BIND security advisory (AV26-931)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av26-931", "date": "2026-09-16", "found_at": "2026-09-17T09:16:21.375495+09:00"}
+{"title": "Apple security advisory (AV26-930)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-930", "date": "2026-09-16", "found_at": "2026-09-17T09:16:21.375495+09:00"}
+{"title": "Oracle Corporation security advisory (AV26-929)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/oracle-corporation-security-advisory-av26-929", "date": "2026-09-16", "found_at": "2026-09-17T09:16:21.375495+09:00"}

@@ -1,7 +1,62 @@
 {
-  "fetched_at": "2026-09-16T09:05:53.700568+09:00",
+  "fetched_at": "2026-09-17T09:16:22.785091+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+      "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+      "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+      "url": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+      "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+      "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
+      "url": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+      "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
+      "date": "2026-09-16"
+    },
     {
       "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
       "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
@@ -195,61 +250,6 @@
     {
       "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
       "url": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-      "url": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-      "url": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-      "url": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "url": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "url": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-      "url": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-      "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
-      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
-      "url": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
-      "url": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
       "date": "2026-09-09"
     }
   ]

@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-09-16T09:05:06.542118+09:00",
+  "fetched_at": "2026-09-17T09:15:38.215132+09:00",
   "source_url": "https://www.mof.go.jp/public_relations/whats_new/202609.html",
   "entries": [
+    {
+      "title": "会見等片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要(令和8年9月15日(火曜日))",
+      "url": "https://www.mof.go.jp/public_relations/conference/my20260915.html",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "国際政策片山大臣とロバートソン駐日英国大使との面会（令和8年9月16日（水））",
+      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260916094525.html",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "国債国債金利情報(令和8年9月15日)(CSV:2KB)",
+      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "date": "2026-09-15"
+    },
     {
       "title": "国債20年利付国債（第197回）の第II非価格競争入札結果（令和8年9月15日入札）",
       "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260915a.htm",
@@ -16,11 +31,6 @@
       "title": "国債20年利付国債（第197回）の入札発行（令和8年9月15日入札）",
       "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260915.htm",
       "date": "2026-09-15"
-    },
-    {
-      "title": "国債国債金利情報(令和8年9月14日)(CSV:2KB)",
-      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-      "date": "2026-09-14"
     },
     {
       "title": "会見等片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月11日(金曜日))",
