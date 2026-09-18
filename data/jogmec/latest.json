@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-17T09:15:53.061687+09:00",
+  "fetched_at": "2026-09-18T09:01:37.959414+09:00",
   "source_url": "https://www.jogmec.go.jp/news/information/index.html",
   "entries": [
+    {
+      "title": "2026年9月17日[お知らせ]JOGMECと世界銀行がGastech 2026にてラウンドテーブルを共催",
+      "url": "https://www.jogmec.go.jp/news/information/information_00703.html",
+      "date": "2026-09-17"
+    },
     {
       "title": "2026年9月16日[お知らせ]JOGMECがASEAN MLP 3.0技術ワークショップを開催",
       "url": "https://www.jogmec.go.jp/news/information/information_00702.html",
@@ -11,11 +16,6 @@
       "title": "2026年8月5日[お知らせ]令和7年度（2025年度）先進的CCS事業成果報告会",
       "url": "https://www.jogmec.go.jp/news/information/information_00701.html",
       "date": "2026-08-05"
-    },
-    {
-      "title": "2026年7月31日[お知らせ]福島国家石油ガス備蓄基地における国家備蓄石油ガス放出訓練の実施について",
-      "url": "https://www.jogmec.go.jp/news/information/information_00700.html",
-      "date": "2026-07-31"
     }
   ]
 }

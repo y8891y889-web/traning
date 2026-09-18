@@ -1,15 +1,25 @@
 {
-  "fetched_at": "2026-09-17T09:15:57.332159+09:00",
+  "fetched_at": "2026-09-18T09:01:43.001051+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
     {
-      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
-      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
-      "date": "2026-09-15"
+      "title": "Cyber Adversary Simulation (CyAS): scheme documents now available",
+      "url": "https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Adversary simulation: what you need to know",
+      "url": "https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know",
+      "date": "2026-09-17"
     },
     {
       "title": "Iranian cyber targeting of dissidents, activists and journalists",
       "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
+      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
       "date": "2026-09-15"
     },
     {
@@ -91,16 +101,6 @@
       "title": "Building more resilient CNI: what industry pen testers told us",
       "url": "https://www.ncsc.gov.uk/blogs/building-more-resilient-cni-what-industry-pen-testers-told-us",
       "date": "2026-07-01"
-    },
-    {
-      "title": "The AI shift in cyber risk: why leaders must act now",
-      "url": "https://www.ncsc.gov.uk/news/the-ai-shift-in-cyber-risk-why-leaders-must-act-now",
-      "date": "2026-06-22"
-    },
-    {
-      "title": "Alert: NCSC issues advice following global targeting of Fortinet firewalls and VPN gateways",
-      "url": "https://www.ncsc.gov.uk/news/advice-following-global-targeting-of-fortinet-firewalls-and-vpn-gateways",
-      "date": "2026-06-18"
     }
   ]
 }

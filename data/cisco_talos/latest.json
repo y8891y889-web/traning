@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-09-17T09:16:47.877232+09:00",
+  "fetched_at": "2026-09-18T09:02:28.028552+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "Should you care about an “AI slowdown?”",
+      "url": "https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use",
+      "url": "https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/",
+      "date": "2026-09-17"
+    },
     {
       "title": "Securing the unpatchable in an age of AI-driven vulnerabilities",
       "url": "https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/",
@@ -66,16 +76,6 @@
       "title": "UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities",
       "url": "https://blog.talosintelligence.com/uat-10147-deploys-spectre-a-cross-platform-implant-with-linux-rootkit-and-byovd-capabilities/",
       "date": "2026-08-20"
-    },
-    {
-      "title": "UAT-10147: Chinese-speaking adversary integrates agentic AI into post-compromise operations",
-      "url": "https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "Describing attacks with crime script analysis",
-      "url": "https://blog.talosintelligence.com/describing-attacks-with-crime-script-analysis/",
-      "date": "2026-08-19"
     }
   ]
 }

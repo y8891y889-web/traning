@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-17T09:15:35.557315+09:00",
+  "fetched_at": "2026-09-18T09:01:22.090637+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "官民連携でサーキュラーエコノミーを推進「サーキュラーエコノミーアクションWeek」を10月1日～7日に開催します",
+      "url": "https://www.meti.go.jp/policy/energy_environment/shigenjunkan/circular_economy/action/article08/",
+      "date": "2026-09-17"
+    },
     {
       "title": "2026年度夏季の電力需給の見通し（9月11日公表）",
       "url": "https://www.enecho.meti.go.jp/category/electricity_and_gas/electricity_measures/pdf/260911_jyukyu.pdf",
@@ -281,11 +286,6 @@
       "title": "日本産業規格（JIS）を制定・改正しました（2026年4月分）",
       "url": "https://www.meti.go.jp/policy/economy/hyojun-kijun/jiskouji/20260420001.html",
       "date": "2026-04-20"
-    },
-    {
-      "title": "物流効率化法における特定荷主の届出の提出方法等に係る説明会の開催について",
-      "url": "https://www.meti.go.jp/policy/economy/distribution/butsuryu-kouritsuka.html",
-      "date": "2026-04-15"
     }
   ]
 }

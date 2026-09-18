@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-17T09:15:42.555918+09:00",
+  "fetched_at": "2026-09-18T09:01:27.657651+09:00",
   "source_url": "https://www.soumu.go.jp/toukei/snews_back.html",
   "entries": [
+    {
+      "title": "2025年基準 消費者物価指数 全国 2026年(令和8年)8月分",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000351.html",
+      "date": "2026-09-18"
+    },
     {
       "title": "家計調査報告（二人以上の世帯）2026年（令和8年）7月分",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei07_01000293.html",
@@ -496,11 +501,6 @@
       "title": "統計トピックスNo.146 統計からみた我が国の高齢者",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei02_01000020.html",
       "date": "2025-09-14"
-    },
-    {
-      "title": "小売物価統計調査規則の一部を改正する省令案に関する意見募集",
-      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000322.html",
-      "date": "2025-09-12"
     }
   ]
 }

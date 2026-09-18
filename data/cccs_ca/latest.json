@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-09-17T09:16:21.375300+09:00",
+  "fetched_at": "2026-09-18T09:02:09.381846+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "ISC BIND security advisory (AV26-931)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av26-931",
-      "date": "2026-09-16"
+      "title": "Tanium security advisory (AV26-935)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/tanium-security-advisory-av26-935",
+      "date": "2026-09-17"
     },
     {
-      "title": "Apple security advisory (AV26-930)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-930",
-      "date": "2026-09-16"
+      "title": "Dell security advisory (AV26-934)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-934",
+      "date": "2026-09-17"
     },
     {
-      "title": "Oracle Corporation security advisory (AV26-929)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/oracle-corporation-security-advisory-av26-929",
-      "date": "2026-09-16"
+      "title": "Check Point security advisory (AV26-933)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-933",
+      "date": "2026-09-17"
     }
   ]
 }

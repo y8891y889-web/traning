@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-17T09:15:38.992160+09:00",
+  "fetched_at": "2026-09-18T09:01:25.070270+09:00",
   "source_url": "https://www.moj.go.jp/list_info.html",
   "entries": [
+    {
+      "title": "法務大臣閣議後記者会見の概要－令和８年９月１５日（火）",
+      "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_01176.html",
+      "date": "2026-09-15"
+    },
     {
       "title": "法制審議会第２０６回会議（令和８年９月１４日開催）",
       "url": "https://www.moj.go.jp/shingi1/shingi03500044_00016.html",
@@ -996,11 +1001,6 @@
       "title": "第１３回持続可能な保護司制度の確立に向けた検討会（令和６年９月２７日（金））",
       "url": "https://www.moj.go.jp/shingi1/shingi07200001_00035.html",
       "date": "2024-09-27"
-    },
-    {
-      "title": "法務大臣閣議後記者会見の概要－令和６年９月２４日（火）",
-      "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_00545.html",
-      "date": "2024-09-24"
     }
   ]
 }

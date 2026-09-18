@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-09-17T09:15:48.030659+09:00",
+  "fetched_at": "2026-09-18T09:01:34.264972+09:00",
   "source_url": "https://www.npa.go.jp/newlyarrived/index.html",
   "entries": [
+    {
+      "title": "令和８年中の月別自殺者数について（８月末の暫定値）",
+      "url": "https://www.npa.go.jp/news/release/2026/20260912001.html",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "令和８年全国地域安全運動等の実施について",
+      "url": "https://www.npa.go.jp/news/release/20260917001.html",
+      "date": "2026-09-17"
+    },
     {
       "title": "交通事故統計月報（令和８年８月末）",
       "url": "https://www.npa.go.jp/news/release/2026/20260916001jiko0808.html",
@@ -86,11 +96,6 @@
       "title": "交通事故統計月報（令和８年７月末）",
       "url": "https://www.npa.go.jp/news/release/2026/20260819001jiko0807.html",
       "date": "2026-08-19"
-    },
-    {
-      "title": "令和８年中の月別自殺者数について（７月末の暫定値）",
-      "url": "https://www.npa.go.jp/news/release/2026/20260811001.html",
-      "date": "2026-08-17"
     }
   ]
 }
