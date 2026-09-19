@@ -1,7 +1,72 @@
 {
-  "fetched_at": "2026-09-18T09:02:10.585254+09:00",
+  "fetched_at": "2026-09-19T09:04:41.089892+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+      "url": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      "url": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+      "url": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+      "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
+      "url": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+      "date": "2026-09-17"
+    },
     {
       "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
       "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
@@ -186,71 +251,6 @@
       "title": "Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
       "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
       "date": "2026-09-14"
-    },
-    {
-      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-      "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-      "date": "2026-09-13"
-    },
-    {
-      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-      "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-      "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-      "date": "2026-09-12"
-    },
-    {
-      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-      "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-      "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-      "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-      "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
-      "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
-      "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-      "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
-      "date": "2026-09-11"
     }
   ]
 }

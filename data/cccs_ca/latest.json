@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-09-18T09:02:09.381846+09:00",
+  "fetched_at": "2026-09-19T09:04:39.546177+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "Tanium security advisory (AV26-935)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/tanium-security-advisory-av26-935",
-      "date": "2026-09-17"
+      "title": "[Control systems] ABB security advisory (AV26-942)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-942",
+      "date": "2026-09-18"
     },
     {
-      "title": "Dell security advisory (AV26-934)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-934",
-      "date": "2026-09-17"
+      "title": "SolarWinds security advisory (AV26-941)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-941",
+      "date": "2026-09-18"
     },
     {
-      "title": "Check Point security advisory (AV26-933)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-933",
-      "date": "2026-09-17"
+      "title": "Arista Networks security advisory (AV26-940)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/arista-networks-security-advisory-av26-940",
+      "date": "2026-09-18"
     }
   ]
 }

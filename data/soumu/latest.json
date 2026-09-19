@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-18T09:01:27.657651+09:00",
+  "fetched_at": "2026-09-19T09:03:59.527576+09:00",
   "source_url": "https://www.soumu.go.jp/toukei/snews_back.html",
   "entries": [
+    {
+      "title": "消費者物価地域差指数−小売物価統計調査（構造編）2025年（令和7年）結果−",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000352.html",
+      "date": "2026-09-18"
+    },
     {
       "title": "2025年基準 消費者物価指数 全国 2026年(令和8年)8月分",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000351.html",
@@ -496,11 +501,6 @@
       "title": "2020年基準 消費者物価指数 全国 2025年(令和7年)8月分",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000323.html",
       "date": "2025-09-19"
-    },
-    {
-      "title": "統計トピックスNo.146 統計からみた我が国の高齢者",
-      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei02_01000020.html",
-      "date": "2025-09-14"
     }
   ]
 }

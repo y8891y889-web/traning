@@ -1,7 +1,47 @@
 {
-  "fetched_at": "2026-09-18T09:02:11.420931+09:00",
+  "fetched_at": "2026-09-19T09:04:41.838814+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+      "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+      "url": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Microsoft Teams will let admins block custom file extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Webinar: Which Google Workspace security controls actually matter?",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
+      "date": "2026-09-18"
+    },
     {
       "title": "New RatHat Android malware uses AI to automate device control",
       "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
@@ -36,46 +76,6 @@
       "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
       "date": "2026-09-17"
-    },
-    {
-      "title": "Microsoft shares workaround for Windows domain login issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Anthropic wants Claude to analyze your bank account and financial data",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
-      "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Spain's data agency gets first report of AI-powered data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "The true cost of a ransomware attack, with and without BCDR",
-      "url": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
-      "date": "2026-09-16"
     }
   ]
 }

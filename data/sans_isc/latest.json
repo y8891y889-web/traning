@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-09-18T09:02:09.634085+09:00",
+  "fetched_at": "2026-09-19T09:04:40.042755+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
+      "url": "https://isc.sans.edu/diary/rss/33352",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
+      "url": "https://isc.sans.edu/diary/rss/33350",
+      "date": "2026-09-18"
+    },
     {
       "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
       "url": "https://isc.sans.edu/diary/rss/33348",
@@ -41,16 +51,6 @@
       "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
       "url": "https://isc.sans.edu/diary/rss/33334",
       "date": "2026-09-14"
-    },
-    {
-      "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
-      "url": "https://isc.sans.edu/diary/rss/33332",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
-      "url": "https://isc.sans.edu/diary/rss/33330",
-      "date": "2026-09-11"
     }
   ]
 }
