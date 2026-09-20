@@ -1,7 +1,47 @@
 {
-  "fetched_at": "2026-09-19T09:04:41.089892+09:00",
+  "fetched_at": "2026-09-20T09:00:26.980202+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+      "url": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+      "date": "2026-09-19"
+    },
+    {
+      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+      "date": "2026-09-19"
+    },
     {
       "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
       "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
@@ -70,11 +110,6 @@
     {
       "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
       "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
       "date": "2026-09-17"
     },
     {
@@ -215,41 +250,6 @@
     {
       "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
       "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
-      "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
-      "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
-      "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
       "date": "2026-09-14"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T09:04:03.522922+09:00",
+  "fetched_at": "2026-09-20T08:59:50.086525+09:00",
   "source_url": "https://www.npa.go.jp/newlyarrived/index.html",
   "entries": [
     {
@@ -96,11 +96,6 @@
       "title": "警察庁チャットボットの運用開始について",
       "url": "https://www.npa.go.jp/news/release/2026/20260827001.html",
       "date": "2026-08-27"
-    },
-    {
-      "title": "交通事故統計月報（令和８年７月末）",
-      "url": "https://www.npa.go.jp/news/release/2026/20260819001jiko0807.html",
-      "date": "2026-08-19"
     }
   ]
 }

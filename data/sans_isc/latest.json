@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-09-19T09:04:40.042755+09:00",
+  "fetched_at": "2026-09-20T09:00:25.535178+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
     {
       "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
       "url": "https://isc.sans.edu/diary/rss/33352",
-      "date": "2026-09-18"
+      "date": "2026-09-19"
     },
     {
       "title": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
