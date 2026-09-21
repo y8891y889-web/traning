@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-09-20T09:00:27.887074+09:00",
+  "fetched_at": "2026-09-21T09:02:49.708231+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "date": "2026-09-20"
+    },
+    {
+      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+      "date": "2026-09-20"
+    },
     {
       "title": "BragJack attacks hijack AI browser agents through malicious extensions",
       "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
@@ -65,16 +75,6 @@
     {
       "title": "New RatHat Android malware uses AI to automate device control",
       "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-      "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
       "date": "2026-09-17"
     }
   ]
