@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-21T09:02:21.242756+09:00",
+  "fetched_at": "2026-09-22T09:41:06.604480+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
+    {
+      "title": "One does not simply defend agentically",
+      "url": "https://www.ncsc.gov.uk/blogs/one-does-not-simply-defend-agentically",
+      "date": "2026-09-21"
+    },
     {
       "title": "Cyber Adversary Simulation (CyAS): scheme documents now available",
       "url": "https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available",
@@ -13,13 +18,13 @@
       "date": "2026-09-17"
     },
     {
-      "title": "Iranian cyber targeting of dissidents, activists and journalists",
-      "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
+      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
+      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
       "date": "2026-09-15"
     },
     {
-      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
-      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
+      "title": "Iranian cyber targeting of dissidents, activists and journalists",
+      "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
       "date": "2026-09-15"
     },
     {
@@ -96,11 +101,6 @@
       "title": "Cyber Shield: The path to an agentic AI future for cyber defence",
       "url": "https://www.ncsc.gov.uk/blogs/cyber-shield-the-path-to-an-agentic-ai-future-for-cyber-defence",
       "date": "2026-07-07"
-    },
-    {
-      "title": "Building more resilient CNI: what industry pen testers told us",
-      "url": "https://www.ncsc.gov.uk/blogs/building-more-resilient-cni-what-industry-pen-testers-told-us",
-      "date": "2026-07-01"
     }
   ]
 }

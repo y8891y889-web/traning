@@ -1,7 +1,42 @@
 {
-  "fetched_at": "2026-09-21T09:02:49.071513+09:00",
+  "fetched_at": "2026-09-22T09:41:33.557756+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+      "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+      "url": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
+      "url": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "url": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+      "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+      "date": "2026-09-21"
+    },
     {
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
       "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
@@ -216,41 +251,6 @@
       "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
       "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
       "date": "2026-09-15"
-    },
-    {
-      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-      "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-      "url": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-      "url": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-      "url": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
-      "url": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
-      "url": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-      "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "date": "2026-09-14"
     }
   ]
 }

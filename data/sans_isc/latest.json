@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-09-21T09:02:47.864159+09:00",
+  "fetched_at": "2026-09-22T09:41:32.111405+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
+      "url": "https://isc.sans.edu/diary/rss/33318",
+      "date": "2026-09-21"
+    },
+    {
+      "title": "ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)",
+      "url": "https://isc.sans.edu/diary/rss/33354",
+      "date": "2026-09-21"
+    },
     {
       "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
       "url": "https://isc.sans.edu/diary/rss/33352",
@@ -41,16 +51,6 @@
       "title": "ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)",
       "url": "https://isc.sans.edu/diary/rss/33338",
       "date": "2026-09-15"
-    },
-    {
-      "title": "Apple Updates Everything, (Mon, Sep 14th)",
-      "url": "https://isc.sans.edu/diary/rss/33336",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
-      "url": "https://isc.sans.edu/diary/rss/33334",
-      "date": "2026-09-14"
     }
   ]
 }
