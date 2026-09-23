@@ -1,7 +1,67 @@
 {
-  "fetched_at": "2026-09-22T09:41:34.134611+09:00",
+  "fetched_at": "2026-09-23T09:13:57.825425+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+      "url": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Reducing shadow IT visibility gaps with Wazuh",
+      "url": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Check Point warns of Management Server zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+      "date": "2026-09-22"
+    },
     {
       "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
       "url": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
@@ -16,66 +76,6 @@
       "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
       "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
       "date": "2026-09-21"
-    },
-    {
-      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
-      "date": "2026-09-21"
-    },
-    {
-      "title": "Google fined €403 million over location data privacy violations",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-      "date": "2026-09-21"
-    },
-    {
-      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-      "date": "2026-09-21"
-    },
-    {
-      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
-      "url": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
-      "date": "2026-09-21"
-    },
-    {
-      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
-      "date": "2026-09-21"
-    },
-    {
-      "title": "Microsoft: September updates break File History backup feature",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
-      "date": "2026-09-21"
-    },
-    {
-      "title": "Malicious npm packages evade install-script defenses at runtime",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-      "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-      "date": "2026-09-20"
-    },
-    {
-      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
-      "date": "2026-09-19"
-    },
-    {
-      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
-      "url": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
-      "date": "2026-09-19"
-    },
-    {
-      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-      "date": "2026-09-19"
-    },
-    {
-      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-      "url": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-      "date": "2026-09-19"
     }
   ]
 }

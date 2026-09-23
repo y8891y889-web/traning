@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-09-22T09:41:53.670883+09:00",
+  "fetched_at": "2026-09-23T09:14:16.169726+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant",
+      "url": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Introducing CAIRN: Frontier tracking for AI-integrated malware",
+      "url": "https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/",
+      "date": "2026-09-22"
+    },
     {
       "title": "Should you care about an “AI slowdown?”",
       "url": "https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/",
@@ -66,16 +76,6 @@
       "title": "The safety penalty: Reclaiming operational sovereignty in the age of AI",
       "url": "https://blog.talosintelligence.com/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai/",
       "date": "2026-08-25"
-    },
-    {
-      "title": "Is Cyber missing the Marque?",
-      "url": "https://blog.talosintelligence.com/is-cyber-missing-the-marque/",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "UAT-10147 deploys SPECTRE: A cross-platform implant with Linux rootkit and BYOVD capabilities",
-      "url": "https://blog.talosintelligence.com/uat-10147-deploys-spectre-a-cross-platform-implant-with-linux-rootkit-and-byovd-capabilities/",
-      "date": "2026-08-20"
     }
   ]
 }

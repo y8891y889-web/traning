@@ -1,20 +1,70 @@
 {
-  "fetched_at": "2026-09-22T09:41:06.304879+09:00",
+  "fetched_at": "2026-09-23T09:13:28.588605+09:00",
   "source_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
   "entries": [
+    {
+      "title": "Siemens Industrial Edge Management",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-06",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "OpenPLC Runtime v3",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-09",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/22/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "lwIP (Lightweight IP)",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-02",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Siemens WTV676 and WTV776",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-08",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Siemens SIPLUS and SIMATIC Products",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-04",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Siemens Desigo CC family",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-05",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Siemens SIMOVE Fleetmanager and SIPLANT",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-07",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Siemens Siveillance Control",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-03",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "lwIP TCP/IP Stack MQTT Client Application",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-01",
+      "date": "2026-09-22"
+    },
     {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/09/21/cisa-adds-one-known-exploited-vulnerability-catalog",
       "date": "2026-09-21"
     },
     {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-one-known-exploited-vulnerability-catalog",
       "date": "2026-09-18"
     },
     {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-09-18"
     },
     {
@@ -23,8 +73,8 @@
       "date": "2026-09-17"
     },
     {
-      "title": "ABB Ability Edgenius",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-06",
+      "title": "Schneider Electric NetBotz 5 750/755",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-05",
       "date": "2026-09-17"
     },
     {
@@ -33,13 +83,8 @@
       "date": "2026-09-17"
     },
     {
-      "title": "Schneider Electric PowerChute Serial Shutdown",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-07",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Schneider Electric NetBotz 5 750/755",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-05",
+      "title": "Mitsubishi Electric CC-Link IE TSN Communication Protocol (Update A)",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-211-07",
       "date": "2026-09-17"
     },
     {
@@ -53,9 +98,19 @@
       "date": "2026-09-17"
     },
     {
-      "title": "Mitsubishi Electric CC-Link IE TSN Communication Protocol (Update A)",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-211-07",
+      "title": "ABB Ability Edgenius",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-06",
       "date": "2026-09-17"
+    },
+    {
+      "title": "Schneider Electric PowerChute Serial Shutdown",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-07",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Using Cyber Decoys to Strengthen Detection and Response",
+      "url": "https://www.cisa.gov/resources-tools/resources/using-cyber-decoys-strengthen-detection-and-response",
+      "date": "2026-09-16"
     },
     {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -68,18 +123,8 @@
       "date": "2026-09-16"
     },
     {
-      "title": "Using Cyber Decoys to Strengthen Detection and Response",
-      "url": "https://www.cisa.gov/resources-tools/resources/using-cyber-decoys-strengthen-detection-and-response",
-      "date": "2026-09-16"
-    },
-    {
       "title": "Schneider Electric SCADAPack x70 Products",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-04",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "CareCam CM2507",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-08",
       "date": "2026-09-15"
     },
     {
@@ -98,59 +143,14 @@
       "date": "2026-09-15"
     },
     {
-      "title": "Wärtsilä FOS-Onboard",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-02",
-      "date": "2026-09-15"
-    },
-    {
       "title": "Digital Watchdog VMAX DVR and NVR Product Lineups",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-01",
       "date": "2026-09-15"
     },
     {
-      "title": "Protecting Tokens and Assertions from Forgery, Theft, and Misuse: Implementation Recommendations for Agencies and Cloud Service Providers",
-      "url": "https://www.cisa.gov/resources-tools/resources/protecting-tokens-and-assertions-forgery-theft-and-misuse-implementation-recommendations-agencies",
+      "title": "Wärtsilä FOS-Onboard",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-02",
       "date": "2026-09-15"
-    },
-    {
-      "title": "Siemens Teamcenter",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-07",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/14/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "AVEVA Pipeline Integrity Monitor",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-253-01",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "Orthanc DICOM Server",
-      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-253-02",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/10/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-09-10"
-    },
-    {
-      "title": "NextGen Healthcare Mirth Connect",
-      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-253-01",
-      "date": "2026-09-10"
     }
   ]
 }

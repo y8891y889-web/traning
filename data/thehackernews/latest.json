@@ -1,7 +1,87 @@
 {
-  "fetched_at": "2026-09-22T09:41:33.557756+09:00",
+  "fetched_at": "2026-09-23T09:13:56.189447+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+      "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+      "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+      "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+      "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+      "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
+      "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
+      "url": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
+      "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+      "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+      "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
+      "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+      "url": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+      "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+      "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+      "url": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+      "date": "2026-09-22"
+    },
     {
       "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
       "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
@@ -171,86 +251,6 @@
       "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
       "url": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
       "date": "2026-09-17"
-    },
-    {
-      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
-      "url": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
-      "url": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-      "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-      "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-      "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
-      "url": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
-      "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
-      "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
-      "url": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
-      "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
-      "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
-      "url": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-      "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
-      "date": "2026-09-15"
     }
   ]
 }
