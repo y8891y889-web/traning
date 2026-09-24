@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-23T09:13:13.081320+09:00",
+  "fetched_at": "2026-09-24T09:20:46.206950+09:00",
   "source_url": "https://www.soumu.go.jp/toukei/snews_back.html",
   "entries": [
+    {
+      "title": "「サービス産業動態統計調査」2026年（令和8年）7月分（速報）",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000346.html",
+      "date": "2026-09-24"
+    },
     {
       "title": "統計トピックスNo.149 統計からみた我が国の高齢者",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei02_01000021.html",
@@ -496,11 +501,6 @@
       "title": "2020年基準 消費者物価指数 東京都区部 2025年(令和7年)9月分(中旬速報値)",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000324.html",
       "date": "2025-09-26"
-    },
-    {
-      "title": "「サービス産業動態統計調査」2025年（令和7年）7月分（速報）",
-      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000321.html",
-      "date": "2025-09-24"
     }
   ]
 }

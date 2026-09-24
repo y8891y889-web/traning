@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-09-23T09:13:54.256539+09:00",
+  "fetched_at": "2026-09-24T09:21:29.803058+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "Check Point security advisory (AV26-902) – Update 2",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-902",
-      "date": "2026-09-22"
+      "title": "Forcepoint security advisory (AV26-960)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/forcepoint-security-advisory-av26-960",
+      "date": "2026-09-23"
     },
     {
-      "title": "F5 security advisory (AV26-949) - Update 1",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-949",
-      "date": "2026-09-22"
+      "title": "Dell security advisory (AV26-959)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-959",
+      "date": "2026-09-23"
     },
     {
-      "title": "Arista Networks security advisory (AV26-947) – Update 1",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/arista-networks-security-advisory-av26-947",
-      "date": "2026-09-22"
+      "title": "MikroTik security advisory (AV26-958)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/mikrotik-security-advisory-av26-958",
+      "date": "2026-09-23"
     }
   ]
 }
