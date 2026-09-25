@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-24T09:20:55.318550+09:00",
+  "fetched_at": "2026-09-25T09:23:19.713230+09:00",
   "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
   "entries": [
+    {
+      "title": "地震調査研究推進本部政策委員会　第93回調査観測計画部会を開催します（令和8年9月29日）",
+      "url": "https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00293.html",
+      "date": "2026-09-29"
+    },
     {
       "title": "関芳弘文部科学大臣記者会見録（令和8年9月18日）",
       "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00731.html",
@@ -101,11 +106,6 @@
       "title": "令和8年8月19日東京新聞5面「社説　情報教育の拡大　現場の疲弊招かぬよう」及び同内容の配信記事における事実誤認を含んだ報道内容ついて",
       "url": "https://www.mext.go.jp/b_menu/oshirase/kenkai/mext_00003.html",
       "date": "2026-08-19"
-    },
-    {
-      "title": "令和8年秋の全国交通安全運動の実施について（依頼）（令和8年8月20日　8文科教第896号）",
-      "url": "https://www.mext.go.jp/a_menu/kenko/anzen/1417343_00065.htm",
-      "date": "2026-08-20"
     }
   ]
 }

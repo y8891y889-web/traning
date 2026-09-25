@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-09-24T09:20:41.970533+09:00",
+  "fetched_at": "2026-09-25T09:23:07.366146+09:00",
   "source_url": "https://www.mof.go.jp/public_relations/whats_new/202609.html",
   "entries": [
+    {
+      "title": "会見等片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月18日(金曜日))",
+      "url": "https://www.mof.go.jp/public_relations/conference/my20260918.html",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "その他人事異動(令和8年9月17日)(PDF:58KB)",
+      "url": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.09.17_47.pdf",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "たばこ・塩たばこ事業等分科会定価等部会（令和8年9月15日開催）資料一覧",
+      "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_tabacco/proceedings_teika/material/20260914162812.html",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "たばこ・塩たばこ事業等分科会定価等部会（令和8年9月15日開催）議事要旨",
+      "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_tabacco/proceedings_teika/outline/20260914162535.html",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "国債交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年9月24日公表）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer260924.htm",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "国債国債金利情報(令和8年9月18日)(CSV:2KB)",
+      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "date": "2026-09-18"
+    },
     {
       "title": "財政投融資財政投融資分科会（令和8年9月18日開催）資料一覧",
       "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/material/zaitoa20260918.html",
@@ -21,11 +51,6 @@
       "title": "国債2年利付国債（10月債）の発行予定額等（令和8年9月18日公表）",
       "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260918c.htm",
       "date": "2026-09-18"
-    },
-    {
-      "title": "国債国債金利情報(令和8年9月17日)(CSV:2KB)",
-      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-      "date": "2026-09-17"
     },
     {
       "title": "会見等片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要(令和8年9月15日(火曜日))",

@@ -1,25 +1,40 @@
 {
-  "fetched_at": "2026-09-24T09:20:46.816606+09:00",
+  "fetched_at": "2026-09-25T09:23:12.714078+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "令和８年台風第25号に伴う災害等に対する金融上の措置について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260924.html",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
+      "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "金融審議会「保険制度ワーキング・グループ」（第１回）の開催について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/singi/20260924.html",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "MUデジタルバンク設立準備株式会社に対する銀行業の免許の付与について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260924/20260924.html",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "人事異動（令和８年９月18日付幹部名簿の更新）について公表しました。",
+      "url": "https://www.fsa.go.jp/common/about/jinji/index.html",
+      "date": "2026-09-24"
+    },
     {
       "title": "金融経済教育推進機構（J-FLEC）「家計の見える化検討会議」報告書について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/20260918/20260918.html",
       "date": "2026-09-18"
     },
     {
-      "title": "つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
-      "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
-      "date": "2026-09-18"
-    },
-    {
       "title": "「主要行等向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20260918/20260918.html",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "人事異動（令和８年９月17日付幹部名簿の更新）について公表しました。",
-      "url": "https://www.fsa.go.jp/common/about/jinji/index.html",
       "date": "2026-09-18"
     },
     {
@@ -986,21 +1001,6 @@
       "title": "「経営者保証に関するガイドライン」等の活用実績について（2025年度の実績）公表しました。",
       "url": "https://www.fsa.go.jp/news/r7/ginkou/20260626/20260626.html",
       "date": "2026-06-26"
-    },
-    {
-      "title": "FSA Analytical Notesー金融庁分析事例集ー（2026.6）vol.2＜市場変動局面における店頭デリバティブ取引の証拠金動向に関する分析＞について公表しました。",
-      "url": "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/20260626/20260626.html",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "広く共有することが有効な相談事例（保険業法関係）を更新しました。",
-      "url": "https://www.fsa.go.jp/common/noact/kaitou_2/hoken/index.html",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "FATFによる市中協議文書「FATF改訂勧告16ガイダンス案」について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/fatf/20260624/20260626.html",
-      "date": "2026-06-25"
     }
   ]
 }

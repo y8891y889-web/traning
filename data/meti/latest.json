@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-24T09:20:33.970722+09:00",
+  "fetched_at": "2026-09-25T09:23:04.738614+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "日本産業規格（JIS）を制定・改正しました（2026年9月分）",
+      "url": "https://www.meti.go.jp/policy/economy/hyojun-kijun/jiskouji/20260924001.html",
+      "date": "2026-09-24"
+    },
     {
       "title": "2026年度夏季の電力需給の見通し（9月18日公表）",
       "url": "https://www.enecho.meti.go.jp/category/electricity_and_gas/electricity_measures/pdf/260918_jyukyu.pdf",
@@ -281,11 +286,6 @@
       "title": "「令和7年度補正予算 商用車等の電動化促進事業 （トラック、タクシー・バス）」の公募について",
       "url": "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/hdv-hojyo/r7hosei_hdv-hojyo_koubo.html",
       "date": "2026-04-24"
-    },
-    {
-      "title": "大阪で「製品安全情報交流会」を開催します！",
-      "url": "https://www.meti.go.jp/product_safety/ps-award/3-consumer/r7_explanatory_2.html",
-      "date": "2026-04-23"
     }
   ]
 }

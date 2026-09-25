@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-09-24T09:21:29.803058+09:00",
+  "fetched_at": "2026-09-25T09:23:53.467367+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "Forcepoint security advisory (AV26-960)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/forcepoint-security-advisory-av26-960",
-      "date": "2026-09-23"
+      "title": "Adobe security advisory (AV26-808) – Update 2",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-808",
+      "date": "2026-09-24"
     },
     {
-      "title": "Dell security advisory (AV26-959)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-959",
-      "date": "2026-09-23"
+      "title": "Microsoft security advisory – August 2026 monthly rollup (AV26-804) – Update 3",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2026-monthly-rollup-av26-804",
+      "date": "2026-09-24"
     },
     {
-      "title": "MikroTik security advisory (AV26-958)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/mikrotik-security-advisory-av26-958",
-      "date": "2026-09-23"
+      "title": "WebPros security advisory (AV26-961)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/webpros-security-advisory-av26-961",
+      "date": "2026-09-24"
     }
   ]
 }

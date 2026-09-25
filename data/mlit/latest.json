@@ -1,10 +1,15 @@
 {
-  "fetched_at": "2026-09-24T09:21:00.569219+09:00",
+  "fetched_at": "2026-09-25T09:23:25.007300+09:00",
   "source_url": "https://www.mlit.go.jp/",
   "entries": [
     {
-      "title": "総合政策",
-      "url": "https://www.mlit.go.jp/sogoseisaku/index.html",
+      "title": "物流・自動車",
+      "url": "https://www.mlit.go.jp/jidosha/index.html",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "井林大臣就任会見要旨",
+      "url": "https://www.mlit.go.jp/report/interview/daijin260918.html",
       "date": "2026-09-18"
     },
     {
@@ -53,9 +58,14 @@
       "date": "2026-08-04"
     },
     {
-      "title": "金子大臣会見要旨",
-      "url": "https://www.mlit.go.jp/report/interview/daijin260731.html",
-      "date": "2026-07-31"
+      "title": "港湾",
+      "url": "https://www.mlit.go.jp/kowan/index.html",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "総合政策",
+      "url": "https://www.mlit.go.jp/sogoseisaku/index.html",
+      "date": "2026-09-18"
     },
     {
       "title": "道路",

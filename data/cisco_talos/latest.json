@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-24T09:21:48.192035+09:00",
+  "fetched_at": "2026-09-25T09:24:15.156295+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "Trust and the enticing consultancy offer",
+      "url": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
+      "date": "2026-09-24"
+    },
     {
       "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant",
       "url": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/",
@@ -71,11 +76,6 @@
       "title": "Choose your fighter: Balancing competing requirements to select models for your AI SOC",
       "url": "https://blog.talosintelligence.com/choose-your-fighter-balancing-competing-requirements-to-select-models-for-your-ai-soc/",
       "date": "2026-08-26"
-    },
-    {
-      "title": "The safety penalty: Reclaiming operational sovereignty in the age of AI",
-      "url": "https://blog.talosintelligence.com/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai/",
-      "date": "2026-08-25"
     }
   ]
 }

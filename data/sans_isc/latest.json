@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-09-24T09:21:30.373253+09:00",
+  "fetched_at": "2026-09-25T09:23:53.918576+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "One URL, Three Different Tricks, (Thu, Sep 24th)",
+      "url": "https://isc.sans.edu/diary/rss/33366",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)",
+      "url": "https://isc.sans.edu/diary/rss/33364",
+      "date": "2026-09-24"
+    },
     {
       "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
       "url": "https://isc.sans.edu/diary/rss/33360",
@@ -41,16 +51,6 @@
       "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
       "url": "https://isc.sans.edu/diary/rss/33352",
       "date": "2026-09-19"
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
-      "url": "https://isc.sans.edu/diary/rss/33350",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 17th, 2026 https://isc.sans.edu/podcastdetail/10098, (Thu, Sep 17th)",
-      "url": "https://isc.sans.edu/diary/rss/33346",
-      "date": "2026-09-17"
     }
   ]
 }
