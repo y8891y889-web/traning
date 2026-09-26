@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-09-25T09:23:53.918576+09:00",
+  "fetched_at": "2026-09-26T09:28:49.481431+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)",
+      "url": "https://isc.sans.edu/diary/rss/33368",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)",
+      "url": "https://isc.sans.edu/diary/rss/33370",
+      "date": "2026-09-25"
+    },
     {
       "title": "One URL, Three Different Tricks, (Thu, Sep 24th)",
       "url": "https://isc.sans.edu/diary/rss/33366",
@@ -41,16 +51,6 @@
       "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
       "url": "https://isc.sans.edu/diary/rss/33318",
       "date": "2026-09-21"
-    },
-    {
-      "title": "ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)",
-      "url": "https://isc.sans.edu/diary/rss/33354",
-      "date": "2026-09-21"
-    },
-    {
-      "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
-      "url": "https://isc.sans.edu/diary/rss/33352",
-      "date": "2026-09-19"
     }
   ]
 }

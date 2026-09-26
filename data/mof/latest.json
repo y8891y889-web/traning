@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-09-25T09:23:07.366146+09:00",
+  "fetched_at": "2026-09-26T09:28:03.327590+09:00",
   "source_url": "https://www.mof.go.jp/public_relations/whats_new/202609.html",
   "entries": [
+    {
+      "title": "国際政策日米財務大臣会談（令和8年9月25日（金））",
+      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260925185921.html",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "会見等片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月25日(金曜日))",
+      "url": "https://www.mof.go.jp/public_relations/conference/my20260925.html",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "国債国債金利情報(令和8年9月24日)(CSV:2KB)",
+      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "date": "2026-09-24"
+    },
     {
       "title": "会見等片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月18日(金曜日))",
       "url": "https://www.mof.go.jp/public_relations/conference/my20260918.html",
@@ -26,11 +41,6 @@
       "title": "国債交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年9月24日公表）",
       "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer260924.htm",
       "date": "2026-09-24"
-    },
-    {
-      "title": "国債国債金利情報(令和8年9月18日)(CSV:2KB)",
-      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-      "date": "2026-09-18"
     },
     {
       "title": "財政投融資財政投融資分科会（令和8年9月18日開催）資料一覧",

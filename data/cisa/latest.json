@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-09-25T09:23:27.398885+09:00",
+  "fetched_at": "2026-09-26T09:28:22.530418+09:00",
   "source_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
   "entries": [
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-09-25"
+    },
     {
       "title": "Eufy Omni C20, Omni X10 Pro",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-267-02",
@@ -13,13 +23,13 @@
       "date": "2026-09-24"
     },
     {
-      "title": "Siemens Mendix Runtime (Update A)",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-209-02",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/24/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-09-24"
     },
     {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/24/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "title": "Siemens Mendix Runtime (Update A)",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-209-02",
       "date": "2026-09-24"
     },
     {
@@ -98,7 +108,17 @@
       "date": "2026-09-17"
     },
     {
-      "title": "Mitsubishi Electric GX Works3 and Motion Control Settings",
+      "title": "Schneider Electric PowerChute Serial Shutdown",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-07",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "ABB Ability Edgenius",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-06",
+      "date": "2026-09-17"
+    },
+    {
+      "title": "Mitsubishi Electric GX Works3 and Motion Control Setting",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-02",
       "date": "2026-09-17"
     },
@@ -108,8 +128,8 @@
       "date": "2026-09-17"
     },
     {
-      "title": "Schneider Electric PowerChute Serial Shutdown",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-07",
+      "title": "Bransys ELD",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-01",
       "date": "2026-09-17"
     },
     {
@@ -118,24 +138,9 @@
       "date": "2026-09-17"
     },
     {
-      "title": "ABB Ability Edgenius",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-06",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Bransys ELD",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-01",
-      "date": "2026-09-17"
-    },
-    {
       "title": "Schneider Electric Modicon M340 Controller and Communication Modules",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-04",
       "date": "2026-09-17"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-09-16"
     },
     {
       "title": "Using Cyber Decoys to Strengthen Detection and Response",
@@ -143,14 +148,9 @@
       "date": "2026-09-16"
     },
     {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-09-16"
-    },
-    {
-      "title": "Schneider Electric SCADAPack x70 Products",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-04",
-      "date": "2026-09-15"
     }
   ]
 }

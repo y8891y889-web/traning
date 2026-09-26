@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-25T09:23:19.713230+09:00",
+  "fetched_at": "2026-09-26T09:28:14.081298+09:00",
   "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
   "entries": [
+    {
+      "title": "関芳弘文部科学大臣記者会見録（令和8年9月25日）",
+      "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00732.html",
+      "date": "2026-09-25"
+    },
     {
       "title": "地震調査研究推進本部政策委員会　第93回調査観測計画部会を開催します（令和8年9月29日）",
       "url": "https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00293.html",
@@ -36,6 +41,11 @@
       "title": "松本洋平文部科学大臣記者会見録（令和8年9月11日）",
       "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00727.html",
       "date": "2026-09-11"
+    },
+    {
+      "title": "令和8年10月2日 第2回南極地域観測統合推進本部輸送体制の変更を踏まえた今後の南極地域観測事業に関する特別委員会の開催について",
+      "url": "https://www.mext.go.jp/a_menu/shinkou/nankyoku/detail/1422006_00068.htm",
+      "date": "2026-10-02"
     },
     {
       "title": "被災地の子供への学習・体験活動提供支援（令和8年9月11日）",
@@ -101,11 +111,6 @@
       "title": "令和8年9月1日 第1回南極地域観測統合推進本部輸送体制の変更を踏まえた今後の南極地域観測事業に関する特別委員会の開催について",
       "url": "https://www.mext.go.jp/a_menu/shinkou/nankyoku/detail/1422006_00067.htm",
       "date": "2026-09-01"
-    },
-    {
-      "title": "令和8年8月19日東京新聞5面「社説　情報教育の拡大　現場の疲弊招かぬよう」及び同内容の配信記事における事実誤認を含んだ報道内容ついて",
-      "url": "https://www.mext.go.jp/b_menu/oshirase/kenkai/mext_00003.html",
-      "date": "2026-08-19"
     }
   ]
 }

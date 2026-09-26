@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-25T09:23:04.738614+09:00",
+  "fetched_at": "2026-09-26T09:28:00.921432+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "10月7日開催 GIRAFFES JAPAN FUTURE LOUNGE（RAMEN TECH内）の観覧申込みを受付中！",
+      "url": "https://giraffes.go.jp/life-goes-on/giraffes-japan-stage.html",
+      "date": "2026-09-25"
+    },
     {
       "title": "日本産業規格（JIS）を制定・改正しました（2026年9月分）",
       "url": "https://www.meti.go.jp/policy/economy/hyojun-kijun/jiskouji/20260924001.html",
@@ -281,11 +286,6 @@
       "title": "バイオものづくりを推進する自治体を後押しするための枠組み 「輝くいのちのものづくり推進宣言」に長浜市が新たに加わりました",
       "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/kagayakuinochi_monodukuri_action.html",
       "date": "2026-04-27"
-    },
-    {
-      "title": "「令和7年度補正予算 商用車等の電動化促進事業 （トラック、タクシー・バス）」の公募について",
-      "url": "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/hdv-hojyo/r7hosei_hdv-hojyo_koubo.html",
-      "date": "2026-04-24"
     }
   ]
 }
