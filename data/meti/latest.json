@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-27T09:23:28.622735+09:00",
+  "fetched_at": "2026-09-28T09:27:36.147263+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "2026年度夏季の電力需給の見通し（9月25日公表）",
+      "url": "https://www.enecho.meti.go.jp/category/electricity_and_gas/electricity_measures/pdf/260925_jyukyu.pdf",
+      "date": "2026-09-28"
+    },
     {
       "title": "10月7日開催 GIRAFFES JAPAN FUTURE LOUNGE（RAMEN TECH内）の観覧申込みを受付中！",
       "url": "https://giraffes.go.jp/life-goes-on/giraffes-japan-stage.html",
@@ -281,11 +286,6 @@
       "title": "経済産業省は、一般社団法人日本DIY・ホームセンター協会に対して、シンナー、塗料等の溶剤、住宅資材について安定的な商材の取り扱い及び需要家への情報提供について要請しました",
       "url": "https://www.meti.go.jp/policy/mono_info_service/mono/jyutaku/tyuto_ryutu.html",
       "date": "2026-04-28"
-    },
-    {
-      "title": "バイオものづくりを推進する自治体を後押しするための枠組み 「輝くいのちのものづくり推進宣言」に長浜市が新たに加わりました",
-      "url": "https://www.kansai.meti.go.jp/2-4bio/biomonodukuri/kagayakuinochi_monodukuri_action.html",
-      "date": "2026-04-27"
     }
   ]
 }

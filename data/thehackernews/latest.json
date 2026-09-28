@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-27T09:24:16.788658+09:00",
+  "fetched_at": "2026-09-28T09:28:28.535158+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+      "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+      "date": "2026-09-27"
+    },
     {
       "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
       "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
@@ -245,11 +250,6 @@
     {
       "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
       "url": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
-      "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
       "date": "2026-09-22"
     }
   ]
