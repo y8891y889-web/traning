@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-28T09:28:00.864609+09:00",
+  "fetched_at": "2026-09-29T10:42:17.941457+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
+    {
+      "title": "Exploitation of vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway",
+      "url": "https://www.ncsc.gov.uk/news/exploitation-of-vulnerabilities-affecting-citrix-netscaler-adc-and-citrix-netscaler-gateway",
+      "date": "2026-09-28"
+    },
     {
       "title": "One does not simply defend agentically",
       "url": "https://www.ncsc.gov.uk/blogs/one-does-not-simply-defend-agentically",
@@ -96,11 +101,6 @@
       "title": "Cyber Essentials Pathways: from proof of concept to cyber confidence",
       "url": "https://www.ncsc.gov.uk/blogs/cyber-essentials-pathways-from-proof-of-concept-to-cyber-confidence",
       "date": "2026-07-09"
-    },
-    {
-      "title": "Cyber Shield: The path to an agentic AI future for cyber defence",
-      "url": "https://www.ncsc.gov.uk/blogs/cyber-shield-the-path-to-an-agentic-ai-future-for-cyber-defence",
-      "date": "2026-07-07"
     }
   ]
 }

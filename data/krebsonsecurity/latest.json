@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-28T09:28:27.946816+09:00",
+  "fetched_at": "2026-09-29T10:42:45.764597+09:00",
   "source_url": "https://krebsonsecurity.com/feed/",
   "entries": [
+    {
+      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "date": "2026-09-28"
+    },
     {
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
       "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
@@ -46,11 +51,6 @@
       "title": "Read This Before You Buy That TV Streaming Stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "date": "2026-07-30"
-    },
-    {
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "date": "2026-07-22"
     }
   ]
 }

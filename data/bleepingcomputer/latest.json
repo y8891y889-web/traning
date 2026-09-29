@@ -1,7 +1,52 @@
 {
-  "fetched_at": "2026-09-28T09:28:29.210695+09:00",
+  "fetched_at": "2026-09-29T10:42:46.841046+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
+      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+      "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+      "date": "2026-09-28"
+    },
     {
       "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
@@ -31,51 +76,6 @@
       "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
       "date": "2026-09-26"
-    },
-    {
-      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
-      "date": "2026-09-26"
-    },
-    {
-      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
-      "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-      "date": "2026-09-26"
-    },
-    {
-      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
-      "date": "2026-09-26"
-    },
-    {
-      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Elementor WordPress flaw lets attackers create admin accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-      "date": "2026-09-25"
     }
   ]
 }

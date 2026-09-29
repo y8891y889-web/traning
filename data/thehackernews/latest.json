@@ -1,7 +1,57 @@
 {
-  "fetched_at": "2026-09-28T09:28:28.535158+09:00",
+  "fetched_at": "2026-09-29T10:42:46.219731+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "IAM for AI agents: A Practical Enterprise Framework",
+      "url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
+      "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+      "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+      "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+      "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+      "date": "2026-09-28"
+    },
     {
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
       "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
@@ -200,56 +250,6 @@
     {
       "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
       "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-      "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-      "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
-      "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
-      "url": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
-      "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
-      "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
-      "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
-      "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
-      "url": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
       "date": "2026-09-22"
     }
   ]

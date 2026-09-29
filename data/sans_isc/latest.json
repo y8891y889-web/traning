@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-09-28T09:28:27.039755+09:00",
+  "fetched_at": "2026-09-29T10:42:44.767189+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
+      "url": "https://isc.sans.edu/diary/rss/33376",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "ISC Stormcast For Monday, September 28th, 2026 https://isc.sans.edu/podcastdetail/10112, (Mon, Sep 28th)",
+      "url": "https://isc.sans.edu/diary/rss/33374",
+      "date": "2026-09-28"
+    },
     {
       "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
       "url": "https://isc.sans.edu/diary/rss/33372",
@@ -40,16 +50,6 @@
     {
       "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
       "url": "https://isc.sans.edu/diary/rss/33358",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
-      "url": "https://isc.sans.edu/diary/rss/33348",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)",
-      "url": "https://isc.sans.edu/diary/rss/33356",
       "date": "2026-09-22"
     }
   ]

@@ -1,16 +1,11 @@
 {
-  "fetched_at": "2026-09-28T09:27:58.790954+09:00",
+  "fetched_at": "2026-09-29T10:42:15.709157+09:00",
   "source_url": "https://www.mlit.go.jp/",
   "entries": [
     {
       "title": "総合政策",
       "url": "https://www.mlit.go.jp/sogoseisaku/index.html",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "物流・自動車",
-      "url": "https://www.mlit.go.jp/jidosha/index.html",
-      "date": "2026-09-24"
+      "date": "2026-09-28"
     },
     {
       "title": "井林大臣会見要旨",
@@ -63,24 +58,14 @@
       "date": "2026-08-25"
     },
     {
+      "title": "物流・自動車",
+      "url": "https://www.mlit.go.jp/jidosha/index.html",
+      "date": "2026-09-25"
+    },
+    {
       "title": "港湾",
       "url": "https://www.mlit.go.jp/kowan/index.html",
       "date": "2026-09-24"
-    },
-    {
-      "title": "道路",
-      "url": "https://www.mlit.go.jp/road/index.html",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "海事",
-      "url": "https://www.mlit.go.jp/",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "土地・不動産・建設業",
-      "url": "https://www.mlit.go.jp/totikensangyo/index.html",
-      "date": "2026-09-15"
     },
     {
       "title": "被害回復等を装った詐欺（二次被害トラブル）にご注意ください！（不動産特定共同事業法関係）",

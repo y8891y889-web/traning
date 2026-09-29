@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-09-28T09:27:45.595019+09:00",
+  "fetched_at": "2026-09-29T10:42:02.356972+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "「金融機関における個人情報保護に関するQ&A」の改正について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260928/20260928.html",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "人事異動（令和８年９月28日付幹部名簿の更新）について公表しました。",
+      "url": "https://www.fsa.go.jp/common/about/jinji/index.html",
+      "date": "2026-09-28"
+    },
     {
       "title": "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）の開催について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/singi/20260925-2.html",
@@ -60,11 +70,6 @@
     {
       "title": "MUデジタルバンク設立準備株式会社に対する銀行業の免許の付与について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/ginkou/20260924/20260924.html",
-      "date": "2026-09-24"
-    },
-    {
-      "title": "人事異動（令和８年９月18日付幹部名簿の更新）について公表しました。",
-      "url": "https://www.fsa.go.jp/common/about/jinji/index.html",
       "date": "2026-09-24"
     },
     {
@@ -996,11 +1001,6 @@
       "title": "片山財務大臣兼内閣府特命担当大臣ぶら下がり記者会見の概要（令和８年６月24日）について掲載しました。",
       "url": "https://www.fsa.go.jp/common/conference/minister/2026a/20260624-1.html",
       "date": "2026-06-29"
-    },
-    {
-      "title": "令和８年６月24日からの大雨に伴う災害等に対する金融上の措置について更新しました。",
-      "url": "https://www.fsa.go.jp/news/r7/ginkou/20260625.html",
-      "date": "2026-06-26"
     }
   ]
 }

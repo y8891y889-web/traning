@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-09-28T09:28:26.671381+09:00",
+  "fetched_at": "2026-09-29T10:42:44.316279+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "WordPress security advisory (AV26-952) – Update 1",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/wordpress-security-advisory-av26-952",
-      "date": "2026-09-25"
+      "title": "Linux security advisory (AV26-970)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/linux-security-advisory-av26-970",
+      "date": "2026-09-28"
     },
     {
-      "title": "Zimbra security advisory (AV26-964)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av26-964",
-      "date": "2026-09-25"
+      "title": "wolfSSL security advisory (AV26-969)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/wolfssl-security-advisory-av26-969",
+      "date": "2026-09-28"
     },
     {
-      "title": "Microsoft security advisory – August 2026 monthly rollup (AV26-804) – Update 4",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2026-monthly-rollup-av26-804",
-      "date": "2026-09-25"
+      "title": "SUSE Linux security advisory (AV26-968)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-968",
+      "date": "2026-09-28"
     }
   ]
 }
