@@ -1,11 +1,16 @@
 {
-  "fetched_at": "2026-09-29T10:42:15.709157+09:00",
+  "fetched_at": "2026-09-30T10:11:05.836754+09:00",
   "source_url": "https://www.mlit.go.jp/",
   "entries": [
     {
       "title": "総合政策",
       "url": "https://www.mlit.go.jp/sogoseisaku/index.html",
-      "date": "2026-09-28"
+      "date": "2026-09-29"
+    },
+    {
+      "title": "井林大臣会見要旨",
+      "url": "https://www.mlit.go.jp/report/interview/daijin260929.html",
+      "date": "2026-09-29"
     },
     {
       "title": "井林大臣会見要旨",
@@ -53,9 +58,9 @@
       "date": "2026-08-28"
     },
     {
-      "title": "金子大臣会見要旨",
-      "url": "https://www.mlit.go.jp/report/interview/daijin260825.html",
-      "date": "2026-08-25"
+      "title": "土地・不動産・建設業",
+      "url": "https://www.mlit.go.jp/totikensangyo/index.html",
+      "date": "2026-09-29"
     },
     {
       "title": "物流・自動車",

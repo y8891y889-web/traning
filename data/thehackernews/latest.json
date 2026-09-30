@@ -1,7 +1,52 @@
 {
-  "fetched_at": "2026-09-29T10:42:46.219731+09:00",
+  "fetched_at": "2026-09-30T10:11:34.696868+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+      "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+      "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+      "url": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+      "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+      "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+      "url": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+      "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
+      "url": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+      "url": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
+      "date": "2026-09-29"
+    },
     {
       "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
       "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
@@ -206,51 +251,6 @@
       "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
       "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
       "date": "2026-09-23"
-    },
-    {
-      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-      "url": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-      "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "url": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "url": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-      "url": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
-      "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-      "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-      "date": "2026-09-22"
     }
   ]
 }

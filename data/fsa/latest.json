@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-09-29T10:42:02.356972+09:00",
+  "fetched_at": "2026-09-30T10:10:53.490601+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "「連結財務諸表の用語、様式及び作成方法に関する規則に規定する金融庁長官が定める企業会計の基準を指定する件の一部を改正する件」の公布及びパブリックコメントの結果について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260929.html",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "新潟縣信用組合・興栄信用組合の組織再編成等実施計画の認定について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260929.html",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "第34回金融機能強化審査会 議事要旨について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/soff/gijiyoshi/20260902.html",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "「FinTech実証実験ハブ・決済高度化プロジェクト（PIP）」支援決定案件について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260929-2/20260929.html",
+      "date": "2026-09-29"
+    },
     {
       "title": "「金融機関における個人情報保護に関するQ&A」の改正について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20260928/20260928.html",
@@ -981,26 +1001,6 @@
       "title": "「Japan Fintech Week 2026」特設サイトを更新しました。",
       "url": "https://www.fsa.go.jp/policy/japanfintechweek/2026/index.html",
       "date": "2026-06-30"
-    },
-    {
-      "title": "「地域金融機関の事業者支援にかかる経済的効果の定量化に関する調査」報告書について公表しました。",
-      "url": "https://www.fsa.go.jp/common/about/research/20260630/20260630.html",
-      "date": "2026-06-30"
-    },
-    {
-      "title": "「業種別支援の着眼点」に関する勉強会関連ウェブページの開設（委託事業）について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r7/ginkou/20260630/20260630.html",
-      "date": "2026-06-30"
-    },
-    {
-      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年６月26日）について掲載しました。",
-      "url": "https://www.fsa.go.jp/common/conference/minister/2026a/20260626-1.html",
-      "date": "2026-06-29"
-    },
-    {
-      "title": "片山財務大臣兼内閣府特命担当大臣ぶら下がり記者会見の概要（令和８年６月24日）について掲載しました。",
-      "url": "https://www.fsa.go.jp/common/conference/minister/2026a/20260624-1.html",
-      "date": "2026-06-29"
     }
   ]
 }

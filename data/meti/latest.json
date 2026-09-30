@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-29T10:41:55.217376+09:00",
+  "fetched_at": "2026-09-30T10:10:46.904023+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "10月は木材利用促進月間です",
+      "url": "https://www.meti.go.jp/policy/mono_info_service/mono/jyutaku/mokusokugekkann.html",
+      "date": "2026-09-29"
+    },
     {
       "title": "2026年度夏季の電力需給の見通し（9月25日公表）",
       "url": "https://www.enecho.meti.go.jp/category/electricity_and_gas/electricity_measures/pdf/260925_jyukyu.pdf",
@@ -281,11 +286,6 @@
       "title": "「鉱（あらがね）眠る大地―地質調査が拓く鉱物資源―」のパネル展⽰を本館ロビーで開催しています",
       "url": "https://www.gsj.jp/chishitunohi_meti/index.html",
       "date": "2026-05-11"
-    },
-    {
-      "title": "経済産業省は、一般社団法人日本DIY・ホームセンター協会に対して、シンナー、塗料等の溶剤、住宅資材について安定的な商材の取り扱い及び需要家への情報提供について要請しました",
-      "url": "https://www.meti.go.jp/policy/mono_info_service/mono/jyutaku/tyuto_ryutu.html",
-      "date": "2026-04-28"
     }
   ]
 }

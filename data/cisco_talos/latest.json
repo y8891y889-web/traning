@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-29T10:43:08.142292+09:00",
+  "fetched_at": "2026-09-30T10:11:53.793561+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "Securing the keys to the kingdom: Announcing Executive Threat Detection",
+      "url": "https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/",
+      "date": "2026-09-29"
+    },
     {
       "title": "Trust and the enticing consultancy offer",
       "url": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
@@ -71,11 +76,6 @@
       "title": "JavaScript obfuscation: From party trick to phishing kit",
       "url": "https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/",
       "date": "2026-08-27"
-    },
-    {
-      "title": "Choose your fighter: Balancing competing requirements to select models for your AI SOC",
-      "url": "https://blog.talosintelligence.com/choose-your-fighter-balancing-competing-requirements-to-select-models-for-your-ai-soc/",
-      "date": "2026-08-26"
     }
   ]
 }

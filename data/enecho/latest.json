@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-09-29T10:42:02.540284+09:00",
+  "fetched_at": "2026-09-30T10:10:54.979190+09:00",
   "source_url": "https://www.enecho.meti.go.jp/notice/whatsnew/",
   "entries": [
     {
-      "title": "公募を更新しました",
-      "url": "https://www.enecho.meti.go.jp/appli/public_offer/",
-      "date": "2026-09-14"
-    },
-    {
-      "title": "公募結果を更新しました",
-      "url": "https://www.enecho.meti.go.jp/appli/public_offer_result/",
-      "date": "2026-09-04"
-    },
-    {
       "title": "ガス事業生産動態統計調査を更新しました",
       "url": "https://www.enecho.meti.go.jp/statistics/gas/ga001/",
-      "date": "2026-08-31"
+      "date": "2026-09-30"
     },
     {
       "title": "ガス事業生産動態統計調査（ガス小売事業（特定ガス発生設備においてガスを発生させ、導管によりこれを供給するものに限る））を更新しました",
       "url": "https://www.enecho.meti.go.jp/statistics/gas/ga002/",
-      "date": "2026-08-28"
+      "date": "2026-09-14"
+    },
+    {
+      "title": "公募を更新しました",
+      "url": "https://www.enecho.meti.go.jp/appli/public_offer/",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "公募結果を更新しました",
+      "url": "https://www.enecho.meti.go.jp/appli/public_offer_result/",
+      "date": "2026-09-01"
     },
     {
       "title": "「GXリーグ」が「GXフューチャー・リーグ」に！サプライチェーン全体で挑む“GX需要創出”とは？",

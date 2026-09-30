@@ -1,7 +1,72 @@
 {
-  "fetched_at": "2026-09-29T10:42:46.841046+09:00",
+  "fetched_at": "2026-09-30T10:11:35.835539+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Microsoft is rolling out Linux container support to WSL",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Signal adds encypted local backup support to iOS, desktop apps",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Former US Air Force members sent to prison over BEC attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Windows 11 2026 Update released, here's everything you need to know",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
+      "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+      "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Catch threats before they escalate with real-time Identity Telemetry",
+      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+      "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Kiteworks patches critical flaw, brings customer systems online",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+      "date": "2026-09-29"
+    },
     {
       "title": "Japan's Keio confirms ransomware attack disrupted business systems",
       "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
@@ -11,71 +76,6 @@
       "title": "Times Car confirms data breach affecting 6.6 million user accounts",
       "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
       "date": "2026-09-28"
-    },
-    {
-      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
-      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-      "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-      "date": "2026-09-27"
-    },
-    {
-      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-      "date": "2026-09-27"
-    },
-    {
-      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-      "date": "2026-09-27"
-    },
-    {
-      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-      "date": "2026-09-27"
-    },
-    {
-      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-      "date": "2026-09-26"
-    },
-    {
-      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
-      "date": "2026-09-26"
     }
   ]
 }

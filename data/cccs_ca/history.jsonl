@@ -36,3 +36,6 @@
 {"title": "Linux security advisory (AV26-970)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/linux-security-advisory-av26-970", "date": "2026-09-28", "found_at": "2026-09-29T10:42:44.316689+09:00"}
 {"title": "wolfSSL security advisory (AV26-969)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/wolfssl-security-advisory-av26-969", "date": "2026-09-28", "found_at": "2026-09-29T10:42:44.316689+09:00"}
 {"title": "SUSE Linux security advisory (AV26-968)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-968", "date": "2026-09-28", "found_at": "2026-09-29T10:42:44.316689+09:00"}
+{"title": "[Control systems] Hitachi security advisory (AV26-975)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/hitachi-security-advisory-av26-975", "date": "2026-09-29", "found_at": "2026-09-30T10:11:32.960238+09:00"}
+{"title": "TeamViewer security advisory (AV26-977)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/teamviewer-security-advisory-av26-977", "date": "2026-09-29", "found_at": "2026-09-30T10:11:32.960238+09:00"}
+{"title": "Mozilla security advisory (AV26-976)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-976", "date": "2026-09-29", "found_at": "2026-09-30T10:11:32.960238+09:00"}

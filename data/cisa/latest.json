@@ -1,15 +1,55 @@
 {
-  "fetched_at": "2026-09-29T10:42:17.825433+09:00",
+  "fetched_at": "2026-09-30T10:11:08.573980+09:00",
   "source_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
   "entries": [
     {
-      "title": "Critical Zero-Day Vulnerabilities Exploited in Citrix NetScaler ADC, Gateway",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway",
-      "date": "2026-09-27"
+      "title": "Baicells Nova 430H",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "MikroTik RouterOS",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "VIVOTEK Camera Firmware",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-03",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Anjvision YSSD-RTMP-H5",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-05",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Viidure Dashcam Android Application",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-07",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Toptech TMS7 and TopHAT",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-02",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Lantronix G520 Series Cellular Gateway",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-01",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-09-29"
     },
     {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/09/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "Critical Zero-Day Vulnerabilities Exploited in Citrix NetScaler ADC, Gateway",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway",
       "date": "2026-09-27"
     },
     {
@@ -23,8 +63,8 @@
       "date": "2026-09-25"
     },
     {
-      "title": "Eufy Omni C20, Omni X10 Pro",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-267-02",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/24/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-09-24"
     },
     {
@@ -33,8 +73,8 @@
       "date": "2026-09-24"
     },
     {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/24/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "title": "Eufy Omni C20, Omni X10 Pro",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-267-02",
       "date": "2026-09-24"
     },
     {
@@ -48,13 +88,13 @@
       "date": "2026-09-23"
     },
     {
-      "title": "Siemens WTV676 and WTV776",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-08",
+      "title": "lwIP TCP/IP Stack MQTT Client Application",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-01",
       "date": "2026-09-22"
     },
     {
-      "title": "lwIP TCP/IP Stack MQTT Client Application",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-01",
+      "title": "Siemens WTV676 and WTV776",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-08",
       "date": "2026-09-22"
     },
     {
@@ -103,54 +143,14 @@
       "date": "2026-09-21"
     },
     {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-09-18"
-    },
-    {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-one-known-exploited-vulnerability-catalog",
       "date": "2026-09-18"
     },
     {
-      "title": "Schneider Electric Modicon M340 Controller and Communication Modules",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-04",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Schneider Electric NetBotz 5 750/755",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-05",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Bransys ELD",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-01",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Hitachi Energy FACTS Control Platform (FCP)",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-03",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Mitsubishi Electric GX Works3 and Motion Control Setting",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-02",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "ABB Ability Edgenius",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-06",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Schneider Electric PowerChute Serial Shutdown",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-07",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Mitsubishi Electric CC-Link IE TSN Communication Protocol (Update A)",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-211-07",
-      "date": "2026-09-17"
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "date": "2026-09-18"
     }
   ]
 }
