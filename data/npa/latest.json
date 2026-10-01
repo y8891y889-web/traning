@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-30T10:10:58.278785+09:00",
+  "fetched_at": "2026-10-01T10:10:42.785384+09:00",
   "source_url": "https://www.npa.go.jp/newlyarrived/index.html",
   "entries": [
+    {
+      "title": "特殊詐欺に係る被害金の追跡、凍結、回復に指向した官民協働型枠組みの協定金融機関の拡大について",
+      "url": "https://www.npa.go.jp/bureau/sosikihanzai/tokushusagi.html",
+      "date": "2026-09-30"
+    },
     {
       "title": "不正アクセス行為対策等の実態調査及びアクセス制御機能に関する技術の研究開発の状況等に関する調査の実施について",
       "url": "https://www.npa.go.jp/bureau/cyber/what-we-do/research.html",
@@ -96,11 +101,6 @@
       "title": "令和８年７月末の特殊詐欺の認知・検挙状況等について",
       "url": "https://www.npa.go.jp/publications/statistics/sousa/sagi.html",
       "date": "2026-09-02"
-    },
-    {
-      "title": "令和７年の刑法犯に関する統計資料",
-      "url": "https://www.npa.go.jp/publications/statistics/safetylife/jousei.html",
-      "date": "2026-08-31"
     }
   ]
 }

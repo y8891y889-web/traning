@@ -1,7 +1,52 @@
 {
-  "fetched_at": "2026-09-30T10:11:35.835539+09:00",
+  "fetched_at": "2026-10-01T10:11:20.619598+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+      "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+      "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Microsoft to block Entra ID script injection attacks starting October",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
+      "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Bitget hacked via zero-day in third-party security products",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "date": "2026-09-30"
+    },
     {
       "title": "Microsoft is rolling out Linux container support to WSL",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
@@ -31,51 +76,6 @@
       "title": "Former US Air Force members sent to prison over BEC attacks",
       "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
       "date": "2026-09-29"
-    },
-    {
-      "title": "Windows 11 2026 Update released, here's everything you need to know",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-      "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-      "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Catch threats before they escalate with real-time Identity Telemetry",
-      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
-      "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Kiteworks patches critical flaw, brings customer systems online",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-      "date": "2026-09-28"
     }
   ]
 }

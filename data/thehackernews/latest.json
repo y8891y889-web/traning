@@ -1,7 +1,57 @@
 {
-  "fetched_at": "2026-09-30T10:11:34.696868+09:00",
+  "fetched_at": "2026-10-01T10:11:19.824079+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+      "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "date": "2026-09-30"
+    },
     {
       "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
       "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
@@ -201,56 +251,6 @@
       "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
       "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
       "date": "2026-09-24"
-    },
-    {
-      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-      "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-      "date": "2026-09-24"
-    },
-    {
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "date": "2026-09-24"
-    },
-    {
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "date": "2026-09-24"
-    },
-    {
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "date": "2026-09-23"
     }
   ]
 }

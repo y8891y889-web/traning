@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-30T10:11:53.793561+09:00",
+  "fetched_at": "2026-10-01T10:11:37.418595+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor",
+      "url": "https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/",
+      "date": "2026-09-30"
+    },
     {
       "title": "Securing the keys to the kingdom: Announcing Executive Threat Detection",
       "url": "https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/",
@@ -70,11 +75,6 @@
     {
       "title": "“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend",
       "url": "https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "JavaScript obfuscation: From party trick to phishing kit",
-      "url": "https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/",
       "date": "2026-08-27"
     }
   ]

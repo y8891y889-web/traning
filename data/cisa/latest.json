@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-30T10:11:08.573980+09:00",
+  "fetched_at": "2026-10-01T10:10:51.273572+09:00",
   "source_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
   "entries": [
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/30/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-09-30"
+    },
     {
       "title": "Baicells Nova 430H",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04",
@@ -28,11 +33,6 @@
       "date": "2026-09-29"
     },
     {
-      "title": "Toptech TMS7 and TopHAT",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-02",
-      "date": "2026-09-29"
-    },
-    {
       "title": "Lantronix G520 Series Cellular Gateway",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-01",
       "date": "2026-09-29"
@@ -40,6 +40,11 @@
     {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/09/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-09-29"
+    },
+    {
+      "title": "Toptech TMS7 and TopHAT",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-02",
       "date": "2026-09-29"
     },
     {
@@ -141,11 +146,6 @@
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/09/21/cisa-adds-one-known-exploited-vulnerability-catalog",
       "date": "2026-09-21"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-09-18"
     },
     {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",

@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-30T10:10:46.904023+09:00",
+  "fetched_at": "2026-10-01T10:10:33.752496+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "2026年LPガス消費保安月間（10月1日から）",
+      "url": "https://www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2026/09/20260929_lpgasu_syouhisyaanzen.html",
+      "date": "2026-09-29"
+    },
     {
       "title": "10月は木材利用促進月間です",
       "url": "https://www.meti.go.jp/policy/mono_info_service/mono/jyutaku/mokusokugekkann.html",
@@ -281,11 +286,6 @@
       "title": "女性リーダー育成研修（WIL）第11期参加企業の二次募集を開始しました",
       "url": "https://www.meti.go.jp/policy/economy/jinzai/wil/index.html",
       "date": "2026-05-13"
-    },
-    {
-      "title": "「鉱（あらがね）眠る大地―地質調査が拓く鉱物資源―」のパネル展⽰を本館ロビーで開催しています",
-      "url": "https://www.gsj.jp/chishitunohi_meti/index.html",
-      "date": "2026-05-11"
     }
   ]
 }

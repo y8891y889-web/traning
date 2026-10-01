@@ -1,7 +1,47 @@
 {
-  "fetched_at": "2026-09-30T10:10:53.490601+09:00",
+  "fetched_at": "2026-10-01T10:10:39.264441+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "令和８年台風第18号に伴う災害等に対する金融上の措置について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260930.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "金融機関における貸付条件の変更等の状況についてを更新しました。",
+      "url": "https://www.fsa.go.jp/ordinary/tariff202504/kashitsuke/202506.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
+      "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "「銀行法施行規則等の一部を改正する内閣府令」等について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260930/20260930.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "金融審議会「保険制度ワーキング・グループ」（第１回）議事次第について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijishidai/20261001.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "高速取引行為の動向（令和８年１月～６月）について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260930-2/20260930-2.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）議事次第について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/ai_onchain/shiryou/20260930.html",
+      "date": "2026-09-30"
+    },
+    {
+      "title": "職員を募集しています。（金融モニタリング業務（ITガバナンス・オペレーショナルレジリエンス分野）に従事する専門調査員（非常勤職員））",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-08/ginnsyou-08.html",
+      "date": "2026-09-30"
+    },
     {
       "title": "「連結財務諸表の用語、様式及び作成方法に関する規則に規定する金融庁長官が定める企業会計の基準を指定する件の一部を改正する件」の公布及びパブリックコメントの結果について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20260929.html",
@@ -75,11 +115,6 @@
     {
       "title": "令和８年台風第25号に伴う災害等に対する金融上の措置について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/ginkou/20260924.html",
-      "date": "2026-09-24"
-    },
-    {
-      "title": "つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
-      "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
       "date": "2026-09-24"
     },
     {
@@ -315,11 +350,6 @@
     {
       "title": "「貸金業法施行規則の一部を改正する内閣府令」の公布及びパブリックコメントの結果について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/kashikin/20260831/20260831.html",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "金融機関における貸付条件の変更等の状況についてを更新しました。",
-      "url": "https://www.fsa.go.jp/ordinary/tariff202504/kashitsuke/202506.html",
       "date": "2026-08-31"
     },
     {
@@ -971,36 +1001,6 @@
       "title": "日本IFIARネットワーク第10回総会議事次第・議事要旨について公表しました。",
       "url": "https://www.fsa.go.jp/ifiar/20260701.html",
       "date": "2026-07-01"
-    },
-    {
-      "title": "「証券取引等監視委員会の職員が検査及び犯則事件の調査をするときに携帯すべき証票等の様式を定める内閣府令の一部を改正する内閣府令」の公布について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r7/shouken/20260630/20260630.html",
-      "date": "2026-06-30"
-    },
-    {
-      "title": "「ESG評価・データ提供機関に係る行動規範」への市場関係者における対応状況等に関する実態把握結果について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r7/sonota/20260630/20260630.html",
-      "date": "2026-06-30"
-    },
-    {
-      "title": "金融審議会「ディスクロージャーワーキング・グループ」（第５回）議事録について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/gijiroku/20260518.html",
-      "date": "2026-06-30"
-    },
-    {
-      "title": "「金融機関の取組みの評価等に関する企業アンケート調査」について公表しました。",
-      "url": "https://www.fsa.go.jp/common/about/research/20260630-2/20260630-2.html",
-      "date": "2026-06-30"
-    },
-    {
-      "title": "預貯金の不正送金被害等の発生状況（令和８年３月末）について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r7/ginkou/20260630.html",
-      "date": "2026-06-30"
-    },
-    {
-      "title": "「Japan Fintech Week 2026」特設サイトを更新しました。",
-      "url": "https://www.fsa.go.jp/policy/japanfintechweek/2026/index.html",
-      "date": "2026-06-30"
     }
   ]
 }

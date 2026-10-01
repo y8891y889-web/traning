@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-09-30T10:11:33.362600+09:00",
+  "fetched_at": "2026-10-01T10:11:19.284041+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
+      "url": "https://isc.sans.edu/diary/rss/33384",
+      "date": "2026-09-30"
+    },
     {
       "title": "Scans for Wordfence Protected Websites, (Tue, Sep 29th)",
       "url": "https://isc.sans.edu/diary/rss/33382",
@@ -46,11 +51,6 @@
       "title": "ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)",
       "url": "https://isc.sans.edu/diary/rss/33364",
       "date": "2026-09-24"
-    },
-    {
-      "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
-      "url": "https://isc.sans.edu/diary/rss/33360",
-      "date": "2026-09-23"
     }
   ]
 }
