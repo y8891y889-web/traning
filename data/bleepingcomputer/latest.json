@@ -1,7 +1,52 @@
 {
-  "fetched_at": "2026-10-01T10:11:20.619598+09:00",
+  "fetched_at": "2026-10-02T10:30:14.450761+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
+      "url": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Microsoft says threat actors are ahead in the early AI race",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "The Day-One Hole in Zero Trust Architecture",
+      "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Kiteworks patches max severity code injection vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Microsoft enables Windows settings backup by default for orgs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Hackers stole Pentagon personnel records of over 3 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Metamask discloses security incident affecting its infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
+      "date": "2026-10-01"
+    },
     {
       "title": "Russian state hackers use new RedFlick technique to push malware",
       "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
@@ -31,51 +76,6 @@
       "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
       "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
       "date": "2026-09-30"
-    },
-    {
-      "title": "Microsoft to block Entra ID script injection attacks starting October",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
-      "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "Bitget hacked via zero-day in third-party security products",
-      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "Microsoft is rolling out Linux container support to WSL",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "Signal adds encypted local backup support to iOS, desktop apps",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Former US Air Force members sent to prison over BEC attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
-      "date": "2026-09-29"
     }
   ]
 }

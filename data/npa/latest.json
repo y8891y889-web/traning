@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-01T10:10:42.785384+09:00",
+  "fetched_at": "2026-10-02T10:29:35.370910+09:00",
   "source_url": "https://www.npa.go.jp/newlyarrived/index.html",
   "entries": [
+    {
+      "title": "令和８年８月末の特殊詐欺の認知・検挙状況等について",
+      "url": "https://www.npa.go.jp/publications/statistics/sousa/sagi.html",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "交通事故統計情報のオープンデータ（2025年（令和７年））公開",
+      "url": "https://www.npa.go.jp/publications/statistics/koutsuu/opendata/index_opendata.html",
+      "date": "2026-10-01"
+    },
     {
       "title": "特殊詐欺に係る被害金の追跡、凍結、回復に指向した官民協働型枠組みの協定金融機関の拡大について",
       "url": "https://www.npa.go.jp/bureau/sosikihanzai/tokushusagi.html",
@@ -96,11 +106,6 @@
       "title": "第５６回全国白バイ安全運転競技大会特設サイトの公開",
       "url": "https://shirobai.jp/",
       "date": "2026-09-03"
-    },
-    {
-      "title": "令和８年７月末の特殊詐欺の認知・検挙状況等について",
-      "url": "https://www.npa.go.jp/publications/statistics/sousa/sagi.html",
-      "date": "2026-09-02"
     }
   ]
 }

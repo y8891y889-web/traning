@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-01T10:10:44.680818+09:00",
+  "fetched_at": "2026-10-02T10:29:38.330896+09:00",
   "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
   "entries": [
+    {
+      "title": "令和8年10月8日 第102回南極地域観測統合推進本部輸送計画委員会の開催について",
+      "url": "https://www.mext.go.jp/a_menu/shinkou/nankyoku/detail/1422006_00069.htm",
+      "date": "2026-10-08"
+    },
     {
       "title": "関芳弘文部科学大臣記者会見録（令和8年9月29日）",
       "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00733.html",
@@ -48,11 +53,6 @@
       "date": "2026-09-11"
     },
     {
-      "title": "令和8年10月2日 第2回南極地域観測統合推進本部輸送体制の変更を踏まえた今後の南極地域観測事業に関する特別委員会の開催について",
-      "url": "https://www.mext.go.jp/a_menu/shinkou/nankyoku/detail/1422006_00068.htm",
-      "date": "2026-10-02"
-    },
-    {
       "title": "被災地の子供への学習・体験活動提供支援（令和8年9月11日）",
       "url": "https://www.mext.go.jp/a_menu/r8kumamotojisin/mext_00001.html",
       "date": "2026-09-11"
@@ -71,26 +71,6 @@
       "title": "文部科学省大臣官房文教施設企画・防災部施設企画課非常勤職員（時間雇用職員）採用のお知らせ（令和8年12月1日採用予定）",
       "url": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00179.htm",
       "date": "2026-12-01"
-    },
-    {
-      "title": "松本洋平文部科学大臣記者会見録（令和8年9月1日）",
-      "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00725.html",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "火山調査研究推進本部「令和9年度の火山調査研究関係予算概算要求について」を本部決定しました（令和8年8月28日）",
-      "url": "https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00288.html",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "地震調査研究推進本部「令和9年度の地震調査研究関係予算概算要求について」を本部決定しました（令和8年8月28日）",
-      "url": "https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00287.html",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "国立大学法人等の長（令和8年10月1日任命）",
-      "url": "https://www.mext.go.jp/a_menu/koutou/houjin/06042714/001.htm",
-      "date": "2026-10-01"
     }
   ]
 }

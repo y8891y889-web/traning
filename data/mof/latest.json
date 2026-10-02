@@ -1,66 +1,31 @@
 {
-  "fetched_at": "2026-10-01T10:10:35.827204+09:00",
-  "source_url": "https://www.mof.go.jp/",
+  "fetched_at": "2026-10-02T10:29:27.719146+09:00",
+  "source_url": "https://www.mof.go.jp/public_relations/whats_new/202610.html",
   "entries": [
     {
-      "title": "一覧を見る",
-      "url": "https://www.mof.go.jp/about_mof/pickup/#anker01",
-      "date": "2024-10-28"
-    },
-    {
-      "title": "特別収益前倒し融資（ERAローン）イニシアティブに関するタームシート（令和6年10月28日）［英文］(PDF:159KB)",
-      "url": "https://www.mof.go.jp/policy/international_policy/convention/g7/g7_20241028.pdf",
-      "date": "2024-10-28"
-    },
-    {
-      "title": "一覧を見る",
-      "url": "https://www.mof.go.jp/about_mof/pickup/#anker03",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "国際政策日米財務大臣会談（令和8年9月25日（金））",
-      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260925185921.html",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "国際政策片山大臣とロバートソン駐日英国大使との面会（令和8年9月16日（水））",
-      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260916094525.html",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "国債国債金利情報(令和8年9月30日)(CSV:3KB)",
+      "title": "国債国債金利情報(令和8年10月1日)(CSV:1KB)",
       "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-      "date": "2026-09-30"
+      "date": "2026-10-01"
     },
     {
-      "title": "国際政策外国為替平衡操作の実施状況 （令和8年8月27日～令和8年9月28日）",
-      "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/monthly/20260930.html",
-      "date": "2026-08-27"
+      "title": "その他人事異動(令和8年10月1日)(PDF:84KB)",
+      "url": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.10.01_49.pdf",
+      "date": "2026-10-01"
     },
     {
-      "title": "その他財政制度分科会（令和8年９月30日開催）資料一覧",
-      "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20260930zaiseia.html",
-      "date": "2026-09-30"
+      "title": "国債米ドル建株式会社日本政策投資銀行社債に対する政府保証の付与（令和8年10月8日発行）",
+      "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2025.htm",
+      "date": "2026-10-08"
     },
     {
-      "title": "国債2年利付国債（第489回）の第II非価格競争入札結果（令和8年9月30日入札）",
-      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260930a.htm",
-      "date": "2026-09-30"
+      "title": "国債交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年10月1日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261001.htm",
+      "date": "2026-10-01"
     },
     {
-      "title": "その他人事異動(令和8年9月30日)(PDF:84KB)",
-      "url": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.09.30_48.pdf",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "国債2年利付国債（第489回）の入札結果（令和8年9月30日入札）",
-      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260930.htm",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "国債エネルギー対策特別会計の借入金の入札予定（令和8年9月30日公表）",
-      "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-offer260930.htm",
-      "date": "2026-09-30"
+      "title": "国債30年利付国債（10月債）の発行予定額等（令和8年10月1日公表）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261001.htm",
+      "date": "2026-10-01"
     }
   ]
 }

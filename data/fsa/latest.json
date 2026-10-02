@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-10-01T10:10:39.264441+09:00",
+  "fetched_at": "2026-10-02T10:29:32.215026+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "令和８年台風第25号に伴う災害等に対する金融上の措置について更新しました。",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260924.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "バーゼル銀行監督委員会による「バーゼルIIIモニタリングレポート」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/bis/20261001/20261001.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "企業会計審議会監査部会（第57回）の開催について掲載しました。",
+      "url": "https://www.fsa.go.jp/news/r8/singi/20261002_kansa.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "企業会計審議会監査部会（第57回）議事次第について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/kansa/20261002/261002.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "「金融サービス利用者相談室」におけるナビダイヤルについて更新しました。",
+      "url": "https://www.fsa.go.jp/news/20/sonota/20090331-3.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "「経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定社会基盤事業者の指定等に関する内閣府令の一部を改正する内閣府令（案）」等について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261001/20261001.html",
+      "date": "2026-10-01"
+    },
     {
       "title": "令和８年台風第18号に伴う災害等に対する金融上の措置について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/ginkou/20260930.html",
@@ -103,19 +133,9 @@
       "date": "2026-09-25"
     },
     {
-      "title": "企業会計審議会監査部会（第57回）の開催について掲載しました。",
-      "url": "https://www.fsa.go.jp/news/r8/singi/20261002_kansa.html",
-      "date": "2026-09-25"
-    },
-    {
       "title": "無登録で金融商品取引業を行う者の名称等について更新しました。",
       "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html",
       "date": "2026-09-25"
-    },
-    {
-      "title": "令和８年台風第25号に伴う災害等に対する金融上の措置について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260924.html",
-      "date": "2026-09-24"
     },
     {
       "title": "金融審議会「保険制度ワーキング・グループ」（第１回）の開催について公表しました。",
@@ -306,26 +326,6 @@
       "title": "金融審議会「ディスクロージャーワーキング・グループ」（第６回）議事次第について公表しました。",
       "url": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/shiryou/20260904.html",
       "date": "2026-09-03"
-    },
-    {
-      "title": "職員を募集しています。（国内外の金融市場分析に関する業務に従事する専門調査員（非常勤職員））",
-      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-06/ginnsyou-06.html",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "職員を募集しています。（金融モニタリング業務に従事する職員）",
-      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-05/ginnsyou-05.html",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "職員を募集しています。（システム上重要な金融機関等のモニタリング業務等に従事する職員（課長補佐クラス）【弁護士】）",
-      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-04/ginnsyou-04.html",
-      "date": "2026-09-02"
-    },
-    {
-      "title": "職員を募集しています。（システム上重要な金融機関等のモニタリング業務等に従事する職員（課長補佐クラス））",
-      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-03/ginnsyou-03.html",
-      "date": "2026-09-02"
     },
     {
       "title": "無登録で暗号資産交換業を行う者（Izakaya Limited）に対する警告書の発出について公表しました。",

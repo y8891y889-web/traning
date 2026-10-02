@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-10-01T10:10:33.752496+09:00",
+  "fetched_at": "2026-10-02T10:29:26.214269+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "創業支援等事業計画制度の見直しに関する自治体・支援機関向けセミナーを開催します（2026年10月20日）",
+      "url": "https://entrepreneur.smrj.go.jp/u1lkl100000002lg.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "IP360補助金（ロケ誘致支援、流通プラットフォーム拡大支援）の第3回公募を開始しました",
+      "url": "https://www.meti.go.jp/policy/mono_info_service/contents/menu_contents.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "「経済安全保障の視点から学ぶ技術流出対策セミナー ～技術情報管理認証制度（TICS）・専門家活用・営業秘密管理の実務ポイント～」を開催します（2026年10月26日）",
+      "url": "https://www.meti.go.jp/policy/mono_info_service/mono/technology_management/tics_seminar2026.html",
+      "date": "2026-10-01"
+    },
     {
       "title": "2026年LPガス消費保安月間（10月1日から）",
       "url": "https://www.meti.go.jp/policy/safety_security/industrial_safety/oshirase/2026/09/20260929_lpgasu_syouhisyaanzen.html",
@@ -253,11 +268,6 @@
       "date": "2026-06-03"
     },
     {
-      "title": "IP360補助金（海外展開支援）の第2回公募を開始しました",
-      "url": "https://www.meti.go.jp/policy/mono_info_service/contents/menu_contents.html",
-      "date": "2026-06-02"
-    },
-    {
       "title": "NEDO事業「CCUS研究開発・実証関連事業」の成果として「CO2地中貯留技術事例集」を公開しました",
       "url": "https://www.co2choryu-kumiai.or.jp/practicalguidance/",
       "date": "2026-05-28"
@@ -271,21 +281,6 @@
       "title": "「スピンオフ」の活用に関する手引を改訂しました",
       "url": "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/oshirase/spinoff-kaitei_20260522.html",
       "date": "2026-05-22"
-    },
-    {
-      "title": "日本産業規格（JIS）を制定・改正しました（2026年5月分）",
-      "url": "https://www.meti.go.jp/policy/economy/hyojun-kijun/jiskouji/20260520001.html",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "欧州委員会（EC）による「改訂版欧州サステナビリティ報告基準（ESRS）委任規則案」へのコメントレターを発出しました",
-      "url": "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/sustainability.html",
-      "date": "2026-05-15"
-    },
-    {
-      "title": "女性リーダー育成研修（WIL）第11期参加企業の二次募集を開始しました",
-      "url": "https://www.meti.go.jp/policy/economy/jinzai/wil/index.html",
-      "date": "2026-05-13"
     }
   ]
 }

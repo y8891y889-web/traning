@@ -1,7 +1,62 @@
 {
-  "fetched_at": "2026-10-01T10:11:19.824079+09:00",
+  "fetched_at": "2026-10-02T10:30:14.047532+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+      "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+      "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+      "url": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
+      "url": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+      "url": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+      "url": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+      "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
+      "url": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
+      "url": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+      "url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+      "url": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+      "date": "2026-10-01"
+    },
     {
       "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
@@ -196,61 +251,6 @@
       "title": "The SOC Doesn't Need to Start Over with Every Alert",
       "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
       "date": "2026-09-25"
-    },
-    {
-      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-      "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-      "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-      "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-      "date": "2026-09-24"
-    },
-    {
-      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
-      "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-      "date": "2026-09-24"
-    },
-    {
-      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
-      "url": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-      "date": "2026-09-24"
-    },
-    {
-      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
-      "url": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
-      "date": "2026-09-24"
-    },
-    {
-      "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
-      "url": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
-      "date": "2026-09-24"
-    },
-    {
-      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-      "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
-      "date": "2026-09-24"
-    },
-    {
-      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
-      "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
-      "date": "2026-09-24"
     }
   ]
 }

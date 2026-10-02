@@ -39,3 +39,6 @@
 {"title": "[Control systems] Hitachi security advisory (AV26-975)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/hitachi-security-advisory-av26-975", "date": "2026-09-29", "found_at": "2026-09-30T10:11:32.960238+09:00"}
 {"title": "TeamViewer security advisory (AV26-977)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/teamviewer-security-advisory-av26-977", "date": "2026-09-29", "found_at": "2026-09-30T10:11:32.960238+09:00"}
 {"title": "Mozilla security advisory (AV26-976)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-976", "date": "2026-09-29", "found_at": "2026-09-30T10:11:32.960238+09:00"}
+{"title": "Kiteworks security advisory (AV26-988)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/kiteworks-security-advisory-av26-988", "date": "2026-10-01", "found_at": "2026-10-02T10:30:13.084214+09:00"}
+{"title": "Fortra security advisory (AV26-987)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av26-987", "date": "2026-10-01", "found_at": "2026-10-02T10:30:13.084214+09:00"}
+{"title": "MISP security advisory (AV26-986)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/misp-security-advisory-av26-986", "date": "2026-10-01", "found_at": "2026-10-02T10:30:13.084214+09:00"}
