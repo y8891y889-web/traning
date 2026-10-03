@@ -1,7 +1,42 @@
 {
-  "fetched_at": "2026-10-02T10:29:32.215026+09:00",
+  "fetched_at": "2026-10-03T10:01:28.360088+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第２回）の開催について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/singi/20261009.html",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "NISA口座の利用状況に関する調査結果（令和８年６月末時点）について公表しました。",
+      "url": "https://www.fsa.go.jp/policy/nisa/20261002.html",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年９月11日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260911-1.html",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要（令和８年９月15日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260915-1.html",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要（令和８年９月17日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260917-1.html",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年９月18日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260918-1.html",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "人事異動（令和８年９月30日付幹部名簿の更新）について公表しました。",
+      "url": "https://www.fsa.go.jp/common/about/jinji/index.html",
+      "date": "2026-10-02"
+    },
     {
       "title": "令和８年台風第25号に伴う災害等に対する金融上の措置について更新しました。",
       "url": "https://www.fsa.go.jp/news/r8/ginkou/20260924.html",
@@ -95,11 +130,6 @@
     {
       "title": "「金融機関における個人情報保護に関するQ&A」の改正について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20260928/20260928.html",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "人事異動（令和８年９月28日付幹部名簿の更新）について公表しました。",
-      "url": "https://www.fsa.go.jp/common/about/jinji/index.html",
       "date": "2026-09-28"
     },
     {
@@ -971,36 +1001,6 @@
       "title": "財務局等の英文名称の変更について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20260701/20260701.html",
       "date": "2026-07-03"
-    },
-    {
-      "title": "「スタートアップ企業等への成長資金供給等に関する懇談会」（第８回）の開催について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/startup/index.html",
-      "date": "2026-07-02"
-    },
-    {
-      "title": "企業会計審議会第２回サステナビリティ情報保証部会の議事次第について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/hoshou/20260703.html",
-      "date": "2026-07-02"
-    },
-    {
-      "title": "インド国際金融サービスセンター庁との協力枠組みに係る書簡交換（EOL）について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/etc/20260626/20260626.html",
-      "date": "2026-07-02"
-    },
-    {
-      "title": "「保険会社向けの総合的な監督指針」の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/hoken/20260701/20260701.html",
-      "date": "2026-07-01"
-    },
-    {
-      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年６月30日）について掲載しました。",
-      "url": "https://www.fsa.go.jp/common/conference/minister/2026a/20260630-1.html",
-      "date": "2026-07-01"
-    },
-    {
-      "title": "日本IFIARネットワーク第10回総会議事次第・議事要旨について公表しました。",
-      "url": "https://www.fsa.go.jp/ifiar/20260701.html",
-      "date": "2026-07-01"
     }
   ]
 }

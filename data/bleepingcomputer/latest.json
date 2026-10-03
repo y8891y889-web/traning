@@ -1,7 +1,42 @@
 {
-  "fetched_at": "2026-10-02T10:30:14.450761+09:00",
+  "fetched_at": "2026-10-03T10:02:06.685280+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Frontline Education breach exposes school district employee data",
+      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+      "url": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
+      "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
+      "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+      "date": "2026-10-02"
+    },
     {
       "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
       "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
@@ -41,41 +76,6 @@
       "title": "Hackers stole Pentagon personnel records of over 3 million people",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
       "date": "2026-10-01"
-    },
-    {
-      "title": "Metamask discloses security incident affecting its infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Russian state hackers use new RedFlick technique to push malware",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
-      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
-      "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
-      "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
-      "date": "2026-09-30"
     }
   ]
 }

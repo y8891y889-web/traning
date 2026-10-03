@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-02T10:30:13.428501+09:00",
+  "fetched_at": "2026-10-03T10:02:05.634367+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
+      "url": "https://isc.sans.edu/diary/rss/33390",
+      "date": "2026-10-02"
+    },
     {
       "title": "ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)",
       "url": "https://isc.sans.edu/diary/rss/33388",
@@ -45,11 +50,6 @@
     {
       "title": "A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)",
       "url": "https://isc.sans.edu/diary/rss/33368",
-      "date": "2026-09-25"
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)",
-      "url": "https://isc.sans.edu/diary/rss/33370",
       "date": "2026-09-25"
     }
   ]

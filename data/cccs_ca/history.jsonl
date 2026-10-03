@@ -42,3 +42,6 @@
 {"title": "Kiteworks security advisory (AV26-988)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/kiteworks-security-advisory-av26-988", "date": "2026-10-01", "found_at": "2026-10-02T10:30:13.084214+09:00"}
 {"title": "Fortra security advisory (AV26-987)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av26-987", "date": "2026-10-01", "found_at": "2026-10-02T10:30:13.084214+09:00"}
 {"title": "MISP security advisory (AV26-986)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/misp-security-advisory-av26-986", "date": "2026-10-01", "found_at": "2026-10-02T10:30:13.084214+09:00"}
+{"title": "[Control Systems] Moxa security advisory (AV26-995)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-995", "date": "2026-10-02", "found_at": "2026-10-03T10:02:05.193096+09:00"}
+{"title": "GitLab security advisory (AV26-994)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-994", "date": "2026-10-02", "found_at": "2026-10-03T10:02:05.193096+09:00"}
+{"title": "[Control systems] Hitachi security advisory (AV26-993)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av26-993", "date": "2026-10-02", "found_at": "2026-10-03T10:02:05.193096+09:00"}

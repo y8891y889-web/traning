@@ -1,10 +1,15 @@
 {
-  "fetched_at": "2026-10-02T10:29:46.756504+09:00",
+  "fetched_at": "2026-10-03T10:01:41.796398+09:00",
   "source_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
   "entries": [
     {
-      "title": "Armatura LLC Armatura One",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-01",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Johnson Controls EasyIO Neo Series EC and CW Controllers",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-05",
       "date": "2026-10-01"
     },
     {
@@ -18,13 +23,8 @@
       "date": "2026-10-01"
     },
     {
-      "title": "Johnson Controls EasyIO Neo Series EC and CW Controllers",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-04",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "title": "Armatura LLC Armatura One",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-01",
       "date": "2026-10-01"
     },
     {
@@ -34,7 +34,12 @@
     },
     {
       "title": "Johnson Controls EasyIO Neo Series EC and CW Controllers",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-05",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-04",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/01/cisa-adds-one-known-exploited-vulnerability-catalog",
       "date": "2026-10-01"
     },
     {
@@ -48,11 +53,6 @@
       "date": "2026-09-30"
     },
     {
-      "title": "MikroTik RouterOS",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06",
-      "date": "2026-09-29"
-    },
-    {
       "title": "Lantronix G520 Series Cellular Gateway",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-01",
       "date": "2026-09-29"
@@ -63,13 +63,13 @@
       "date": "2026-09-29"
     },
     {
-      "title": "Viidure Dashcam Android Application",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-07",
+      "title": "Toptech TMS7 and TopHAT",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-02",
       "date": "2026-09-29"
     },
     {
-      "title": "Toptech TMS7 and TopHAT",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-02",
+      "title": "Viidure Dashcam Android Application",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-07",
       "date": "2026-09-29"
     },
     {
@@ -88,13 +88,18 @@
       "date": "2026-09-29"
     },
     {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/09/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-09-27"
+      "title": "MikroTik RouterOS",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06",
+      "date": "2026-09-29"
     },
     {
       "title": "Critical Zero-Day Vulnerabilities Exploited in Citrix NetScaler ADC, Gateway",
       "url": "https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway",
+      "date": "2026-09-27"
+    },
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-09-27"
     },
     {
@@ -113,11 +118,6 @@
       "date": "2026-09-24"
     },
     {
-      "title": "Eufy Omni C20, Omni X10 Pro",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-267-02",
-      "date": "2026-09-24"
-    },
-    {
       "title": "Botslab G980H Dashcams",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-267-01",
       "date": "2026-09-24"
@@ -128,6 +128,11 @@
       "date": "2026-09-24"
     },
     {
+      "title": "Eufy Omni C20, Omni X10 Pro",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-267-02",
+      "date": "2026-09-24"
+    },
+    {
       "title": "Considerations for Critical Infrastructure Operators Working With Third-Party ICS Integrators",
       "url": "https://www.cisa.gov/resources-tools/resources/considerations-critical-infrastructure-operators-working-third-party-ics-integrators",
       "date": "2026-09-23"
@@ -135,11 +140,6 @@
     {
       "title": "Siemens SIPLUS and SIMATIC Products",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-04",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "Siemens Desigo CC family",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-05",
       "date": "2026-09-22"
     },
     {
