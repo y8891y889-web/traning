@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-03T10:02:05.634367+09:00",
+  "fetched_at": "2026-10-04T09:26:44.440787+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
+      "url": "https://isc.sans.edu/diary/rss/33392",
+      "date": "2026-10-03"
+    },
     {
       "title": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
       "url": "https://isc.sans.edu/diary/rss/33390",
@@ -46,11 +51,6 @@
       "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
       "url": "https://isc.sans.edu/diary/rss/33372",
       "date": "2026-09-27"
-    },
-    {
-      "title": "A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)",
-      "url": "https://isc.sans.edu/diary/rss/33368",
-      "date": "2026-09-25"
     }
   ]
 }
