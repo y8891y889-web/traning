@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-04T09:26:45.689136+09:00",
+  "fetched_at": "2026-10-05T09:39:08.757276+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "date": "2026-10-04"
+    },
+    {
+      "title": "Anthropic asks Claude users to share voice data for AI model training",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+      "date": "2026-10-04"
+    },
     {
       "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
       "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
@@ -65,16 +75,6 @@
     {
       "title": "Microsoft says threat actors are ahead in the early AI race",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "The Day-One Hole in Zero Trust Architecture",
-      "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
       "date": "2026-10-01"
     }
   ]

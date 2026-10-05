@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-04T09:26:44.440787+09:00",
+  "fetched_at": "2026-10-05T09:39:07.849531+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "TTY Logs and the Data it Captures, (Sun, Oct 4th)",
+      "url": "https://isc.sans.edu/diary/rss/33396",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "User Agent Strings Curiosities, (Sun, Oct 4th)",
+      "url": "https://isc.sans.edu/diary/rss/33394",
+      "date": "2026-10-04"
+    },
     {
       "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
       "url": "https://isc.sans.edu/diary/rss/33392",
@@ -41,16 +51,6 @@
       "title": "Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
       "url": "https://isc.sans.edu/diary/rss/33376",
       "date": "2026-09-28"
-    },
-    {
-      "title": "ISC Stormcast For Monday, September 28th, 2026 https://isc.sans.edu/podcastdetail/10112, (Mon, Sep 28th)",
-      "url": "https://isc.sans.edu/diary/rss/33374",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
-      "url": "https://isc.sans.edu/diary/rss/33372",
-      "date": "2026-09-27"
     }
   ]
 }
