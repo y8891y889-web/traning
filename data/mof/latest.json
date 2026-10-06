@@ -1,10 +1,30 @@
 {
-  "fetched_at": "2026-10-05T09:38:24.619119+09:00",
+  "fetched_at": "2026-10-06T11:08:52.527190+09:00",
   "source_url": "https://www.mof.go.jp/public_relations/whats_new/202610.html",
   "entries": [
     {
-      "title": "国債国債金利情報(令和8年10月2日)(CSV:1KB)",
+      "title": "国債10年利付国債（第384回）の入札発行（令和8年10月6日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261006.htm",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "国債国債金利情報(令和8年10月5日)(CSV:1KB)",
       "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "国際政策日豪財務大臣対話に関する協力覚書への署名及び第1回日豪財務大臣対話の開催について（令和8年10月5日（月））",
+      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260925182036.html",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "国債交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年10月5日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261005.htm",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "国際政策日豪共同戦略金融協力覚書への署名及び日豪戦略投資ネットワーキングフォーラム（SINF）の開催について（令和8年10月2日（金））",
+      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260925182123.html",
       "date": "2026-10-02"
     },
     {

@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-05T09:39:07.849531+09:00",
+  "fetched_at": "2026-10-06T11:09:38.100322+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)",
+      "url": "https://isc.sans.edu/diary/rss/33398",
+      "date": "2026-10-05"
+    },
     {
       "title": "TTY Logs and the Data it Captures, (Sun, Oct 4th)",
       "url": "https://isc.sans.edu/diary/rss/33396",
@@ -46,11 +51,6 @@
       "title": "ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)",
       "url": "https://isc.sans.edu/diary/rss/33378",
       "date": "2026-09-29"
-    },
-    {
-      "title": "Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
-      "url": "https://isc.sans.edu/diary/rss/33376",
-      "date": "2026-09-28"
     }
   ]
 }

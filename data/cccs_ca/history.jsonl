@@ -45,3 +45,6 @@
 {"title": "[Control Systems] Moxa security advisory (AV26-995)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-995", "date": "2026-10-02", "found_at": "2026-10-03T10:02:05.193096+09:00"}
 {"title": "GitLab security advisory (AV26-994)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-994", "date": "2026-10-02", "found_at": "2026-10-03T10:02:05.193096+09:00"}
 {"title": "[Control systems] Hitachi security advisory (AV26-993)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av26-993", "date": "2026-10-02", "found_at": "2026-10-03T10:02:05.193096+09:00"}
+{"title": "Microsoft security advisory (AV26-1001)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-av26-1001", "date": "2026-10-05", "found_at": "2026-10-06T11:09:37.636617+09:00"}
+{"title": "HPE security advisory (AV26-1000)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-1000", "date": "2026-10-05", "found_at": "2026-10-06T11:09:37.636617+09:00"}
+{"title": "Progress security advisory (AV26-999)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-999", "date": "2026-10-05", "found_at": "2026-10-06T11:09:37.636617+09:00"}
