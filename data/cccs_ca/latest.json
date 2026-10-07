@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-10-06T11:09:37.636237+09:00",
+  "fetched_at": "2026-10-07T10:21:44.131920+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "Microsoft security advisory (AV26-1001)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-av26-1001",
-      "date": "2026-10-05"
+      "title": "Progress security advisory (AV26-1005)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-1005",
+      "date": "2026-10-06"
     },
     {
-      "title": "HPE security advisory (AV26-1000)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-1000",
-      "date": "2026-10-05"
+      "title": "Rapid7 security advisory (AV26-1004)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/rapid7-security-advisory-av26-1004",
+      "date": "2026-10-06"
     },
     {
-      "title": "Progress security advisory (AV26-999)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-999",
-      "date": "2026-10-05"
+      "title": "Android security advisory – October 2026 monthly rollup (AV26-1003)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-october-2026-monthly-rollup-av26-1003",
+      "date": "2026-10-06"
     }
   ]
 }

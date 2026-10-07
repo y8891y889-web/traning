@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-06T11:08:57.505609+09:00",
+  "fetched_at": "2026-10-07T10:21:03.610499+09:00",
   "source_url": "https://www.enecho.meti.go.jp/notice/whatsnew/",
   "entries": [
+    {
+      "title": "公募結果を更新しました",
+      "url": "https://www.enecho.meti.go.jp/appli/public_offer_result/",
+      "date": "2026-10-06"
+    },
     {
       "title": "正しく知ろう！CO2を集めて地中に埋める「CCS」、進む事業化の現在地",
       "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/ccs_2026.html",
@@ -21,11 +26,6 @@
       "title": "公募を更新しました",
       "url": "https://www.enecho.meti.go.jp/appli/public_offer/",
       "date": "2026-09-01"
-    },
-    {
-      "title": "公募結果を更新しました",
-      "url": "https://www.enecho.meti.go.jp/appli/public_offer_result/",
-      "date": "2026-08-19"
     },
     {
       "title": "「GXリーグ」が「GXフューチャー・リーグ」に！サプライチェーン全体で挑む“GX需要創出”とは？",

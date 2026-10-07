@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-06T11:09:38.100322+09:00",
+  "fetched_at": "2026-10-07T10:21:44.532945+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "More RMM Tools In the Wild, (Tue, Oct 6th)",
+      "url": "https://isc.sans.edu/diary/rss/33400",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)",
+      "url": "https://isc.sans.edu/diary/rss/33402",
+      "date": "2026-10-06"
+    },
     {
       "title": "ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)",
       "url": "https://isc.sans.edu/diary/rss/33398",
@@ -41,16 +51,6 @@
       "title": "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
       "url": "https://isc.sans.edu/diary/rss/33384",
       "date": "2026-09-30"
-    },
-    {
-      "title": "Scans for Wordfence Protected Websites, (Tue, Sep 29th)",
-      "url": "https://isc.sans.edu/diary/rss/33382",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)",
-      "url": "https://isc.sans.edu/diary/rss/33378",
-      "date": "2026-09-29"
     }
   ]
 }

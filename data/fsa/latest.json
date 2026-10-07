@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-06T11:08:57.276048+09:00",
+  "fetched_at": "2026-10-07T10:21:02.881312+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "バーゼル銀行監督委員会による議事要旨について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/bis/20261006/20261006.html",
+      "date": "2026-10-06"
+    },
     {
       "title": "令和８年熊本地震関連情報に関する特設ページを更新しました。",
       "url": "https://www.fsa.go.jp/ordinary/earthquake202607/press.html",
@@ -70,11 +75,6 @@
     {
       "title": "バーゼル銀行監督委員会による「バーゼルIIIモニタリングレポート」について公表しました。",
       "url": "https://www.fsa.go.jp/inter/bis/20261001/20261001.html",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "企業会計審議会監査部会（第57回）の開催について掲載しました。",
-      "url": "https://www.fsa.go.jp/news/r8/singi/20261002_kansa.html",
       "date": "2026-10-01"
     },
     {
@@ -185,6 +185,11 @@
     {
       "title": "「AI時代を見据えたオンチェーン金融フォーラム」について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/singi/20260925.html",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "企業会計審議会監査部会（第57回）の開催について掲載しました。",
+      "url": "https://www.fsa.go.jp/news/r8/singi/20261002_kansa.html",
       "date": "2026-09-25"
     },
     {
@@ -996,11 +1001,6 @@
       "title": "大手金融機関グループ等の取組状況（運用力向上・ガバナンス強化等）について更新しました。",
       "url": "https://www.fsa.go.jp/policy/pjlamc/initiativesbythefinancialindustry/20240124.html",
       "date": "2026-07-06"
-    },
-    {
-      "title": "NISA口座の利用状況に関する調査結果（令和７年12月末時点）について公表しました。",
-      "url": "https://www.fsa.go.jp/policy/nisa/20260703.html",
-      "date": "2026-07-03"
     }
   ]
 }

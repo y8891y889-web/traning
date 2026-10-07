@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-06T11:09:12.343301+09:00",
+  "fetched_at": "2026-10-07T10:21:16.584884+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
+    {
+      "title": "Incident affecting ASOS customers",
+      "url": "https://www.ncsc.gov.uk/news/incident-affecting-asos-customers",
+      "date": "2026-10-06"
+    },
     {
       "title": "Exploitation of vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway",
       "url": "https://www.ncsc.gov.uk/news/exploitation-of-vulnerabilities-affecting-citrix-netscaler-adc-and-citrix-netscaler-gateway",
@@ -13,23 +18,23 @@
       "date": "2026-09-21"
     },
     {
-      "title": "Adversary simulation: what you need to know",
-      "url": "https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know",
-      "date": "2026-09-17"
-    },
-    {
       "title": "Cyber Adversary Simulation (CyAS): scheme documents now available",
       "url": "https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available",
       "date": "2026-09-17"
     },
     {
-      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
-      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
-      "date": "2026-09-15"
+      "title": "Adversary simulation: what you need to know",
+      "url": "https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know",
+      "date": "2026-09-17"
     },
     {
       "title": "Iranian cyber targeting of dissidents, activists and journalists",
       "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
+      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
       "date": "2026-09-15"
     },
     {
@@ -96,11 +101,6 @@
       "title": "UK and Allies urge critical sectors to improve defences against Russian intelligence targeting",
       "url": "https://www.ncsc.gov.uk/news/uk-and-allies-urge-critical-sectors-to-improve-defences-against-russian-intelligence-targeting",
       "date": "2026-07-13"
-    },
-    {
-      "title": "Cyber Essentials Pathways: from proof of concept to cyber confidence",
-      "url": "https://www.ncsc.gov.uk/blogs/cyber-essentials-pathways-from-proof-of-concept-to-cyber-confidence",
-      "date": "2026-07-09"
     }
   ]
 }

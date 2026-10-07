@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-06T11:09:01.293009+09:00",
+  "fetched_at": "2026-10-07T10:21:06.488201+09:00",
   "source_url": "https://www.npa.go.jp/newlyarrived/index.html",
   "entries": [
+    {
+      "title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律に基づく対象特別要人所在施設等の指定について（愛知・名古屋2026アジアパラ競技大会関係）",
+      "url": "https://www.npa.go.jp/news/release/2026/20261007001.html",
+      "date": "2026-10-07"
+    },
     {
       "title": "「レジデンシャルプロキシ対策アライアンス」第1回会合の開催結果の公表について",
       "url": "https://www.npa.go.jp/bureau/cyber/what-we-do/alliance.html",
@@ -111,11 +116,6 @@
       "title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律に基づく対象特別要人所在施設等の指定について（第20回アジア競技大会）",
       "url": "https://www.npa.go.jp/bureau/security/kogatamujinki/0907kouhousiryou.pdf",
       "date": "2026-09-07"
-    },
-    {
-      "title": "第５６回全国白バイ安全運転競技大会特設サイトの公開",
-      "url": "https://shirobai.jp/",
-      "date": "2026-09-03"
     }
   ]
 }

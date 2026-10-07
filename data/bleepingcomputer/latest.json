@@ -1,7 +1,52 @@
 {
-  "fetched_at": "2026-10-06T11:09:39.156849+09:00",
+  "fetched_at": "2026-10-07T10:21:46.007396+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
+      "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
+      "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "How to secure RMM software: 8 controls MSPs should test",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
+      "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+      "date": "2026-10-06"
+    },
     {
       "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
@@ -31,51 +76,6 @@
       "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
       "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
       "date": "2026-10-05"
-    },
-    {
-      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
-      "url": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
-      "url": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "OpenAI will show visual ads in ChatGPT while you generate images",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Google halts open-source bug bounty program amid AI spam surge",
-      "url": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Anthropic asks Claude users to share voice data for AI model training",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
-      "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
-      "date": "2026-10-03"
-    },
-    {
-      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-      "date": "2026-10-03"
     }
   ]
 }
