@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-07T10:21:44.532945+09:00",
+  "fetched_at": "2026-10-08T10:42:22.704678+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
+      "url": "https://isc.sans.edu/diary/rss/33406",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)",
+      "url": "https://isc.sans.edu/diary/rss/33404",
+      "date": "2026-10-07"
+    },
     {
       "title": "More RMM Tools In the Wild, (Tue, Oct 6th)",
       "url": "https://isc.sans.edu/diary/rss/33400",
@@ -41,16 +51,6 @@
       "title": "ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)",
       "url": "https://isc.sans.edu/diary/rss/33388",
       "date": "2026-10-01"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 1st, 2026 https://isc.sans.edu/podcastdetail/10118, (Thu, Oct 1st)",
-      "url": "https://isc.sans.edu/diary/rss/33386",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
-      "url": "https://isc.sans.edu/diary/rss/33384",
-      "date": "2026-09-30"
     }
   ]
 }

@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-07T10:22:06.683684+09:00",
+  "fetched_at": "2026-10-08T10:42:42.864713+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "Microsoft, Adobe, Apple, and Foxit vulnerabilities",
+      "url": "https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/",
+      "date": "2026-10-07"
+    },
+    {
+      "title": "One breach, please, and make no mistakes",
+      "url": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/",
+      "date": "2026-10-07"
+    },
     {
       "title": "Give yourself room to be human",
       "url": "https://blog.talosintelligence.com/give-yourself-room-to-be-human/",
@@ -65,16 +75,6 @@
     {
       "title": "Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities",
       "url": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-      "url": "https://blog.talosintelligence.com/clearfake-webdav-infection-chain/",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2",
-      "url": "https://blog.talosintelligence.com/clickfix-moves-into-the-browser/",
       "date": "2026-09-08"
     }
   ]

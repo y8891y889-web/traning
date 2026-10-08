@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-07T10:20:58.987163+09:00",
+  "fetched_at": "2026-10-08T10:41:29.307054+09:00",
   "source_url": "https://www.moj.go.jp/list_info.html",
   "entries": [
+    {
+      "title": "法務大臣閣議後記者会見の概要－令和８年１０月６日（火）",
+      "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_01181.html",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "法務大臣閣議後記者会見の概要－令和８年１０月２日（金）",
+      "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_01180.html",
+      "date": "2026-10-02"
+    },
     {
       "title": "法務大臣閣議後記者会見の概要－令和８年９月２９日（火）",
       "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_01179.html",
@@ -991,16 +1001,6 @@
       "title": "法務大臣閣議後記者会見の概要－令和６年１０月４日（金）",
       "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_00550.html",
       "date": "2024-10-04"
-    },
-    {
-      "title": "牧原法務大臣初登庁後記者会見の概要－令和６年１０月２日（水）",
-      "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_00548.html",
-      "date": "2024-10-02"
-    },
-    {
-      "title": "第１４回持続可能な保護司制度の確立に向けた検討会（令和６年１０月３日（木））",
-      "url": "https://www.moj.go.jp/shingi1/shingi07200001_00036.html",
-      "date": "2024-10-03"
     }
   ]
 }
