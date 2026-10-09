@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-10-08T10:41:32.468453+09:00",
+  "fetched_at": "2026-10-09T10:54:46.559616+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
+      "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第２回）議事次第について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijishidai/20261009.html",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "令和８年３月期における金融再生法開示債権の状況等（ポイント）を公表しました。",
+      "url": "https://www.fsa.go.jp/status/npl/20261008.html",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "職員を募集しています。（金融モニタリング業務に従事する職員）",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-09/ginnsyou-09.html",
+      "date": "2026-10-08"
+    },
     {
       "title": "無登録で暗号資産交換業を行う者の名称等について公表しました。",
       "url": "https://www.fsa.go.jp/ordinary/chuui/angoushisan_mutouroku.html",
@@ -125,11 +145,6 @@
     {
       "title": "金融機関における貸付条件の変更等の状況についてを更新しました。",
       "url": "https://www.fsa.go.jp/ordinary/tariff202504/kashitsuke/202506.html",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
-      "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
       "date": "2026-09-30"
     },
     {
@@ -985,21 +1000,6 @@
     {
       "title": "第152回自動車損害賠償責任保険審議会議事録について公表しました。",
       "url": "https://www.fsa.go.jp/singi/singi_zidousya/gijiroku/20260417.html",
-      "date": "2026-07-09"
-    },
-    {
-      "title": "第153回自動車損害賠償責任保険審議会議事録について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/singi_zidousya/gijiroku/20260430.html",
-      "date": "2026-07-09"
-    },
-    {
-      "title": "第152回自動車損害賠償責任保険審議会議事要旨について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/singi_zidousya/gijiyosi/20260417.html",
-      "date": "2026-07-09"
-    },
-    {
-      "title": "第153回自動車損害賠償責任保険審議会議事要旨について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/singi_zidousya/gijiyosi/20260430.html",
       "date": "2026-07-09"
     }
   ]

@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-10-08T10:41:28.356793+09:00",
+  "fetched_at": "2026-10-09T10:54:35.904334+09:00",
   "source_url": "https://www.mof.go.jp/public_relations/whats_new/202610.html",
   "entries": [
+    {
+      "title": "国債国債金利情報(令和8年10月8日)(CSV:1KB)",
+      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "国債30年利付国債（第92回）の第II非価格競争入札結果（令和8年10月8日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261008a.htm",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "国債30年利付国債（第92回）の入札結果（令和8年10月8日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261008.htm",
+      "date": "2026-10-08"
+    },
     {
       "title": "国債交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年10月8日公表）",
       "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer261008.htm",
@@ -11,11 +26,6 @@
       "title": "国債30年利付国債（第92回）の入札発行（令和8年10月8日入札）",
       "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261008.htm",
       "date": "2026-10-08"
-    },
-    {
-      "title": "国債国債金利情報(令和8年10月7日)(CSV:1KB)",
-      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-      "date": "2026-10-07"
     },
     {
       "title": "国債エネルギー対策特別会計の借入金の入札結果（令和8年10月7日入札）",

@@ -98,3 +98,7 @@
 {"title": "Hitachi Energy SOI", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-04", "date": "2026-10-06", "found_at": "2026-10-07T10:21:16.310075+09:00"}
 {"title": "Savannah lwIP SMTP client", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-02", "date": "2026-10-06", "found_at": "2026-10-07T10:21:16.310075+09:00"}
 {"title": "Hitachi Energy RTU500", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-06", "date": "2026-10-06", "found_at": "2026-10-07T10:21:16.310075+09:00"}
+{"title": "Satel Netco Design", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-03", "date": "2026-10-08", "found_at": "2026-10-09T10:55:03.820208+09:00"}
+{"title": "Grid Protection Alliance openPDC and openHistorian", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-02", "date": "2026-10-08", "found_at": "2026-10-09T10:55:03.820208+09:00"}
+{"title": "Red Lion Controls N-Tron 700 Series", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-01", "date": "2026-10-08", "found_at": "2026-10-09T10:55:03.820208+09:00"}
+{"title": "Chinese Government-linked Cyber Threat Actors Combine Automated and Hands-on Hacking Tools to Steal Sensitive Data", "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-281a", "date": "2026-10-08", "found_at": "2026-10-09T10:55:03.820208+09:00"}

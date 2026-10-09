@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-08T10:41:54.860220+09:00",
+  "fetched_at": "2026-10-09T10:55:03.911251+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
+    {
+      "title": "China-linked malicious actors called out by UK and international partners for targeting sensitive data globally",
+      "url": "https://www.ncsc.gov.uk/news/china-linked-actors-called-out-by-uk-and-international-partners-for-targeting-sensitive-data",
+      "date": "2026-10-08"
+    },
     {
       "title": "Incident affecting ASOS customers",
       "url": "https://www.ncsc.gov.uk/news/incident-affecting-asos-customers",
@@ -28,13 +33,13 @@
       "date": "2026-09-17"
     },
     {
-      "title": "Iranian cyber targeting of dissidents, activists and journalists",
-      "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
+      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
+      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
       "date": "2026-09-15"
     },
     {
-      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
-      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
+      "title": "Iranian cyber targeting of dissidents, activists and journalists",
+      "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
       "date": "2026-09-15"
     },
     {
@@ -96,11 +101,6 @@
       "title": "Helping small businesses with free, hands-on cyber consultancy",
       "url": "https://www.ncsc.gov.uk/blogs/helping-small-businesses-with-free-hands-on-cyber-consultancy",
       "date": "2026-07-15"
-    },
-    {
-      "title": "UK and Allies urge critical sectors to improve defences against Russian intelligence targeting",
-      "url": "https://www.ncsc.gov.uk/news/uk-and-allies-urge-critical-sectors-to-improve-defences-against-russian-intelligence-targeting",
-      "date": "2026-07-13"
     }
   ]
 }

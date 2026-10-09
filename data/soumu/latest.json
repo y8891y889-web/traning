@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-08T10:41:32.015069+09:00",
+  "fetched_at": "2026-10-09T10:54:46.137782+09:00",
   "source_url": "https://www.soumu.go.jp/toukei/snews_back.html",
   "entries": [
+    {
+      "title": "家計調査報告（二人以上の世帯）2026年（令和8年）8月分",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei07_01000294.html",
+      "date": "2026-10-09"
+    },
     {
       "title": "労働力調査（基本集計）2026年（令和8年）8月分",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei04_01000305.html",
@@ -496,11 +501,6 @@
       "title": "「消費者物価指数2025年基準改定計画（案）」についての意見募集の結果",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000325.html",
       "date": "2025-10-16"
-    },
-    {
-      "title": "令和7年国勢調査のインターネット回答状況（10月9日午前0時現在）",
-      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei03_01000134.html",
-      "date": "2025-10-10"
     }
   ]
 }

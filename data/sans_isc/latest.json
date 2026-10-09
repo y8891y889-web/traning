@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-08T10:42:22.704678+09:00",
+  "fetched_at": "2026-10-09T10:55:27.104683+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
+      "url": "https://isc.sans.edu/diary/rss/33410",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, (Thu, Oct 8th)",
+      "url": "https://isc.sans.edu/diary/rss/33408",
+      "date": "2026-10-08"
+    },
     {
       "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
       "url": "https://isc.sans.edu/diary/rss/33406",
@@ -41,16 +51,6 @@
       "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
       "url": "https://isc.sans.edu/diary/rss/33392",
       "date": "2026-10-03"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
-      "url": "https://isc.sans.edu/diary/rss/33390",
-      "date": "2026-10-02"
-    },
-    {
-      "title": "ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)",
-      "url": "https://isc.sans.edu/diary/rss/33388",
-      "date": "2026-10-01"
     }
   ]
 }

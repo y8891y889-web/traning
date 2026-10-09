@@ -54,3 +54,6 @@
 {"title": "SonicWall security advisory (AV26-1017)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-1017", "date": "2026-10-07", "found_at": "2026-10-08T10:42:22.283594+09:00"}
 {"title": "wolfSSL security advisory (AV26-1016)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/wolfssl-security-advisory-av26-1016", "date": "2026-10-07", "found_at": "2026-10-08T10:42:22.283594+09:00"}
 {"title": "Arista Networks security advisory (AV26-1015)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/arista-networks-security-advisory-av26-1015", "date": "2026-10-07", "found_at": "2026-10-08T10:42:22.283594+09:00"}
+{"title": "IBM security advisory (AV26-1022)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1022", "date": "2026-10-08", "found_at": "2026-10-09T10:55:26.691905+09:00"}
+{"title": "Elastic security advisory (AV26-1021)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/elastic-security-advisory-av26-1021", "date": "2026-10-08", "found_at": "2026-10-09T10:55:26.691905+09:00"}
+{"title": "Cisco security advisory (AV26-1020)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1020", "date": "2026-10-08", "found_at": "2026-10-09T10:55:26.691905+09:00"}

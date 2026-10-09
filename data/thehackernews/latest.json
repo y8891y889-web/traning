@@ -1,7 +1,57 @@
 {
-  "fetched_at": "2026-10-08T10:42:24.149255+09:00",
+  "fetched_at": "2026-10-09T10:55:27.619969+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+      "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+      "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+      "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+      "url": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+      "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+      "url": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+      "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
+      "url": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
+      "url": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
+      "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+      "date": "2026-10-08"
+    },
     {
       "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
       "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
@@ -201,56 +251,6 @@
       "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
       "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
       "date": "2026-10-02"
-    },
-    {
-      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
-      "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-      "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
-      "url": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
-      "url": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
-      "url": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
-      "url": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
-      "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
-      "url": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-      "url": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-      "url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
-      "date": "2026-10-01"
     }
   ]
 }
