@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-09T10:54:49.338137+09:00",
+  "fetched_at": "2026-10-10T10:36:31.448690+09:00",
   "source_url": "https://www.npa.go.jp/newlyarrived/index.html",
   "entries": [
+    {
+      "title": "中国政府関連のサイバー攻撃グループを支援する企業に関する 国際アドバイザリーへの共同署名について",
+      "url": "https://www.npa.go.jp/bureau/cyber/koho/caution/caution202610_itg.html",
+      "date": "2026-10-09"
+    },
     {
       "title": "ロシア国籍ランサムウェア被疑者逮捕に関するドイツの広報について",
       "url": "https://www.npa.go.jp/news/release/2026/20261008001.html",
@@ -116,11 +121,6 @@
       "title": "令和８年秋の全国交通安全運動の実施について",
       "url": "https://www.npa.go.jp/news/release/2026/20260902001.html",
       "date": "2026-09-10"
-    },
-    {
-      "title": "捜査特別報奨金に関する広告（令和８年９月９日）",
-      "url": "https://www.npa.go.jp/bureau/criminal/reward/contents116.html",
-      "date": "2026-09-09"
     }
   ]
 }

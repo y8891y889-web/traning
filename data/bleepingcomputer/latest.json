@@ -1,7 +1,57 @@
 {
-  "fetched_at": "2026-10-09T10:55:28.035188+09:00",
+  "fetched_at": "2026-10-10T10:37:12.081400+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "How to keep AI agents within their permissions",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
+      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
+      "date": "2026-10-09"
+    },
     {
       "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
@@ -26,56 +76,6 @@
       "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
       "date": "2026-10-08"
-    },
-    {
-      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
-      "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "ASOS links data breach to social engineering attack, credential theft",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "Owner of Empire cybercrime market gets 40 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
-      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "Ransomware recovery CEO charged over secret ransom payments",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
-      "date": "2026-10-07"
-    },
-    {
-      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
-      "date": "2026-10-07"
-    },
-    {
-      "title": "Hackers hijack Google domains after breaching ccTLD registries",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
-      "date": "2026-10-07"
-    },
-    {
-      "title": "Microsoft Outlook to block MSIX attachments starting November",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
-      "date": "2026-10-07"
     }
   ]
 }

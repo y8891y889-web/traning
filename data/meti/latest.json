@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-09T10:54:34.426407+09:00",
+  "fetched_at": "2026-10-10T10:36:21.553549+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "令和9年度 起業家教育プログラム支援先募集のご案内",
+      "url": "https://entrepreneur.smrj.go.jp/u1lkl100000003dv.html",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "不正アクセスによる情報漏えい等の事案を踏まえた注意喚起及び情報提供に係る協力依頼",
+      "url": "https://www.meti.go.jp/policy/netsecurity/pdf/20261009_chuuikanki.pdf",
+      "date": "2026-10-09"
+    },
     {
       "title": "創業支援等事業計画制度の見直しに関する自治体・支援機関向けセミナーを開催します（2026年10月20日）",
       "url": "https://entrepreneur.smrj.go.jp/u1lkl100000002lg.html",
@@ -271,16 +281,6 @@
       "title": "NEDO事業「CCUS研究開発・実証関連事業」の成果として「CO2地中貯留技術事例集」を公開しました",
       "url": "https://www.co2choryu-kumiai.or.jp/practicalguidance/",
       "date": "2026-05-28"
-    },
-    {
-      "title": "「夏季の省エネルギーの取組について」を決定しました",
-      "url": "https://www.enecho.meti.go.jp/category/saving_and_new/saving/government/shouene_torikumi_r8summer.html",
-      "date": "2026-05-26"
-    },
-    {
-      "title": "「スピンオフ」の活用に関する手引を改訂しました",
-      "url": "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/oshirase/spinoff-kaitei_20260522.html",
-      "date": "2026-05-22"
     }
   ]
 }

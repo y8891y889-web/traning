@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-09T10:55:27.104683+09:00",
+  "fetched_at": "2026-10-10T10:37:10.759990+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
+      "url": "https://isc.sans.edu/diary/rss/33412",
+      "date": "2026-10-09"
+    },
     {
       "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
       "url": "https://isc.sans.edu/diary/rss/33410",
@@ -46,11 +51,6 @@
       "title": "User Agent Strings Curiosities, (Sun, Oct 4th)",
       "url": "https://isc.sans.edu/diary/rss/33394",
       "date": "2026-10-04"
-    },
-    {
-      "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
-      "url": "https://isc.sans.edu/diary/rss/33392",
-      "date": "2026-10-03"
     }
   ]
 }

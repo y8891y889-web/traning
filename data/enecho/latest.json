@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-09T10:54:46.763449+09:00",
+  "fetched_at": "2026-10-10T10:36:28.747682+09:00",
   "source_url": "https://www.enecho.meti.go.jp/notice/whatsnew/",
   "entries": [
+    {
+      "title": "公募を更新しました",
+      "url": "https://www.enecho.meti.go.jp/appli/public_offer/",
+      "date": "2026-10-09"
+    },
     {
       "title": "知っているようで知らない「蓄電池」——なぜ今、導入が広がっているの？ どんな役割があるの？",
       "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/strage_battery_2026.html",
@@ -26,11 +31,6 @@
       "title": "ガス事業生産動態統計調査（ガス小売事業（特定ガス発生設備においてガスを発生させ、導管によりこれを供給するものに限る））を更新しました",
       "url": "https://www.enecho.meti.go.jp/statistics/gas/ga002/",
       "date": "2026-09-04"
-    },
-    {
-      "title": "公募を更新しました",
-      "url": "https://www.enecho.meti.go.jp/appli/public_offer/",
-      "date": "2026-09-01"
     },
     {
       "title": "「GXリーグ」が「GXフューチャー・リーグ」に！サプライチェーン全体で挑む“GX需要創出”とは？",

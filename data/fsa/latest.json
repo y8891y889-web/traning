@@ -1,7 +1,52 @@
 {
-  "fetched_at": "2026-10-09T10:54:46.559616+09:00",
+  "fetched_at": "2026-10-10T10:36:28.513467+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "第25回「金融庁・日本銀行連絡会」の開催について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261009nichiginrenrakukai.html",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページを更新しました。",
+      "url": "https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "（株）出前館との契約締結交渉者の従業員から伝達を受けた海外居住者による内部者取引に対する違反事実がないと認める旨の決定について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/shouken/20261009/20261009.html",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "「トランジション・ファイナンス環境整備検討会」（第14回）議事要旨について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/transition_finance/gijiyousi/20260821.html",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "「トランジション・ファイナンス環境整備検討会」（第14回）議事次第について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/transition_finance/siryou/20260821.html",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "プルデンシャル生命保険株式会社、ジブラルタ生命保険株式会社及びプルデンシャル・ホールディング・オブ・ジャパン株式会社に対する行政処分について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/hoken/20261009/20261009.html",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "現下の情勢を踏まえたサイバーセキュリティ対策の強化と各種取引申込等における対応について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261009/20261009.html",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "令和６年能登半島地震関連情報に関する特設ページを更新しました。（令和８年10月９日 10時00分時点）",
+      "url": "https://www.fsa.go.jp/ordinary/earthquake202401/press.html",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "「熊本産業復興相談センター」の開設及び「令和８年熊本地震復興支援ファンド」の設立について（令和８年熊本地震による被災事業者の多重債務問題対応）公表しました。",
+      "url": "https://www.fsa.go.jp/ordinary/earthquake202607/fund.html",
+      "date": "2026-10-09"
+    },
     {
       "title": "つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
       "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
@@ -395,11 +440,6 @@
     {
       "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）の開催について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/singi/20260916.html",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページを更新しました。",
-      "url": "https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html",
       "date": "2026-09-09"
     },
     {
@@ -948,11 +988,6 @@
       "date": "2026-07-15"
     },
     {
-      "title": "令和６年能登半島地震関連情報に関する特設ページを更新しました。（令和８年７月14日 15時00分時点）",
-      "url": "https://www.fsa.go.jp/ordinary/earthquake202401/press.html",
-      "date": "2026-07-14"
-    },
-    {
       "title": "令和８年７月滋賀県甲賀市の土砂崩れに係る災害等に対する金融上の措置について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/ginkou/20260713.html",
       "date": "2026-07-13"
@@ -966,41 +1001,6 @@
       "title": "「連結財務諸表の用語、様式及び作成方法に関する規則に規定する金融庁長官が定める企業会計の基準を指定する件」に対するパブリックコメントの実施について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20260710-2/20260710.html",
       "date": "2026-07-10"
-    },
-    {
-      "title": "令和５年金融商品取引法等改正及び社債、株式等の振替に関する法律等改正（３年６月以内施行）に係る内閣府令（案）に対するパブリックコメントの実施について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20260710-4/20260710.html",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年７月７日）について掲載しました。",
-      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260707-1.html",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "株式会社全東信の破産手続開始を踏まえた金融上の対応について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260710/20260710.html",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "「令和６年度政策評価結果の政策への反映状況」について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20260710-3/20260710.html",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "コールド・コーリング業者リスト及び存在しない日本政府機関リスト（令和８年６月30日時点）を更新しました。",
-      "url": "https://www.fsa.go.jp/ordinary/cold/index.html",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "「南海トラフ地震臨時情報（巨大地震警戒）」発表時における「住民事前避難対象地域」内の金融機関の休業予定店舗等について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20260710/20260710.html",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "第152回自動車損害賠償責任保険審議会議事録について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/singi_zidousya/gijiroku/20260417.html",
-      "date": "2026-07-09"
     }
   ]
 }
