@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-10T10:37:11.515553+09:00",
+  "fetched_at": "2026-10-11T09:46:29.818052+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "date": "2026-10-10"
+    },
+    {
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "date": "2026-10-10"
+    },
     {
       "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
       "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
@@ -240,16 +250,6 @@
     {
       "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
       "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-      "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-      "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
       "date": "2026-10-05"
     }
   ]

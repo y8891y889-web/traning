@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-10T10:37:10.759990+09:00",
+  "fetched_at": "2026-10-11T09:46:28.035911+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
+      "url": "https://isc.sans.edu/diary/rss/33414",
+      "date": "2026-10-10"
+    },
     {
       "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
       "url": "https://isc.sans.edu/diary/rss/33412",
@@ -46,11 +51,6 @@
       "title": "TTY Logs and the Data it Captures, (Sun, Oct 4th)",
       "url": "https://isc.sans.edu/diary/rss/33396",
       "date": "2026-10-05"
-    },
-    {
-      "title": "User Agent Strings Curiosities, (Sun, Oct 4th)",
-      "url": "https://isc.sans.edu/diary/rss/33394",
-      "date": "2026-10-04"
     }
   ]
 }
