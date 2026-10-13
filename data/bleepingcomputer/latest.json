@@ -1,7 +1,52 @@
 {
-  "fetched_at": "2026-10-12T10:07:55.359227+09:00",
+  "fetched_at": "2026-10-13T11:57:00.424552+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+      "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Yandex confirms service outage as users lose access to cloud files",
+      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "GitLab warns of max severity code execution vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
+      "date": "2026-10-12"
+    },
     {
       "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
       "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
@@ -31,51 +76,6 @@
       "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
       "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
       "date": "2026-10-09"
-    },
-    {
-      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "How to keep AI agents within their permissions",
-      "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
-      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-      "date": "2026-10-08"
     }
   ]
 }

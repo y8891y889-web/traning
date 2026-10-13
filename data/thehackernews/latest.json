@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-10-12T10:07:54.569579+09:00",
+  "fetched_at": "2026-10-13T11:56:59.715359+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+      "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+      "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+      "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+      "date": "2026-10-12"
+    },
+    {
+      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+      "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+      "date": "2026-10-12"
+    },
     {
       "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
       "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
@@ -221,36 +251,6 @@
       "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
       "url": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
       "date": "2026-10-06"
-    },
-    {
-      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
-      "url": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
-      "url": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-      "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
-      "url": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
-      "date": "2026-10-05"
-    },
-    {
-      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
-      "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-      "date": "2026-10-05"
     }
   ]
 }

@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-12T10:07:25.925803+09:00",
+  "fetched_at": "2026-10-13T11:56:32.670353+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
+    {
+      "title": "Help the NCSC understand how organisations approach external attack surface risk",
+      "url": "https://www.ncsc.gov.uk/blogs/help-ncsc-understand-how-organisations-approach-external-attack-surface-risk",
+      "date": "2026-10-12"
+    },
     {
       "title": "China-linked malicious actors called out by UK and international partners for targeting sensitive data globally",
       "url": "https://www.ncsc.gov.uk/news/china-linked-actors-called-out-by-uk-and-international-partners-for-targeting-sensitive-data",
@@ -33,13 +38,13 @@
       "date": "2026-09-17"
     },
     {
-      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
-      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
+      "title": "Iranian cyber targeting of dissidents, activists and journalists",
+      "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
       "date": "2026-09-15"
     },
     {
-      "title": "Iranian cyber targeting of dissidents, activists and journalists",
-      "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
+      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
+      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
       "date": "2026-09-15"
     },
     {
@@ -96,11 +101,6 @@
       "title": "Post-quantum cryptography (PQC) migration workshop report",
       "url": "https://www.ncsc.gov.uk/blogs/post-quantum-cryptography-pqc-migration-workshop-report",
       "date": "2026-07-22"
-    },
-    {
-      "title": "Helping small businesses with free, hands-on cyber consultancy",
-      "url": "https://www.ncsc.gov.uk/blogs/helping-small-businesses-with-free-hands-on-cyber-consultancy",
-      "date": "2026-07-15"
     }
   ]
 }
