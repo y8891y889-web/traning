@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-13T11:56:17.033463+09:00",
+  "fetched_at": "2026-10-14T10:02:31.059761+09:00",
   "source_url": "https://www.soumu.go.jp/toukei/snews_back.html",
   "entries": [
+    {
+      "title": "データサイエンス・オンライン講座  「社会人のためのデータサイエンス演習」の開講",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei09_01000107.html",
+      "date": "2026-10-13"
+    },
     {
       "title": "家計調査報告（二人以上の世帯）2026年（令和8年）8月分",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei07_01000294.html",
@@ -496,11 +501,6 @@
       "title": "「Data StaRt Award 〜第10回地方公共団体における 統計データ利活用表彰〜」の受賞団体及び 「統計データ分析コンペティション2025」の受賞者の決定",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei09_01000099.html",
       "date": "2025-10-20"
-    },
-    {
-      "title": "「消費者物価指数2025年基準改定計画（案）」についての意見募集の結果",
-      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000325.html",
-      "date": "2025-10-16"
     }
   ]
 }

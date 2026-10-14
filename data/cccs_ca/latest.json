@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-10-13T11:56:58.192102+09:00",
+  "fetched_at": "2026-10-14T10:03:09.342208+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "SmarterTools security advisory (AV26-1026)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/smartertools-security-advisory-av26-1026",
-      "date": "2026-10-09"
+      "title": "Fortinet security advisory (AV26-1037)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-1037",
+      "date": "2026-10-13"
     },
     {
-      "title": "SonicWall security advisory (AV26-1017) – Update 1",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-1017",
-      "date": "2026-10-09"
+      "title": "Esri security advisory (AV26-1036)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/esri-security-advisory-av26-1036",
+      "date": "2026-10-13"
     },
     {
-      "title": "MongoDB security advisory (AV26-1024)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-1024",
-      "date": "2026-10-09"
+      "title": "Microsoft security advisory – October 2026 monthly rollup (AV26-1038)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2026-monthly-rollup-av26-1038",
+      "date": "2026-10-13"
     }
   ]
 }

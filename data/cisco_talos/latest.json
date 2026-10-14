@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-13T11:57:15.012229+09:00",
+  "fetched_at": "2026-10-14T10:03:27.844630+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities",
+      "url": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
+      "date": "2026-10-13"
+    },
     {
       "title": "Making sure the checks get printed",
       "url": "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
@@ -71,11 +76,6 @@
       "title": "Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use",
       "url": "https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/",
       "date": "2026-09-17"
-    },
-    {
-      "title": "Securing the unpatchable in an age of AI-driven vulnerabilities",
-      "url": "https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/",
-      "date": "2026-09-16"
     }
   ]
 }

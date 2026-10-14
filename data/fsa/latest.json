@@ -1,7 +1,42 @@
 {
-  "fetched_at": "2026-10-13T11:56:17.590249+09:00",
+  "fetched_at": "2026-10-14T10:02:31.518666+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "Eurofiマガジン（2026年９月）への寄稿「Structural shifts in life insurance sector: IAIS insights」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/iai/20261013/20261013.html",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "「保険会社向けの総合的な監督指針」の一部改正（案）について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/hoken/20260911/20260911.html",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "「預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律第十七条の規定に基づき金融機関を定める件」の一部改正について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261013/20261013.html",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "損害保険業界の信頼回復に向けた取組の適切な運用について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/hoken/20261013/20261013.html",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "金融安定理事会による「グローバル・ステーブルコイン（GSC）：クロスボーダーの脆弱性と金融安定のモニタリング」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/fsf/20261013_3/20261013_3.html",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "金融安定理事会による「公的流動性バックストップに係るテーマ別レビュー」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/fsf/20261013_1/20261013_1.html",
+      "date": "2026-10-13"
+    },
+    {
+      "title": "金融安定理事会によるG20財務大臣・中央銀行総裁へのレターについて公表しました。",
+      "url": "https://www.fsa.go.jp/inter/fsf/20261013_2/20261013_2.html",
+      "date": "2026-10-13"
+    },
     {
       "title": "第25回「金融庁・日本銀行連絡会」の開催について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20261009nichiginrenrakukai.html",
@@ -400,11 +435,6 @@
     {
       "title": "無登録で貸金業を行っている者等（Bit Hills Inc.）に対する警告書の発出について公表しました。",
       "url": "https://www.fsa.go.jp/ordinary/chuui/bithills_inc._keikokushiryo.pdf",
-      "date": "2026-09-11"
-    },
-    {
-      "title": "「保険会社向けの総合的な監督指針」の一部改正（案）について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/hoken/20260911/20260911.html",
       "date": "2026-09-11"
     },
     {
@@ -971,36 +1001,6 @@
       "title": "FSA Analytical Notesー金融庁分析事例集ー（2026.7）vol.1＜スタートアップ企業におけるVC投資と銀行融資の関係：資金調達の順序と構造に関する分析＞および＜地域銀行の住宅ローンにおける気候関連リスク分析の試行＞について公表しました。",
       "url": "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/20260717/20260717.html",
       "date": "2026-07-17"
-    },
-    {
-      "title": "入札公告等を更新しました。",
-      "url": "https://www.fsa.go.jp/choutatu/choutatu_j/nyusatu_menu.html",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "金融仲介機能の発揮に向けたプログレスレポートについて公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260715/20260715.html",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年７月10日）について掲載しました。",
-      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260710-1.html",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "令和８年７月滋賀県甲賀市の土砂崩れに係る災害等に対する金融上の措置について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260713.html",
-      "date": "2026-07-13"
-    },
-    {
-      "title": "「貸金業法施行規則の一部を改正する内閣府令（案）」に対するパブリックコメントの実施について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/kashikin/20260710/20260710.html",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "「連結財務諸表の用語、様式及び作成方法に関する規則に規定する金融庁長官が定める企業会計の基準を指定する件」に対するパブリックコメントの実施について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20260710-2/20260710.html",
-      "date": "2026-07-10"
     }
   ]
 }
