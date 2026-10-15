@@ -1,7 +1,57 @@
 {
-  "fetched_at": "2026-10-14T10:03:11.547394+09:00",
+  "fetched_at": "2026-10-15T09:23:41.153399+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Microsoft fixes VPN issues caused by September Windows updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
+      "url": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Global takedown hits network behind 1 billion phishing messages",
+      "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "date": "2026-10-14"
+    },
     {
       "title": "OpenAI engineer arrested for allegedly planting spy device in office",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
@@ -26,56 +76,6 @@
       "title": "Microsoft releases Windows 10 KB5126657 extended security update",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
       "date": "2026-10-13"
-    },
-    {
-      "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "UK Housing Ombudsman Service investigates 'security incident'",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
-      "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
-      "url": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "The MFA Gaps Attackers are Still Exploiting",
-      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-      "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-      "date": "2026-10-12"
-    },
-    {
-      "title": "Yandex confirms service outage as users lose access to cloud files",
-      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-      "date": "2026-10-12"
     }
   ]
 }

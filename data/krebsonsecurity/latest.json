@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-14T10:03:10.636501+09:00",
+  "fetched_at": "2026-10-15T09:23:39.931863+09:00",
   "source_url": "https://krebsonsecurity.com/feed/",
   "entries": [
+    {
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "date": "2026-10-14"
+    },
     {
       "title": "Microsoft Patches More Than 1,400 Security Flaws",
       "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
@@ -46,11 +51,6 @@
       "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
       "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
       "date": "2026-08-27"
-    },
-    {
-      "title": "Who’s Tracking You? Use This New Service to Find Out",
-      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "date": "2026-08-14"
     }
   ]
 }

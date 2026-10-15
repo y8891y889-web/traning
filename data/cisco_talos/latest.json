@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-14T10:03:27.844630+09:00",
+  "fetched_at": "2026-10-15T09:23:59.303456+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations",
+      "url": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/",
+      "date": "2026-10-14"
+    },
     {
       "title": "Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities",
       "url": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
@@ -70,11 +75,6 @@
     {
       "title": "Should you care about an “AI slowdown?”",
       "url": "https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/",
-      "date": "2026-09-17"
-    },
-    {
-      "title": "Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use",
-      "url": "https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/",
       "date": "2026-09-17"
     }
   ]

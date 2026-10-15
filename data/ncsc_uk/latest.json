@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T10:02:46.529169+09:00",
+  "fetched_at": "2026-10-15T09:23:10.685749+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
     {
@@ -28,13 +28,13 @@
       "date": "2026-09-21"
     },
     {
-      "title": "Adversary simulation: what you need to know",
-      "url": "https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know",
+      "title": "Cyber Adversary Simulation (CyAS): scheme documents now available",
+      "url": "https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available",
       "date": "2026-09-17"
     },
     {
-      "title": "Cyber Adversary Simulation (CyAS): scheme documents now available",
-      "url": "https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available",
+      "title": "Adversary simulation: what you need to know",
+      "url": "https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know",
       "date": "2026-09-17"
     },
     {

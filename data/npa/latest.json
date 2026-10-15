@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-14T10:02:35.729812+09:00",
+  "fetched_at": "2026-10-15T09:23:00.974743+09:00",
   "source_url": "https://www.npa.go.jp/newlyarrived/index.html",
   "entries": [
+    {
+      "title": "詐欺事件被疑者の検挙に関するベトナムとの国際共同捜査について",
+      "url": "https://www.npa.go.jp/news/release/2026/20261013003.html",
+      "date": "2026-10-14"
+    },
     {
       "title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律に基づく対象特別要人所在施設等の指定について（よさこい高知文化祭2026関係）",
       "url": "https://www.npa.go.jp/news/release/2026/20261014001.html",
@@ -105,11 +110,6 @@
     {
       "title": "犯罪統計資料(令和８年１～８月分)",
       "url": "https://www.npa.go.jp/toukei/keiji35/new_hanzai08.htm",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "チャイルドシートの使用状況等についてPDFファイルを開く",
-      "url": "https://www.npa.go.jp/newlyarrived/2026/CSR_2026kouhou.pdf",
       "date": "2026-09-15"
     }
   ]

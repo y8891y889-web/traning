@@ -1,7 +1,77 @@
 {
-  "fetched_at": "2026-10-14T10:03:11.091923+09:00",
+  "fetched_at": "2026-10-15T09:23:40.216581+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
+      "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
+      "url": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+      "url": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+      "url": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+      "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+      "date": "2026-10-14"
+    },
+    {
+      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+      "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+      "date": "2026-10-14"
+    },
     {
       "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
       "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
@@ -181,76 +251,6 @@
       "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
       "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
       "date": "2026-10-08"
-    },
-    {
-      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-      "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-      "url": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-      "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-      "url": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
-      "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
-      "url": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
-      "url": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
-      "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
-      "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-      "date": "2026-10-07"
-    },
-    {
-      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-      "date": "2026-10-07"
-    },
-    {
-      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-      "date": "2026-10-07"
-    },
-    {
-      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-      "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-      "date": "2026-10-07"
-    },
-    {
-      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
-      "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-      "date": "2026-10-07"
-    },
-    {
-      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
-      "url": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
-      "date": "2026-10-07"
     }
   ]
 }
