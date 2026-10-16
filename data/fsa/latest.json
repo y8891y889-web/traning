@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-10-15T09:22:57.971291+09:00",
+  "fetched_at": "2026-10-16T09:11:08.232154+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
+      "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "金融安定理事会による「G20金融規制改革の実施モニタリングレビュー：2026年報告書」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/fsf/20261015_1/20261015_1.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "金融安定理事会による市中協議文書「規制・監督の現代化に係る原則」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/fsf/20261015_2/20261015_2.html",
+      "date": "2026-10-15"
+    },
     {
       "title": "Eurofiマガジン（2026年９月）への寄稿「Structural shifts in life insurance sector: IAIS insights」について公表しました。",
       "url": "https://www.fsa.go.jp/inter/iai/20261013/20261013.html",
@@ -81,11 +96,6 @@
       "title": "「熊本産業復興相談センター」の開設及び「令和８年熊本地震復興支援ファンド」の設立について（令和８年熊本地震による被災事業者の多重債務問題対応）公表しました。",
       "url": "https://www.fsa.go.jp/ordinary/earthquake202607/fund.html",
       "date": "2026-10-09"
-    },
-    {
-      "title": "つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
-      "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
-      "date": "2026-10-08"
     },
     {
       "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第２回）議事次第について公表しました。",
@@ -990,16 +1000,6 @@
     {
       "title": "「国際会計基準審議会等の国際会議への参加及び意見発信等」（令和７年度）の成果物について公表しました。",
       "url": "https://www.fsa.go.jp/common/about/research/20260717/20260717.html",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "「国際会計基準審議会の議論内容及び討議資料等の調査分析等」（令和７年度）の成果物について公表しました。",
-      "url": "https://www.fsa.go.jp/common/about/research/20260717-2/20260717-2.html",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "FSA Analytical Notesー金融庁分析事例集ー（2026.7）vol.1＜スタートアップ企業におけるVC投資と銀行融資の関係：資金調達の順序と構造に関する分析＞および＜地域銀行の住宅ローンにおける気候関連リスク分析の試行＞について公表しました。",
-      "url": "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/20260717/20260717.html",
       "date": "2026-07-17"
     }
   ]

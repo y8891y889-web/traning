@@ -1,7 +1,82 @@
 {
-  "fetched_at": "2026-10-15T09:23:40.216581+09:00",
+  "fetched_at": "2026-10-16T09:11:48.790131+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+      "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+      "url": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+      "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+      "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
+      "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+      "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Why AI Confidence Is Not Validation",
+      "url": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
+      "url": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "date": "2026-10-15"
+    },
     {
       "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
       "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
@@ -176,81 +251,6 @@
       "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
       "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
       "date": "2026-10-10"
-    },
-    {
-      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "date": "2026-10-10"
-    },
-    {
-      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-      "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-      "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-      "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-      "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-      "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-      "url": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-      "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
-      "url": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-      "url": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
-      "url": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-      "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-      "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-      "date": "2026-10-08"
     }
   ]
 }

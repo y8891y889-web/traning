@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-15T09:23:00.974743+09:00",
+  "fetched_at": "2026-10-16T09:11:12.115753+09:00",
   "source_url": "https://www.npa.go.jp/newlyarrived/index.html",
   "entries": [
+    {
+      "title": "警察官職務執行法の一部を改正する法律案について",
+      "url": "https://www.npa.go.jp/laws/kokkai/index.html",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "マイクロソフト・JC３と連携した犯罪インフラのテイクダウンについて",
+      "url": "https://www.npa.go.jp/news/release/r820261015.html",
+      "date": "2026-10-15"
+    },
     {
       "title": "詐欺事件被疑者の検挙に関するベトナムとの国際共同捜査について",
       "url": "https://www.npa.go.jp/news/release/2026/20261013003.html",
@@ -91,26 +101,6 @@
       "title": "令和８年全国地域安全運動等の実施について",
       "url": "https://www.npa.go.jp/news/release/20260917001.html",
       "date": "2026-09-17"
-    },
-    {
-      "title": "交通事故統計月報（令和８年８月末）",
-      "url": "https://www.npa.go.jp/news/release/2026/20260916001jiko0808.html",
-      "date": "2026-09-16"
-    },
-    {
-      "title": "令和８年夏期における山岳遭難及び水難の概況について",
-      "url": "https://www.npa.go.jp/publications/statistics/safetylife/sounan.html",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "令和８年度国家公務員総合職の中途採用募集の実施について",
-      "url": "https://www.npa.go.jp/news/release/2026/20260914001.html",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "犯罪統計資料(令和８年１～８月分)",
-      "url": "https://www.npa.go.jp/toukei/keiji35/new_hanzai08.htm",
-      "date": "2026-09-15"
     }
   ]
 }

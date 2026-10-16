@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-15T09:23:10.685749+09:00",
+  "fetched_at": "2026-10-16T09:11:20.866909+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
+    {
+      "title": "Post-quantum updates to our TLS guidance",
+      "url": "https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Using TLS to protect data",
+      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
+      "date": "2026-10-15"
+    },
     {
       "title": "Help the NCSC understand how organisations approach external attack surface risk",
       "url": "https://www.ncsc.gov.uk/blogs/help-ncsc-understand-how-organisations-approach-external-attack-surface-risk",
@@ -28,23 +38,23 @@
       "date": "2026-09-21"
     },
     {
-      "title": "Cyber Adversary Simulation (CyAS): scheme documents now available",
-      "url": "https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available",
-      "date": "2026-09-17"
-    },
-    {
       "title": "Adversary simulation: what you need to know",
       "url": "https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know",
       "date": "2026-09-17"
     },
     {
-      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
-      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
-      "date": "2026-09-15"
+      "title": "Cyber Adversary Simulation (CyAS): scheme documents now available",
+      "url": "https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available",
+      "date": "2026-09-17"
     },
     {
       "title": "Iranian cyber targeting of dissidents, activists and journalists",
       "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
+      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
       "date": "2026-09-15"
     },
     {
@@ -91,16 +101,6 @@
       "title": "When cyber attacks happen: helping organisations recover",
       "url": "https://www.ncsc.gov.uk/blogs/when-cyber-attacks-happen-helping-organisations-recover",
       "date": "2026-07-28"
-    },
-    {
-      "title": "UK and partners expose Russian state-supported actors for new ‘zero-click’ phishing campaign targeting Western organisations",
-      "url": "https://www.ncsc.gov.uk/news/uk-and-partners-expose-russian-state-supported-actors-for-new-zero-click-phishing-campaign",
-      "date": "2026-07-23"
-    },
-    {
-      "title": "Post-quantum cryptography (PQC) migration workshop report",
-      "url": "https://www.ncsc.gov.uk/blogs/post-quantum-cryptography-pqc-migration-workshop-report",
-      "date": "2026-07-22"
     }
   ]
 }

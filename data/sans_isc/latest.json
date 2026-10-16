@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-15T09:23:38.998214+09:00",
+  "fetched_at": "2026-10-16T09:11:48.064976+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "Panchan's Mining Island &#x5b;Guest Diary&#x5d;, (Wed, Oct 14th)",
+      "url": "https://isc.sans.edu/diary/rss/33426",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)",
+      "url": "https://isc.sans.edu/diary/rss/33428",
+      "date": "2026-10-15"
+    },
     {
       "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
       "url": "https://isc.sans.edu/diary/rss/33420",
@@ -41,16 +51,6 @@
       "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
       "url": "https://isc.sans.edu/diary/rss/33410",
       "date": "2026-10-08"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, (Thu, Oct 8th)",
-      "url": "https://isc.sans.edu/diary/rss/33408",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
-      "url": "https://isc.sans.edu/diary/rss/33406",
-      "date": "2026-10-07"
     }
   ]
 }

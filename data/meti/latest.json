@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-15T09:22:52.128645+09:00",
+  "fetched_at": "2026-10-16T09:11:02.425379+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "パナソニック株式会社 ドラム式電気洗濯乾燥機のリコールについて（10月15日公表）",
+      "url": "https://www.meti.go.jp/product_safety/recall/file/261015-1.html",
+      "date": "2026-10-16"
+    },
     {
       "title": "11月12日「製品安全を選ばれる力に」をテーマにPSアワード20周年記念イベントを開催します！",
       "url": "https://www.meti.go.jp/product_safety/ps-award/risksystem/news/news_22.html",
@@ -281,11 +286,6 @@
       "title": "GX地域共創補助金の説明会を実施します！",
       "url": "https://gx-area-hojo.jp/seminar/",
       "date": "2026-06-05"
-    },
-    {
-      "title": "6月2日の第9回中東関係閣僚会議で公表した「トルエン・キシレンの供給要請」の受付フォームを設置しました",
-      "url": "https://www.meti.go.jp/press/2025/03/20260314002/20260314002.html",
-      "date": "2026-06-03"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-10-15T09:23:07.210412+09:00",
+  "fetched_at": "2026-10-16T09:11:17.800000+09:00",
   "source_url": "https://www.mlit.go.jp/",
   "entries": [
     {
-      "title": "水・国土",
-      "url": "https://www.mlit.go.jp/mizukokudo/index.html",
-      "date": "2026-10-14"
+      "title": "物流・自動車",
+      "url": "https://www.mlit.go.jp/jidosha/index.html",
+      "date": "2026-10-16"
     },
     {
       "title": "総合政策",
       "url": "https://www.mlit.go.jp/sogoseisaku/index.html",
-      "date": "2026-10-13"
+      "date": "2026-10-15"
     },
     {
       "title": "井林大臣会見要旨",
@@ -61,6 +61,11 @@
       "title": "金子大臣会見要旨",
       "url": "https://www.mlit.go.jp/report/interview/daijin260911.html",
       "date": "2026-09-11"
+    },
+    {
+      "title": "水・国土",
+      "url": "https://www.mlit.go.jp/mizukokudo/index.html",
+      "date": "2026-10-14"
     },
     {
       "title": "都市",

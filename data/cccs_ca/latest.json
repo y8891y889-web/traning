@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-10-15T09:23:38.472854+09:00",
+  "fetched_at": "2026-10-16T09:11:47.595090+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "Cisco security advisory (AV26-1042) – Update 1",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1042",
-      "date": "2026-10-14"
+      "title": "SUSE Linux security advisory (AV26-1053)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-1053",
+      "date": "2026-10-15"
     },
     {
-      "title": "Palo Alto Networks security advisory (AV26-1041)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-1041",
-      "date": "2026-10-14"
+      "title": "[Control systems] Johnson Controls security advisory (AV26-1052)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av26-1052",
+      "date": "2026-10-15"
     },
     {
-      "title": "IBM security advisory (AV26-1040)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1040",
-      "date": "2026-10-14"
+      "title": "[Control systems] Schneider Electric security advisory (AV26-1051)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av26-1051",
+      "date": "2026-10-15"
     }
   ]
 }
