@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-10-16T09:11:47.595090+09:00",
+  "fetched_at": "2026-10-17T09:15:36.244325+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "SUSE Linux security advisory (AV26-1053)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-1053",
-      "date": "2026-10-15"
+      "title": "Google security advisory (AV26-1060)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1060",
+      "date": "2026-10-16"
     },
     {
-      "title": "[Control systems] Johnson Controls security advisory (AV26-1052)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av26-1052",
-      "date": "2026-10-15"
+      "title": "BMC Helix security advisory (AV26-1059)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/bmc-helix-security-advisory-av26-1059",
+      "date": "2026-10-16"
     },
     {
-      "title": "[Control systems] Schneider Electric security advisory (AV26-1051)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av26-1051",
-      "date": "2026-10-15"
+      "title": "BeyondTrust security advisory (AV26-1054) – Update 1",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av26-1054",
+      "date": "2026-10-16"
     }
   ]
 }

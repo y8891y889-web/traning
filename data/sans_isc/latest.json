@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-16T09:11:48.064976+09:00",
+  "fetched_at": "2026-10-17T09:15:36.628468+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)",
+      "url": "https://isc.sans.edu/diary/rss/33432",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
+      "url": "https://isc.sans.edu/diary/rss/33430",
+      "date": "2026-10-16"
+    },
     {
       "title": "Panchan's Mining Island &#x5b;Guest Diary&#x5d;, (Wed, Oct 14th)",
       "url": "https://isc.sans.edu/diary/rss/33426",
@@ -41,16 +51,6 @@
       "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
       "url": "https://isc.sans.edu/diary/rss/33414",
       "date": "2026-10-10"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
-      "url": "https://isc.sans.edu/diary/rss/33412",
-      "date": "2026-10-09"
-    },
-    {
-      "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
-      "url": "https://isc.sans.edu/diary/rss/33410",
-      "date": "2026-10-08"
     }
   ]
 }

@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-16T09:11:12.115753+09:00",
+  "fetched_at": "2026-10-17T09:14:58.671378+09:00",
   "source_url": "https://www.npa.go.jp/newlyarrived/index.html",
   "entries": [
+    {
+      "title": "令和８年中の月別自殺者数について（９月末の暫定値）",
+      "url": "https://www.npa.go.jp/news/release/2026/20261013001.html",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "犯罪統計資料(令和８年１～９月分)",
+      "url": "https://www.npa.go.jp/toukei/keiji35/new_hanzai08.htm",
+      "date": "2026-10-16"
+    },
     {
       "title": "警察官職務執行法の一部を改正する法律案について",
       "url": "https://www.npa.go.jp/laws/kokkai/index.html",
@@ -11,6 +21,11 @@
       "title": "マイクロソフト・JC３と連携した犯罪インフラのテイクダウンについて",
       "url": "https://www.npa.go.jp/news/release/r820261015.html",
       "date": "2026-10-15"
+    },
+    {
+      "title": "「匿名・流動型犯罪グループによる犯罪被害対策のための技術的措置に関する有識者検討会」ページの更新について",
+      "url": "https://www.npa.go.jp/bureau/soumu/kentoukai/shiryou.html",
+      "date": "2026-10-14"
     },
     {
       "title": "詐欺事件被疑者の検挙に関するベトナムとの国際共同捜査について",
@@ -35,11 +50,6 @@
     {
       "title": "令和８年度「犯罪被害者月間」等における取組について",
       "url": "https://www.npa.go.jp/news/release/2026/20261002001.html",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "「匿名・流動型犯罪グループによる犯罪被害対策のための技術的措置に関する有識者検討会」ページの更新について",
-      "url": "https://www.npa.go.jp/bureau/soumu/kentoukai/shiryou.html",
       "date": "2026-10-08"
     },
     {
@@ -91,11 +101,6 @@
       "title": "北朝鮮サイバー攻撃グループ「WaterPlum」(ウォータープラム)及び北朝鮮IT労働者に関する我が国、米国、豪州及びドイツによるパブリック・アトリビューションについて",
       "url": "https://www.npa.go.jp/news/release/2026/20260918001.html",
       "date": "2026-09-18"
-    },
-    {
-      "title": "令和８年中の月別自殺者数について（８月末の暫定値）",
-      "url": "https://www.npa.go.jp/news/release/2026/20260912001.html",
-      "date": "2026-09-17"
     },
     {
       "title": "令和８年全国地域安全運動等の実施について",

@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-10-16T09:11:04.495076+09:00",
+  "fetched_at": "2026-10-17T09:14:51.197638+09:00",
   "source_url": "https://www.mof.go.jp/public_relations/whats_new/202610.html",
   "entries": [
+    {
+      "title": "会見等片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月16日(金曜日))",
+      "url": "https://www.mof.go.jp/public_relations/conference/my20261016.html",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "その他財政制度分科会（令和８年10月16日開催）資料一覧",
+      "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20261016zaiseia.html",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "財政投融資財政投融資分科会（令和8年9月18日開催）議事要旨",
+      "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20260918.html",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "国債国債金利情報(令和8年10月15日)(CSV:2KB)",
+      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "date": "2026-10-15"
+    },
     {
       "title": "国際政策片山大臣と韓国のイ・ヒョンイル副総理兼財政経済部長官との面会（令和8年10月15日（木））",
       "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261013104336.html",
@@ -31,11 +51,6 @@
       "title": "国債交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年10月15日公表）",
       "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer261015.htm",
       "date": "2026-10-15"
-    },
-    {
-      "title": "国債国債金利情報(令和8年10月14日)(CSV:2KB)",
-      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-      "date": "2026-10-14"
     },
     {
       "title": "国債5年利付国債（第188回）の第II非価格競争入札結果（令和8年10月14日入札）",

@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-16T09:11:13.708323+09:00",
+  "fetched_at": "2026-10-17T09:15:01.121655+09:00",
   "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
   "entries": [
+    {
+      "title": "関芳弘文部科学大臣記者会見録（令和8年10月16日）",
+      "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00743.html",
+      "date": "2026-10-16"
+    },
     {
       "title": "火山調査研究推進本部第11回火山調査委員会を開催します（令和8年10月19日）",
       "url": "https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00297.html",
@@ -65,16 +70,6 @@
     {
       "title": "文部科学省国立教育政策研究所社会教育実践研究センター社会教育調査官（任期付職員）採用のお知らせ（令和9年4月1日採用予定）",
       "url": "https://www.mext.go.jp/b_menu/saiyou/sonota/1422427_00027.htm",
-      "date": "2027-04-01"
-    },
-    {
-      "title": "松本洋平文部科学大臣記者会見録（令和8年9月15日）",
-      "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00728.html",
-      "date": "2026-09-15"
-    },
-    {
-      "title": "文部科学省国立教育政策研究所学力調査専門職 非常勤職員（期間業務職員）採用のお知らせ（令和9年4月1日採用予定）",
-      "url": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1421780_00219.html",
       "date": "2027-04-01"
     }
   ]

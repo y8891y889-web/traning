@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-16T09:11:02.425379+09:00",
+  "fetched_at": "2026-10-17T09:14:48.662734+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "中小企業の生存戦略 ～技術だけでは勝てない時代の「自社らしい価値」のつくり方～を11月5日に開催します",
+      "url": "https://www.kansai.meti.go.jp/2tokkyo/Workshop/ws2026a.html",
+      "date": "2026-10-16"
+    },
     {
       "title": "パナソニック株式会社 ドラム式電気洗濯乾燥機のリコールについて（10月15日公表）",
       "url": "https://www.meti.go.jp/product_safety/recall/file/261015-1.html",
@@ -280,11 +285,6 @@
     {
       "title": "経済産業省、環境省及び消費者庁は、サステナブルファッションに関するキャンペーンで用いるロゴマーク及びキャッチコピーを募集します",
       "url": "https://www.meti.go.jp/policy/mono_info_service/mono/fiber/sustainable_fashion.html",
-      "date": "2026-06-05"
-    },
-    {
-      "title": "GX地域共創補助金の説明会を実施します！",
-      "url": "https://gx-area-hojo.jp/seminar/",
       "date": "2026-06-05"
     }
   ]
