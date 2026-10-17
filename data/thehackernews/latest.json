@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-17T09:15:38.110680+09:00",
+  "fetched_at": "2026-10-18T08:54:50.437164+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "date": "2026-10-17"
+    },
     {
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
       "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
@@ -240,16 +250,6 @@
     {
       "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
       "url": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-      "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-      "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
       "date": "2026-10-13"
     }
   ]

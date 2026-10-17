@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-17T09:15:38.731644+09:00",
+  "fetched_at": "2026-10-18T08:54:51.367365+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "date": "2026-10-17"
+    },
     {
       "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
       "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
@@ -65,16 +75,6 @@
     {
       "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "Police arrests 95 suspects in international CSAM crackdown action",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
       "date": "2026-10-15"
     }
   ]
