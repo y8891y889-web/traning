@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-18T08:54:50.437164+09:00",
+  "fetched_at": "2026-10-19T09:04:01.383047+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "date": "2026-10-18"
+    },
     {
       "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
       "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
@@ -245,11 +250,6 @@
     {
       "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
       "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-      "url": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
       "date": "2026-10-13"
     }
   ]
