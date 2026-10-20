@@ -72,3 +72,6 @@
 {"title": "Google security advisory (AV26-1060)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1060", "date": "2026-10-16", "found_at": "2026-10-17T09:15:36.245159+09:00"}
 {"title": "BMC Helix security advisory (AV26-1059)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/bmc-helix-security-advisory-av26-1059", "date": "2026-10-16", "found_at": "2026-10-17T09:15:36.245159+09:00"}
 {"title": "BeyondTrust security advisory (AV26-1054) – Update 1", "url": "https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av26-1054", "date": "2026-10-16", "found_at": "2026-10-17T09:15:36.245159+09:00"}
+{"title": "Siemens security advisory (AV26-1063)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/siemens-security-advisory-av26-1063", "date": "2026-10-19", "found_at": "2026-10-20T10:00:45.020909+09:00"}
+{"title": "Eptura security advisory (AV26-1062)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/eptura-security-advisory-av26-1062", "date": "2026-10-19", "found_at": "2026-10-20T10:00:45.020909+09:00"}
+{"title": "Red Hat security advisory (AV26-1061)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-1061", "date": "2026-10-19", "found_at": "2026-10-20T10:00:45.020909+09:00"}

@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-19T09:03:19.194963+09:00",
+  "fetched_at": "2026-10-20T09:59:55.806086+09:00",
   "source_url": "https://www.soumu.go.jp/toukei/snews_back.html",
   "entries": [
+    {
+      "title": "「Data StaRt Award 〜第11回地方公共決団体における統計データ利活用表彰〜」の受賞団体及び 「統計データ分析コンペティション2026」の受賞者の決定",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei09_01000108.html",
+      "date": "2026-10-19"
+    },
     {
       "title": "データサイエンス・オンライン講座  「社会人のためのデータサイエンス演習」の開講",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei09_01000107.html",
@@ -496,11 +501,6 @@
       "title": "「サービス産業動態統計調査」2025年（令和7年）8月分（速報）",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000323.html",
       "date": "2025-10-24"
-    },
-    {
-      "title": "「Data StaRt Award 〜第10回地方公共団体における 統計データ利活用表彰〜」の受賞団体及び 「統計データ分析コンペティション2025」の受賞者の決定",
-      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei09_01000099.html",
-      "date": "2025-10-20"
     }
   ]
 }

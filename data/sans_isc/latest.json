@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-18T08:54:49.052815+09:00",
+  "fetched_at": "2026-10-20T10:00:45.605024+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)",
+      "url": "https://isc.sans.edu/diary/rss/33434",
+      "date": "2026-10-18"
+    },
     {
       "title": "ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)",
       "url": "https://isc.sans.edu/diary/rss/33432",
@@ -46,11 +51,6 @@
       "title": "ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)",
       "url": "https://isc.sans.edu/diary/rss/33416",
       "date": "2026-10-12"
-    },
-    {
-      "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
-      "url": "https://isc.sans.edu/diary/rss/33414",
-      "date": "2026-10-10"
     }
   ]
 }

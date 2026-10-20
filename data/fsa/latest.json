@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-10-19T09:03:19.707161+09:00",
+  "fetched_at": "2026-10-20T09:59:56.398454+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）議事録について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/ai_onchain/gijiroku/20260930.html",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "BIS決済・市場インフラ委員会及び証券監督者国際機構による最終報告書「金融市場インフラ（FMI）によるビジネスリスク・ビジネスロス管理：金融市場インフラのための原則（FMI原則）に関する追加ガイダンス」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/ios/20261019/20261019.html",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "職員を募集しています。（金融モニタリング業務（主に新形態銀行、資金移動業者や前払式支払手段発行者等に係るモニタリング等）に従事する職員【弁護士】)",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/shiho-02/shiho-02.html",
+      "date": "2026-10-19"
+    },
     {
       "title": "預貯金の不正送金問題等に対する対応状況（令和８年３月末）について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/ginkou/20261016.html",
@@ -986,21 +1001,6 @@
       "title": "コーポレートガバナンス・コード（2026年改訂版）の確定について公表しました。",
       "url": "https://www.fsa.go.jp/news/r7/singi/20260721.html",
       "date": "2026-07-21"
-    },
-    {
-      "title": "「経済価値ベースのソルベンシー規制」の概要資料を更新しました。",
-      "url": "https://www.fsa.go.jp/policy/economic_value-based_solvency/index.html",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "令和８年３月期までにおいて、定時株主総会前に有価証券報告書を提出した上場会社について公表しました。",
-      "url": "https://www.fsa.go.jp/policy/kaiji/sokaimaekaiji.html",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "「公認会計士及び監査法人におけるマネー・ローンダリング、テロ資金供与及び拡散金融対策に関するガイドライン（案）」に対するパブリックコメントの結果等について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20260717-3/20260717.html",
-      "date": "2026-07-17"
     }
   ]
 }
