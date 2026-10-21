@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-20T10:00:45.605024+09:00",
+  "fetched_at": "2026-10-21T09:29:45.017927+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)",
+      "url": "https://isc.sans.edu/diary/rss/33436",
+      "date": "2026-10-20"
+    },
     {
       "title": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)",
       "url": "https://isc.sans.edu/diary/rss/33434",
@@ -46,11 +51,6 @@
       "title": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
       "url": "https://isc.sans.edu/diary/rss/33418",
       "date": "2026-10-13"
-    },
-    {
-      "title": "ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)",
-      "url": "https://isc.sans.edu/diary/rss/33416",
-      "date": "2026-10-12"
     }
   ]
 }

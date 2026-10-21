@@ -1,11 +1,16 @@
 {
-  "fetched_at": "2026-10-20T10:00:13.692559+09:00",
+  "fetched_at": "2026-10-21T09:29:12.652163+09:00",
   "source_url": "https://www.mlit.go.jp/",
   "entries": [
     {
       "title": "総合政策",
       "url": "https://www.mlit.go.jp/sogoseisaku/index.html",
-      "date": "2026-10-19"
+      "date": "2026-10-20"
+    },
+    {
+      "title": "井林大臣会見要旨",
+      "url": "https://www.mlit.go.jp/report/interview/daijin261020.html",
+      "date": "2026-10-20"
     },
     {
       "title": "井林大臣会見要旨",
@@ -53,9 +58,9 @@
       "date": "2026-09-17"
     },
     {
-      "title": "金子大臣会見要旨",
-      "url": "https://www.mlit.go.jp/report/interview/daijin260915.html",
-      "date": "2026-09-15"
+      "title": "物流・自動車",
+      "url": "https://www.mlit.go.jp/jidosha/index.html",
+      "date": "2026-10-20"
     },
     {
       "title": "都市",
@@ -66,6 +71,11 @@
       "title": "土地・不動産・建設業",
       "url": "https://www.mlit.go.jp/totikensangyo/index.html",
       "date": "2026-10-09"
+    },
+    {
+      "title": "標準共済システム（第三世代）のプログラム改修の委託（高額療養費制度改正対応等）(PDF形式:133KB)",
+      "url": "https://www.mlit.go.jp/content/002027608.pdf",
+      "date": "2026-10-20"
     },
     {
       "title": "被害回復等を装った詐欺（二次被害トラブル）にご注意ください！（不動産特定共同事業法関係）",

@@ -1,15 +1,40 @@
 {
-  "fetched_at": "2026-10-20T10:00:18.132460+09:00",
+  "fetched_at": "2026-10-21T09:29:15.714159+09:00",
   "source_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
   "entries": [
     {
-      "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation",
-      "url": "https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
-      "date": "2026-10-16"
+      "title": "#StopRansomware: SafePay Ransomware",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-293a",
+      "date": "2026-10-20"
     },
     {
-      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
+      "title": "Hitachi Energy RTU500 Product",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "Hitachi Energy MicroSCADA X SYS600 Product",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "HMS Networks PEAK-System PCAN Windows drivers",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-01",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "Moxa AIG-302 ThingsPro Edge",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-03",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+      "date": "2026-10-20"
+    },
+    {
+      "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation",
+      "url": "https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
       "date": "2026-10-16"
     },
     {
@@ -23,13 +48,13 @@
       "date": "2026-10-16"
     },
     {
-      "title": "Thermo Fisher Torrent Suite Software",
-      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-01",
-      "date": "2026-10-15"
+      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
+      "date": "2026-10-16"
     },
     {
-      "title": "J4Care dcm4che",
-      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-02",
+      "title": "Eclipse Foundation Eclipse Milo",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-01",
       "date": "2026-10-15"
     },
     {
@@ -38,8 +63,13 @@
       "date": "2026-10-15"
     },
     {
-      "title": "Eclipse Foundation Eclipse Milo",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-01",
+      "title": "J4Care dcm4che",
+      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-02",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Thermo Fisher Torrent Suite Software",
+      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-01",
       "date": "2026-10-15"
     },
     {
@@ -58,18 +88,8 @@
       "date": "2026-10-14"
     },
     {
-      "title": "Inductive Automation Ignition Software",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-01",
-      "date": "2026-10-13"
-    },
-    {
       "title": "CISA Urges Patching Newly Exploited Vulnerability in Ivanti Connect Secure",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure",
-      "date": "2026-10-13"
-    },
-    {
-      "title": "Swann Communications SWIFI-SE2KIC",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-02",
       "date": "2026-10-13"
     },
     {
@@ -78,14 +98,14 @@
       "date": "2026-10-13"
     },
     {
-      "title": "Red Lion Controls N-Tron 700 Series (Update A)",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-01",
-      "date": "2026-10-08"
+      "title": "Swann Communications SWIFI-SE2KIC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-02",
+      "date": "2026-10-13"
     },
     {
-      "title": "Chinese Government-linked Cyber Threat Actors Combine Automated and Hands-on Hacking Tools to Steal Sensitive Data",
-      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-281a",
-      "date": "2026-10-08"
+      "title": "Inductive Automation Ignition Software",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-01",
+      "date": "2026-10-13"
     },
     {
       "title": "Grid Protection Alliance openPDC and openHistorian",
@@ -98,18 +118,28 @@
       "date": "2026-10-08"
     },
     {
+      "title": "Red Lion Controls N-Tron 700 Series (Update A)",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-01",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Chinese Government-linked Cyber Threat Actors Combine Automated and Hands-on Hacking Tools to Steal Sensitive Data",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-281a",
+      "date": "2026-10-08"
+    },
+    {
       "title": "Hitachi Energy REB500",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-05",
       "date": "2026-10-06"
     },
     {
-      "title": "Johnson Controls EasyIO FG",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-01",
+      "title": "Hitachi Energy Asset Suite",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-03",
       "date": "2026-10-06"
     },
     {
-      "title": "Hitachi Energy Asset Suite",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-03",
+      "title": "Johnson Controls EasyIO FG",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-01",
       "date": "2026-10-06"
     },
     {
@@ -121,36 +151,6 @@
       "title": "Savannah lwIP SMTP client",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-02",
       "date": "2026-10-06"
-    },
-    {
-      "title": "Hitachi Energy RTU500",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-06",
-      "date": "2026-10-06"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/04/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "date": "2026-10-04"
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "date": "2026-10-02"
-    },
-    {
-      "title": "Monta monta.app",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-02",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Armatura LLC Armatura One",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-01",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Johnson Controls EasyIO Neo Series EC and CW Controllers",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-05",
-      "date": "2026-10-01"
     }
   ]
 }

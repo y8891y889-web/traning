@@ -75,3 +75,5 @@
 {"title": "Siemens security advisory (AV26-1063)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/siemens-security-advisory-av26-1063", "date": "2026-10-19", "found_at": "2026-10-20T10:00:45.020909+09:00"}
 {"title": "Eptura security advisory (AV26-1062)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/eptura-security-advisory-av26-1062", "date": "2026-10-19", "found_at": "2026-10-20T10:00:45.020909+09:00"}
 {"title": "Red Hat security advisory (AV26-1061)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-1061", "date": "2026-10-19", "found_at": "2026-10-20T10:00:45.020909+09:00"}
+{"title": "Craft CMS security advisory (AV26-1067)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/craft-cms-security-advisory-av26-1067", "date": "2026-10-20", "found_at": "2026-10-21T09:29:44.491854+09:00"}
+{"title": "Gitea security advisory (AV26-845) - Update 1", "url": "https://www.cyber.gc.ca/en/alerts-advisories/gitea-security-advisory-av26-845", "date": "2026-10-20", "found_at": "2026-10-21T09:29:44.491854+09:00"}

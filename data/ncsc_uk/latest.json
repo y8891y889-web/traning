@@ -1,15 +1,20 @@
 {
-  "fetched_at": "2026-10-20T10:00:18.414818+09:00",
+  "fetched_at": "2026-10-21T09:29:15.860704+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
     {
-      "title": "Post-quantum updates to our TLS guidance",
-      "url": "https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance",
-      "date": "2026-10-15"
+      "title": "Introducing a new AI chapter in the NCSC research problem book",
+      "url": "https://www.ncsc.gov.uk/blogs/introducing-new-ai-chapter-ncsc-research-problem-book",
+      "date": "2026-10-20"
     },
     {
       "title": "Using TLS to protect data",
       "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Post-quantum updates to our TLS guidance",
+      "url": "https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance",
       "date": "2026-10-15"
     },
     {
@@ -96,11 +101,6 @@
       "title": "Making forensic observability the norm for network devices",
       "url": "https://www.ncsc.gov.uk/blogs/making-forensic-observability-the-norm-for-network-devices",
       "date": "2026-07-29"
-    },
-    {
-      "title": "When cyber attacks happen: helping organisations recover",
-      "url": "https://www.ncsc.gov.uk/blogs/when-cyber-attacks-happen-helping-organisations-recover",
-      "date": "2026-07-28"
     }
   ]
 }

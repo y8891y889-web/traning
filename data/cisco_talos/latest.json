@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-20T10:01:04.170075+09:00",
+  "fetched_at": "2026-10-21T09:30:07.663171+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "There's only so much code: the rise in vulnerability numbers",
+      "url": "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/",
+      "date": "2026-10-20"
+    },
     {
       "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
       "url": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
@@ -70,11 +75,6 @@
     {
       "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant",
       "url": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/",
-      "date": "2026-09-22"
-    },
-    {
-      "title": "Introducing CAIRN: Frontier tracking for AI-integrated malware",
-      "url": "https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/",
       "date": "2026-09-22"
     }
   ]
