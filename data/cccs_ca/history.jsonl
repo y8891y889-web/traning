@@ -77,3 +77,6 @@
 {"title": "Red Hat security advisory (AV26-1061)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-1061", "date": "2026-10-19", "found_at": "2026-10-20T10:00:45.020909+09:00"}
 {"title": "Craft CMS security advisory (AV26-1067)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/craft-cms-security-advisory-av26-1067", "date": "2026-10-20", "found_at": "2026-10-21T09:29:44.491854+09:00"}
 {"title": "Gitea security advisory (AV26-845) - Update 1", "url": "https://www.cyber.gc.ca/en/alerts-advisories/gitea-security-advisory-av26-845", "date": "2026-10-20", "found_at": "2026-10-21T09:29:44.491854+09:00"}
+{"title": "Cisco security advisory (AV26-1073)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1073", "date": "2026-10-21", "found_at": "2026-10-22T09:33:43.070802+09:00"}
+{"title": "ISC BIND security advisory (AV26-1072)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av26-1072", "date": "2026-10-21", "found_at": "2026-10-22T09:33:43.070802+09:00"}
+{"title": "Oracle Corporation security advisory (AV26-1071)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/oracle-corporation-security-advisory-av26-1071", "date": "2026-10-21", "found_at": "2026-10-22T09:33:43.070802+09:00"}

@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-21T09:28:53.431264+09:00",
+  "fetched_at": "2026-10-22T09:32:37.441212+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "令和8年度PCB廃棄物の適正な処理促進に関する説明会を開催します",
+      "url": "http://pcb2026.go.jp\n",
+      "date": "2026-10-21"
+    },
     {
       "title": "「住宅省エネ2024キャンペーン」の事務局における登録事業者情報の漏洩の可能性について",
       "url": "https://www.enecho.meti.go.jp/category/saving_and_new/saving/general/housing/data/juutaku_shoene2024_rouei.pdf",
@@ -281,11 +286,6 @@
       "title": "日本産業規格（JIS）を制定・改正しました（2026年6月分）",
       "url": "https://www.meti.go.jp/policy/economy/hyojun-kijun/jiskouji/20260622001.html",
       "date": "2026-06-22"
-    },
-    {
-      "title": "2026年度第2回フィジカルインターネット実現会議の開催について",
-      "url": "https://wwws.meti.go.jp/interface/honsho/committee/index.cgi/committee/69714",
-      "date": "2026-06-15"
     }
   ]
 }

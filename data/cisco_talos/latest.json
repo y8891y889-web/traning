@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-10-21T09:30:07.663171+09:00",
+  "fetched_at": "2026-10-22T09:34:03.973232+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "Compromised eMudhra intermediate certificates",
+      "url": "https://blog.talosintelligence.com/compromised-intermediate-certificates/",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Two critical RCEs in PHP core",
+      "url": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers",
+      "url": "https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/",
+      "date": "2026-10-21"
+    },
     {
       "title": "There's only so much code: the rise in vulnerability numbers",
       "url": "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/",
@@ -61,21 +76,6 @@
       "title": "China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor",
       "url": "https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/",
       "date": "2026-09-30"
-    },
-    {
-      "title": "Securing the keys to the kingdom: Announcing Executive Threat Detection",
-      "url": "https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Trust and the enticing consultancy offer",
-      "url": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
-      "date": "2026-09-24"
-    },
-    {
-      "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant",
-      "url": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/",
-      "date": "2026-09-22"
     }
   ]
 }

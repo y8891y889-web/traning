@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-21T09:29:46.011077+09:00",
+  "fetched_at": "2026-10-22T09:33:44.306666+09:00",
   "source_url": "https://krebsonsecurity.com/feed/",
   "entries": [
+    {
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "date": "2026-10-21"
+    },
     {
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
@@ -46,11 +51,6 @@
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
       "date": "2026-09-08"
-    },
-    {
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "date": "2026-09-01"
     }
   ]
 }
