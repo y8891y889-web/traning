@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-22T09:33:15.320231+09:00",
+  "fetched_at": "2026-10-23T09:29:53.862595+09:00",
   "source_url": "https://www.mlit.go.jp/",
   "entries": [
+    {
+      "title": "水・国土",
+      "url": "https://www.mlit.go.jp/mizukokudo/index.html",
+      "date": "2026-10-22"
+    },
     {
       "title": "総合政策",
       "url": "https://www.mlit.go.jp/sogoseisaku/index.html",
@@ -56,6 +61,11 @@
       "title": "金子大臣会見要旨",
       "url": "https://www.mlit.go.jp/report/interview/daijin260917.html",
       "date": "2026-09-17"
+    },
+    {
+      "title": "住宅・建築",
+      "url": "https://www.mlit.go.jp/jutakukentiku/index.html",
+      "date": "2026-10-22"
     },
     {
       "title": "国土政策",

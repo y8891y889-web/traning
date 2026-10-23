@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-22T09:34:03.973232+09:00",
+  "fetched_at": "2026-10-23T09:30:49.459015+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "I had plans for that second",
+      "url": "https://blog.talosintelligence.com/i-had-plans-for-that-second/",
+      "date": "2026-10-22"
+    },
     {
       "title": "Compromised eMudhra intermediate certificates",
       "url": "https://blog.talosintelligence.com/compromised-intermediate-certificates/",
@@ -71,11 +76,6 @@
       "title": "The Fine Art of Frustrating the Adversary",
       "url": "https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/",
       "date": "2026-10-01"
-    },
-    {
-      "title": "China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor",
-      "url": "https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/",
-      "date": "2026-09-30"
     }
   ]
 }

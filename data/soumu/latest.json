@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-22T09:32:44.468949+09:00",
+  "fetched_at": "2026-10-23T09:29:40.447287+09:00",
   "source_url": "https://www.soumu.go.jp/toukei/snews_back.html",
   "entries": [
+    {
+      "title": "2025年基準 消費者物価指数 全国 2026年(令和8年)9月分",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000354.html",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "「サービス産業動態統計調査」2026年（令和8年）8月分（速報）",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000347.html",
+      "date": "2026-10-23"
+    },
     {
       "title": "「Data StaRt Award 〜第11回地方公共決団体における統計データ利活用表彰〜」の受賞団体及び 「統計データ分析コンペティション2026」の受賞者の決定",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei09_01000108.html",
@@ -491,16 +501,6 @@
       "title": "「2024年経済構造実態調査」三次集計結果　産業横断調査（事業所に関する集計）",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000322.html",
       "date": "2025-10-29"
-    },
-    {
-      "title": "2020年基準 消費者物価指数 全国 2025年(令和7年)9月分",
-      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000326.html",
-      "date": "2025-10-24"
-    },
-    {
-      "title": "「サービス産業動態統計調査」2025年（令和7年）8月分（速報）",
-      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000323.html",
-      "date": "2025-10-24"
     }
   ]
 }

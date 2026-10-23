@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-10-22T09:33:43.070435+09:00",
+  "fetched_at": "2026-10-23T09:30:23.626159+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "Cisco security advisory (AV26-1073)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1073",
-      "date": "2026-10-21"
+      "title": "Splunk security advisory (AV26-1077)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-1077",
+      "date": "2026-10-22"
     },
     {
-      "title": "ISC BIND security advisory (AV26-1072)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av26-1072",
-      "date": "2026-10-21"
+      "title": "Atlassian security advisory (AV26-1076)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av26-1076",
+      "date": "2026-10-22"
     },
     {
-      "title": "Oracle Corporation security advisory (AV26-1071)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/oracle-corporation-security-advisory-av26-1071",
-      "date": "2026-10-21"
+      "title": "Roundcube security advisory (AV26-1075)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/roundcube-security-advisory-av26-1075",
+      "date": "2026-10-22"
     }
   ]
 }

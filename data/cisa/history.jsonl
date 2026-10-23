@@ -124,3 +124,23 @@
 {"title": "Moxa AIG-302 ThingsPro Edge", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-03", "date": "2026-10-20", "found_at": "2026-10-21T09:29:15.714541+09:00"}
 {"title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog", "url": "https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog", "date": "2026-10-20", "found_at": "2026-10-21T09:29:15.714541+09:00"}
 {"title": "Critical Vulnerabilities in PHP Require Immediate Patching", "url": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching", "date": "2026-10-21", "found_at": "2026-10-22T09:33:17.797621+09:00"}
+{"title": "Siemens SIMATIC S7 Webserver API", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-10", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens APOGEE, TALON and Desigo PXC/PXM Products", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens RUGGEDCOM CROSSBOW", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens RUGGEDCOM APE1808 Devices", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens Industrial Edge App Publisher", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-02", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens WinCC", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens Industrial Edge Device Kit", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens Capital Embedded AR Classic", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "InterSystems Corporation InterSystems IRIS for Health", "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-295-01", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens PSS(R)SINCAL", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens Software Center", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens RUGGEDCOM CROSSBOW Station Access Controller", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens SIMATIC IPCs", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens Industrial Edge Devices", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens SIMATIC S7 PLCs Web Server", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens SENTRON 3NA COM Fuse", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Managing AI Token Consumption for Operational Resilience", "url": "https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Siemens SIMATIC S7-1500 TM MFP", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}
+{"title": "Kiloview E3 NDI Encoder", "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-01", "date": "2026-10-22", "found_at": "2026-10-23T09:29:58.265278+09:00"}

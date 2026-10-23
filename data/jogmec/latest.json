@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-21T09:29:09.998452+09:00",
+  "fetched_at": "2026-10-23T09:29:51.145773+09:00",
   "source_url": "https://www.jogmec.go.jp/news/information/index.html",
   "entries": [
+    {
+      "title": "2026年10月22日[お知らせ]PHPの脆弱性対応に伴うJOGMECウェブサイトの再開について",
+      "url": "https://www.jogmec.go.jp/news/information/information_00710.html",
+      "date": "2026-10-22"
+    },
     {
       "title": "2026年10月6日[お知らせ]七尾国家石油ガス備蓄基地における石川県石油コンビナート等防災訓練の実施について",
       "url": "https://www.jogmec.go.jp/news/information/information_00709.html",
@@ -10,11 +15,6 @@
     {
       "title": "2026年10月2日[お知らせ]JOGMEC NEWS PLUS 「石油の放出でガソリン価格や生活は変わる？ 『もしも』に備える石油備蓄」公開について",
       "url": "https://www.jogmec.go.jp/news/information/information_00707.html",
-      "date": "2026-10-02"
-    },
-    {
-      "title": "2026年10月2日[お知らせ]広報誌「JOGMEC NEWS」81号の公開について",
-      "url": "https://www.jogmec.go.jp/news/information/information_00708.html",
       "date": "2026-10-02"
     }
   ]

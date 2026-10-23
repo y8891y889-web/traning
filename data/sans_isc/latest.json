@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-22T09:33:43.341835+09:00",
+  "fetched_at": "2026-10-23T09:30:24.032424+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
+      "url": "https://isc.sans.edu/diary/rss/33446",
+      "date": "2026-10-22"
+    },
     {
       "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon yellow&#x5d;, (Wed, Oct 21st)",
       "url": "https://isc.sans.edu/diary/rss/33440",
@@ -45,11 +50,6 @@
     {
       "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
       "url": "https://isc.sans.edu/diary/rss/33420",
-      "date": "2026-10-14"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)",
-      "url": "https://isc.sans.edu/diary/rss/33424",
       "date": "2026-10-14"
     }
   ]
