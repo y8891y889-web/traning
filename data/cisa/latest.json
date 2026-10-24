@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-23T09:29:58.264733+09:00",
+  "fetched_at": "2026-10-24T09:25:22.672150+09:00",
   "source_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
   "entries": [
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-10-23"
+    },
     {
       "title": "Siemens SIMATIC S7 Webserver API",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-10",
@@ -73,18 +83,13 @@
       "date": "2026-10-22"
     },
     {
-      "title": "Siemens Industrial Edge Devices",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
-      "date": "2026-10-22"
-    },
-    {
       "title": "Siemens SIMATIC S7 PLCs Web Server",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
       "date": "2026-10-22"
     },
     {
-      "title": "Siemens SENTRON 3NA COM Fuse",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
+      "title": "Siemens Industrial Edge Devices",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
       "date": "2026-10-22"
     },
     {
@@ -93,13 +98,18 @@
       "date": "2026-10-22"
     },
     {
-      "title": "Siemens SIMATIC S7-1500 TM MFP",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
+      "title": "Siemens SENTRON 3NA COM Fuse",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
       "date": "2026-10-22"
     },
     {
       "title": "Kiloview E3 NDI Encoder",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-01",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Siemens SIMATIC S7-1500 TM MFP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
       "date": "2026-10-22"
     },
     {
@@ -113,13 +123,13 @@
       "date": "2026-10-20"
     },
     {
-      "title": "Hitachi Energy RTU500 Product",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05",
+      "title": "Hitachi Energy MicroSCADA X SYS600 Product",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
       "date": "2026-10-20"
     },
     {
-      "title": "Hitachi Energy MicroSCADA X SYS600 Product",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
+      "title": "Hitachi Energy RTU500 Product",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05",
       "date": "2026-10-20"
     },
     {
@@ -138,18 +148,8 @@
       "date": "2026-10-20"
     },
     {
-      "title": "Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials",
-      "url": "https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials",
-      "date": "2026-10-16"
-    },
-    {
       "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
-      "date": "2026-10-16"
-    },
-    {
-      "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation",
-      "url": "https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
       "date": "2026-10-16"
     }
   ]

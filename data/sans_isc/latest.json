@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-10-23T09:30:24.032424+09:00",
+  "fetched_at": "2026-10-24T09:25:51.165858+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "(Reliable)&#x3f; php2shell exploitability, (Fri, Oct 23rd)",
+      "url": "https://isc.sans.edu/diary/rss/33452",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
+      "url": "https://isc.sans.edu/diary/rss/33450",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, (Fri, Oct 23rd)",
+      "url": "https://isc.sans.edu/diary/rss/33448",
+      "date": "2026-10-23"
+    },
     {
       "title": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
       "url": "https://isc.sans.edu/diary/rss/33446",
@@ -36,21 +51,6 @@
       "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
       "url": "https://isc.sans.edu/diary/rss/33430",
       "date": "2026-10-16"
-    },
-    {
-      "title": "Panchan's Mining Island &#x5b;Guest Diary&#x5d;, (Wed, Oct 14th)",
-      "url": "https://isc.sans.edu/diary/rss/33426",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)",
-      "url": "https://isc.sans.edu/diary/rss/33428",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
-      "url": "https://isc.sans.edu/diary/rss/33420",
-      "date": "2026-10-14"
     }
   ]
 }
