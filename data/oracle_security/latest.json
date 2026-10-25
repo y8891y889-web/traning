@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T09:26:33.013408+09:00",
+  "fetched_at": "2026-10-25T09:10:30.390140+09:00",
   "source_url": "https://www.oracle.com/security-alerts/public-vuln-to-advisory-mapping.html",
   "entries": [
     {
@@ -20,6 +20,11 @@
     {
       "title": "Oracle Critical Patch Update July 2026",
       "url": "https://www.oracle.com/security-alerts/cpujul2026.html",
+      "date": null
+    },
+    {
+      "title": "Oracle Security Alert CVE-2026-91403",
+      "url": "https://www.oracle.com/security-alerts/alert-cve-2026-91403.html",
       "date": null
     },
     {
@@ -55,6 +60,11 @@
     {
       "title": "Oracle Critical Patch Update January 2026",
       "url": "https://www.oracle.com/security-alerts/cpujan2026.html",
+      "date": null
+    },
+    {
+      "title": "Oracle Security Alert CVE-2026-114820",
+      "url": "https://www.oracle.com/security-alerts/alert-cve-2026-114820.html",
       "date": null
     },
     {

@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-24T09:25:53.510504+09:00",
+  "fetched_at": "2026-10-25T09:09:57.038019+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "date": "2026-10-24"
+    },
     {
       "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
@@ -70,11 +75,6 @@
     {
       "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
       "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "GitLab warns of new max severity code execution vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
       "date": "2026-10-22"
     }
   ]

@@ -1,7 +1,32 @@
 {
-  "fetched_at": "2026-10-24T09:25:51.954289+09:00",
+  "fetched_at": "2026-10-25T09:09:56.660551+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "date": "2026-10-24"
+    },
     {
       "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
       "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
@@ -225,31 +250,6 @@
     {
       "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
       "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-      "date": "2026-10-20"
-    },
-    {
-      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-      "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-      "date": "2026-10-20"
-    },
-    {
-      "title": "What Security Teams Can Do To Tame Wild Code",
-      "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-      "date": "2026-10-20"
-    },
-    {
-      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-      "url": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-      "date": "2026-10-20"
-    },
-    {
-      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
-      "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-      "date": "2026-10-20"
-    },
-    {
-      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
-      "url": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
       "date": "2026-10-20"
     }
   ]
