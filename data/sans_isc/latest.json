@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-25T09:09:56.038241+09:00",
+  "fetched_at": "2026-10-26T09:01:14.164476+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
+      "url": "https://isc.sans.edu/diary/rss/33454",
+      "date": "2026-10-25"
+    },
     {
       "title": "(Reliable)&#x3f; php2shell exploitability, (Fri, Oct 23rd)",
       "url": "https://isc.sans.edu/diary/rss/33452",
@@ -45,11 +50,6 @@
     {
       "title": "ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)",
       "url": "https://isc.sans.edu/diary/rss/33432",
-      "date": "2026-10-16"
-    },
-    {
-      "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
-      "url": "https://isc.sans.edu/diary/rss/33430",
       "date": "2026-10-16"
     }
   ]
