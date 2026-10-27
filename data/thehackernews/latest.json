@@ -1,14 +1,64 @@
 {
-  "fetched_at": "2026-10-26T09:01:14.768043+09:00",
+  "fetched_at": "2026-10-27T10:21:05.469802+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+      "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "date": "2026-10-26"
+    },
     {
       "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
       "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
       "date": "2026-10-25"
     },
     {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
       "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
       "date": "2026-10-25"
     },
@@ -201,56 +251,6 @@
       "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
       "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
       "date": "2026-10-21"
-    },
-    {
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
-      "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-      "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
-      "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-      "date": "2026-10-20"
-    },
-    {
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "date": "2026-10-20"
     }
   ]
 }

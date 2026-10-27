@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T09:00:48.278216+09:00",
+  "fetched_at": "2026-10-27T10:20:38.783263+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
     {
@@ -13,13 +13,13 @@
       "date": "2026-10-20"
     },
     {
-      "title": "Using TLS to protect data",
-      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
+      "title": "Post-quantum updates to our TLS guidance",
+      "url": "https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance",
       "date": "2026-10-15"
     },
     {
-      "title": "Post-quantum updates to our TLS guidance",
-      "url": "https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance",
+      "title": "Using TLS to protect data",
+      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
       "date": "2026-10-15"
     },
     {
@@ -48,13 +48,13 @@
       "date": "2026-09-21"
     },
     {
-      "title": "Adversary simulation: what you need to know",
-      "url": "https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know",
+      "title": "Cyber Adversary Simulation (CyAS): scheme documents now available",
+      "url": "https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available",
       "date": "2026-09-17"
     },
     {
-      "title": "Cyber Adversary Simulation (CyAS): scheme documents now available",
-      "url": "https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available",
+      "title": "Adversary simulation: what you need to know",
+      "url": "https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know",
       "date": "2026-09-17"
     },
     {

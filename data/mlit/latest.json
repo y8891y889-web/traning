@@ -1,16 +1,11 @@
 {
-  "fetched_at": "2026-10-26T09:00:40.061363+09:00",
+  "fetched_at": "2026-10-27T10:20:31.930177+09:00",
   "source_url": "https://www.mlit.go.jp/",
   "entries": [
     {
       "title": "土地・不動産・建設業",
       "url": "https://www.mlit.go.jp/totikensangyo/index.html",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "水・国土",
-      "url": "https://www.mlit.go.jp/mizukokudo/index.html",
-      "date": "2026-10-22"
+      "date": "2026-10-26"
     },
     {
       "title": "井林大臣会見要旨",
@@ -63,6 +58,11 @@
       "date": "2026-09-18"
     },
     {
+      "title": "道路",
+      "url": "https://www.mlit.go.jp/road/index.html",
+      "date": "2026-10-26"
+    },
+    {
       "title": "航空",
       "url": "https://www.mlit.go.jp/koku/index.html",
       "date": "2026-10-23"
@@ -76,16 +76,6 @@
       "title": "国土政策",
       "url": "https://www.mlit.go.jp/kokudoseisaku/index.html",
       "date": "2026-10-21"
-    },
-    {
-      "title": "物流・自動車",
-      "url": "https://www.mlit.go.jp/jidosha/index.html",
-      "date": "2026-10-20"
-    },
-    {
-      "title": "都市",
-      "url": "https://www.mlit.go.jp/toshi/index.html",
-      "date": "2026-10-19"
     },
     {
       "title": "総合政策",

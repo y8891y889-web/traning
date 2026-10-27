@@ -1,7 +1,32 @@
 {
-  "fetched_at": "2026-10-26T09:00:28.150887+09:00",
+  "fetched_at": "2026-10-27T10:20:20.124665+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "職員を募集しています。（国際関連業務に従事する職員）",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/kokusai-01/kokusai-01.html",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "職員を募集しています。（国際関連業務に従事する職員）",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/kokusai-02/kokusai-02.html",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "職員を募集しています。（国内金融に関する制度の企画及び立案等の業務に従事する職員）",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/kikaku-03/kikaku-03.html",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月９日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261009-1.html",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月13日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261013-1.html",
+      "date": "2026-10-26"
+    },
     {
       "title": "「アジアGXコンソーシアム」ハイレベル会合2026の開催について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20261023/20261023.html",
@@ -220,11 +245,6 @@
     {
       "title": "令和８年３月期における金融再生法開示債権の状況等（ポイント）を公表しました。",
       "url": "https://www.fsa.go.jp/status/npl/20261008.html",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "職員を募集しています。（金融モニタリング業務に従事する職員）",
-      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-09/ginnsyou-09.html",
       "date": "2026-10-08"
     },
     {
@@ -981,26 +1001,6 @@
       "title": "審判手続状況一覧を更新しました。",
       "url": "https://www.fsa.go.jp/policy/kachoukin/06.html",
       "date": "2026-07-28"
-    },
-    {
-      "title": "「投資信託及び投資法人に関する法律施行規則の一部を改正する内閣府令（案）」に対するパブリックコメントの実施について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/shouken/20260728/20260728.html",
-      "date": "2026-07-28"
-    },
-    {
-      "title": "ベースフード（株）株式外２銘柄に係る相場操縦審判事件の第１回審判手続期日開催について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/shouken/20260728.html",
-      "date": "2026-07-28"
-    },
-    {
-      "title": "新興運用業者促進プログラム（日本版EMP）特設ページを更新しました。",
-      "url": "https://www.fsa.go.jp/policy/pjlamc/emp/japanese_emp.html",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年７月21日）について掲載しました。",
-      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260721-1.html",
-      "date": "2026-07-27"
     }
   ]
 }

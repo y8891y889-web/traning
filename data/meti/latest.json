@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-26T09:00:20.426511+09:00",
+  "fetched_at": "2026-10-27T10:20:13.749929+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "「つながる特許庁 in KANSAI／関西ビジネス知財フォーラム2026」を11月24日に開催します",
+      "url": "https://www.inpit.go.jp/branch/kansai/event/20261021.html",
+      "date": "2026-10-26"
+    },
     {
       "title": "FOOD CROSS HOKKAIDO 2026にバイオものづくり・フードテックブースを出展します",
       "url": "https://www.hkd.meti.go.jp/hokch/20261023_2/index.htm",
@@ -280,11 +285,6 @@
     {
       "title": "7月29日（水曜日）・30日（木曜日）の2日間【経済産業省こどもデー】今年も元気に開催します！",
       "url": "https://www.meti.go.jp/intro/kids/torikumi/index.html",
-      "date": "2026-06-26"
-    },
-    {
-      "title": "第4回アジア・ゼロエミッション共同体（AZEC）での炭素市場構築に関する国際会合を開催しました",
-      "url": "https://www.meti.go.jp/policy/energy_environment/global_warming/azec/azec-dcm/4th_azec-dcm.html",
       "date": "2026-06-26"
     }
   ]

@@ -1,7 +1,57 @@
 {
-  "fetched_at": "2026-10-26T09:01:15.395007+09:00",
+  "fetched_at": "2026-10-27T10:21:05.910525+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "University of Copenhagen data breach exposes data of 525,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+      "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "DreamHost forces password resets in ongoing \"incident\"",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "date": "2026-10-26"
+    },
+    {
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "date": "2026-10-26"
+    },
     {
       "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
       "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
@@ -26,56 +76,6 @@
       "title": "Microsoft: Windows Server 2016 reaches end of support in January",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
       "date": "2026-10-23"
-    },
-    {
-      "title": "Quest Diagnostics confirms data breach exposed patient records",
-      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "You gave your AI agent access, but who is giving it orders?",
-      "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Railway warns devs to rotate secrets after potential breach",
-      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Capcom confirms data breach affecting 11.7 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Machine speed attacks require machine speed detection and response",
-      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-      "date": "2026-10-22"
     }
   ]
 }
