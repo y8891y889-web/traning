@@ -1,7 +1,62 @@
 {
-  "fetched_at": "2026-10-27T10:21:05.469802+09:00",
+  "fetched_at": "2026-10-28T10:04:47.930041+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+      "url": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+      "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+      "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+      "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+      "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+      "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+      "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "date": "2026-10-27"
+    },
     {
       "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
       "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
@@ -196,61 +251,6 @@
       "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
       "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
       "date": "2026-10-22"
-    },
-    {
-      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-      "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
-      "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-      "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-      "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-      "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-      "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "date": "2026-10-21"
     }
   ]
 }

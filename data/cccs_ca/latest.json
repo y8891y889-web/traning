@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-10-27T10:21:04.298252+09:00",
+  "fetched_at": "2026-10-28T10:04:46.225896+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "HashiCorp security advisory (AV26-1087)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/hashicorp-security-advisory-av26-1087",
-      "date": "2026-10-26"
+      "title": "Adobe security advisory (AV26-697) – Update 1",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-697",
+      "date": "2026-10-27"
     },
     {
-      "title": "Craft CMS security advisory (AV26-1086)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/craft-cms-security-advisory-av26-1086",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "Google security advisory (AV26-1085)",
+      "title": "Google security advisory (AV26-1085) - Update 1",
       "url": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1085",
-      "date": "2026-10-26"
+      "date": "2026-10-27"
+    },
+    {
+      "title": "[Control systems] Hitachi security advisory (AV26-1091)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av26-1091",
+      "date": "2026-10-27"
     }
   ]
 }

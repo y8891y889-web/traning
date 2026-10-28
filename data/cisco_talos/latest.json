@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-27T10:21:22.240680+09:00",
+  "fetched_at": "2026-10-28T10:05:10.161528+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "From federal SOCs to Talos: Ryan Fetterman on practical security research",
+      "url": "https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/",
+      "date": "2026-10-27"
+    },
     {
       "title": "I had plans for that second",
       "url": "https://blog.talosintelligence.com/i-had-plans-for-that-second/",
@@ -70,11 +75,6 @@
     {
       "title": "Give yourself room to be human",
       "url": "https://blog.talosintelligence.com/give-yourself-room-to-be-human/",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "The Fine Art of Frustrating the Adversary",
-      "url": "https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/",
       "date": "2026-10-01"
     }
   ]

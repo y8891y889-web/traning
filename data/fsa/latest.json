@@ -1,7 +1,37 @@
 {
-  "fetched_at": "2026-10-27T10:20:20.124665+09:00",
+  "fetched_at": "2026-10-28T10:04:03.596025+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "信用格付業者の登録について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/shouken/20261027/20261027.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "「第２回　気候変動関連データの活用と適応に関する実践パネル」の発表資料及び議事要旨について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20260819.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月23日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261023-1.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月20日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261020-1.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月16日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261016-1.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "多重債務問題対策推進懇談会の議事次第等について公表しました。",
+      "url": "https://www.fsa.go.jp/policy/kashikin/tajusaimukondankai/20261028/20261028.html",
+      "date": "2026-10-27"
+    },
     {
       "title": "職員を募集しています。（国際関連業務に従事する職員）",
       "url": "https://www.fsa.go.jp/common/recruit/r8/kokusai-01/kokusai-01.html",
@@ -76,11 +106,6 @@
       "title": "職員を募集しています。（資産運用会社等の監督等に従事する職員）",
       "url": "https://www.fsa.go.jp/common/recruit/r8/shiho-03/shiho-03.html",
       "date": "2026-10-22"
-    },
-    {
-      "title": "多重債務問題対策推進懇談会の開催について公表しました。",
-      "url": "https://www.fsa.go.jp/policy/kashikin/tajusaimukondankai/20261028/20261028.html",
-      "date": "2026-10-21"
     },
     {
       "title": "「デジタル・分散型金融への対応のあり方等に関する研究会」（第１回）議事次第について公表しました。",
@@ -728,11 +753,6 @@
       "date": "2026-08-21"
     },
     {
-      "title": "「第２回　気候変動関連データの活用と適応に関する実践パネル」の開催について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20260819.html",
-      "date": "2026-08-19"
-    },
-    {
       "title": "「トランジション・ファイナンス環境整備検討会」（第13回）議事要旨について公表しました。",
       "url": "https://www.fsa.go.jp/singi/transition_finance/gijiyousi/20260227.html",
       "date": "2026-08-18"
@@ -981,26 +1001,6 @@
       "title": "令和８年熊本地震に係る災害等に対する金融上の措置について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/ginkou/20260729.html",
       "date": "2026-07-29"
-    },
-    {
-      "title": "FATFによる「DeFiに係る規制上の課題に関する報告書」について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/fatf/20260721/20260721.html",
-      "date": "2026-07-29"
-    },
-    {
-      "title": "リスク性金融商品の販売・組成会社による顧客本位の業務運営に関するモニタリング結果について（2025事務年度）公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/kokyakuhoni/20260729.html",
-      "date": "2026-07-29"
-    },
-    {
-      "title": "令和８年金融商品取引法等改正（20日後施行）に係る政令の公布について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/shouken/20260729/20260729.html",
-      "date": "2026-07-29"
-    },
-    {
-      "title": "審判手続状況一覧を更新しました。",
-      "url": "https://www.fsa.go.jp/policy/kachoukin/06.html",
-      "date": "2026-07-28"
     }
   ]
 }

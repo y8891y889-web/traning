@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-10-27T10:20:38.675353+09:00",
+  "fetched_at": "2026-10-28T10:04:23.285380+09:00",
   "source_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
   "entries": [
+    {
+      "title": "Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "EPICS Base",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-01",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "date": "2026-10-27"
+    },
     {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -25,6 +40,11 @@
     {
       "title": "Siemens APOGEE, TALON and Desigo PXC/PXM Products",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Managing AI Token Consumption for Operational Resilience",
+      "url": "https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience",
       "date": "2026-10-22"
     },
     {
@@ -78,33 +98,8 @@
       "date": "2026-10-22"
     },
     {
-      "title": "Siemens SIMATIC IPCs",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Siemens Industrial Edge Devices",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Managing AI Token Consumption for Operational Resilience",
-      "url": "https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Siemens SIMATIC S7-1500 TM MFP",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Kiloview E3 NDI Encoder",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-01",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Siemens SENTRON 3NA COM Fuse",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
+      "title": "Siemens RUGGEDCOM CROSSBOW Station Access Controller",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
       "date": "2026-10-22"
     },
     {
@@ -113,19 +108,34 @@
       "date": "2026-10-22"
     },
     {
-      "title": "Siemens RUGGEDCOM CROSSBOW Station Access Controller",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
+      "title": "Siemens SENTRON 3NA COM Fuse",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Kiloview E3 NDI Encoder",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-01",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Siemens SIMATIC S7-1500 TM MFP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Siemens Industrial Edge Devices",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Siemens SIMATIC IPCs",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07",
       "date": "2026-10-22"
     },
     {
       "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
       "date": "2026-10-21"
-    },
-    {
-      "title": "#StopRansomware: SafePay Ransomware",
-      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-293a",
-      "date": "2026-10-20"
     },
     {
       "title": "Hitachi Energy RTU500 Product",
@@ -140,16 +150,6 @@
     {
       "title": "Hitachi Energy MicroSCADA X SYS600 Product",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
-      "date": "2026-10-20"
-    },
-    {
-      "title": "HMS Networks PEAK-System PCAN Windows drivers",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-01",
-      "date": "2026-10-20"
-    },
-    {
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog",
       "date": "2026-10-20"
     }
   ]

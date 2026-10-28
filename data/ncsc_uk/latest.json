@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-27T10:20:38.783263+09:00",
+  "fetched_at": "2026-10-28T10:04:23.415522+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
+    {
+      "title": "From industry concern to practical action: the value of working with regulators",
+      "url": "https://www.ncsc.gov.uk/blogs/industry-concern-practical-action-value-working-regulators",
+      "date": "2026-10-27"
+    },
     {
       "title": "Critical security issue affecting PHP",
       "url": "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php",
@@ -13,13 +18,13 @@
       "date": "2026-10-20"
     },
     {
-      "title": "Post-quantum updates to our TLS guidance",
-      "url": "https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance",
+      "title": "Using TLS to protect data",
+      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
       "date": "2026-10-15"
     },
     {
-      "title": "Using TLS to protect data",
-      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
+      "title": "Post-quantum updates to our TLS guidance",
+      "url": "https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance",
       "date": "2026-10-15"
     },
     {
@@ -58,13 +63,13 @@
       "date": "2026-09-17"
     },
     {
-      "title": "Iranian cyber targeting of dissidents, activists and journalists",
-      "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
+      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
+      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
       "date": "2026-09-15"
     },
     {
-      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
-      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
+      "title": "Iranian cyber targeting of dissidents, activists and journalists",
+      "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
       "date": "2026-09-15"
     },
     {
@@ -96,11 +101,6 @@
       "title": "Water sector example added to the NCSC’s Secure connectivity principles",
       "url": "https://www.ncsc.gov.uk/blogs/water-sector-example-added-to-the-ncscs-secure-connectivity-principles",
       "date": "2026-08-11"
-    },
-    {
-      "title": "NCSC statement in response to recent incidents resulting from frontier AI evaluations",
-      "url": "https://www.ncsc.gov.uk/news/ncsc-statement-in-response-to-recent-incidents-resulting-from-frontier-ai-evaluations",
-      "date": "2026-08-04"
     }
   ]
 }

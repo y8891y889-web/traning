@@ -1,11 +1,16 @@
 {
-  "fetched_at": "2026-10-27T10:20:15.437298+09:00",
+  "fetched_at": "2026-10-28T10:03:59.230107+09:00",
   "source_url": "https://www.mof.go.jp/public_relations/whats_new/202610.html",
   "entries": [
     {
-      "title": "国債国債金利情報(令和8年10月26日)(CSV:2KB)",
+      "title": "会見等片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月27日(火曜日))",
+      "url": "https://www.mof.go.jp/public_relations/conference/my20261027.html",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "国債国債金利情報(令和8年10月27日)(CSV:3KB)",
       "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-      "date": "2026-10-26"
+      "date": "2026-10-27"
     },
     {
       "title": "国債5年クライメート・トランジション利付国債（11月債）の発行予定額等（令和8年10月26日公表）",
