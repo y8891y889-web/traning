@@ -1,15 +1,50 @@
 {
-  "fetched_at": "2026-10-28T10:03:59.230107+09:00",
+  "fetched_at": "2026-10-29T10:40:22.056551+09:00",
   "source_url": "https://www.mof.go.jp/public_relations/whats_new/202610.html",
   "entries": [
     {
-      "title": "会見等片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月27日(火曜日))",
-      "url": "https://www.mof.go.jp/public_relations/conference/my20261027.html",
-      "date": "2026-10-27"
+      "title": "国債交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年10月29日公表）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer261029.htm",
+      "date": "2026-10-29"
     },
     {
-      "title": "国債国債金利情報(令和8年10月27日)(CSV:3KB)",
+      "title": "国債2年利付国債（第490回）の入札発行（令和8年10月29日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261029.htm",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "国債10年利付国債（11月債）の発行予定額等（令和8年10月29日公表）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261029.htm",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "財政投融資財政融資資金預託金利（令和8年11月1日以降適用）",
+      "url": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir8/yotaku20261029.html",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "財政投融資財政融資資金貸付金利（令和8年11月1日以降適用）",
+      "url": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir8/kashi20261029.html",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "国債国債金利情報(令和8年10月28日)(CSV:3KB)",
       "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "財政投融資財政投融資分科会（令和8年10月28日開催）資料一覧",
+      "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/material/zaitoa20261028.html",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "国債交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年10月28日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261028.htm",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "会見等片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月27日(火曜日))",
+      "url": "https://www.mof.go.jp/public_relations/conference/my20261027.html",
       "date": "2026-10-27"
     },
     {
@@ -76,11 +111,6 @@
       "title": "国際政策日米政府の戦略的投資イニシアティブに関する協議委員会の会合を開催 （令和8年10月20日）",
       "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261019212955.html",
       "date": "2026-10-20"
-    },
-    {
-      "title": "財政投融資財政投融資分科会（令和８年10月19日開催）資料一覧",
-      "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/material/zaitoa20261019.html",
-      "date": "2026-10-19"
     },
     {
       "title": "関税制度中華人民共和国（香港地域及びマカオ地域を除く。）若しくは台湾、澎湖諸島、金門及び馬祖から成る独立の関税地域を原産地とするニッケル系ステンレス冷延鋼帯・冷延鋼板又はこれらの国若しくは地域から本邦に輸出されたニッケル系ステンレス冷延鋼帯・冷延鋼板に対して不当廉売関税を課することについての答申（令和8年10月19日）",

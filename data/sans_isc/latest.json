@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-10-28T10:04:46.506112+09:00",
+  "fetched_at": "2026-10-29T10:41:13.779450+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
+      "url": "https://isc.sans.edu/diary/rss/33466",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, October 28th, 2026 https://isc.sans.edu/podcastdetail/10154, (Wed, Oct 28th)",
+      "url": "https://isc.sans.edu/diary/rss/33464",
+      "date": "2026-10-28"
+    },
     {
       "title": "ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)",
       "url": "https://isc.sans.edu/diary/rss/33462",
@@ -41,16 +51,6 @@
       "title": "ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, (Fri, Oct 23rd)",
       "url": "https://isc.sans.edu/diary/rss/33448",
       "date": "2026-10-23"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
-      "url": "https://isc.sans.edu/diary/rss/33446",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon yellow&#x5d;, (Wed, Oct 21st)",
-      "url": "https://isc.sans.edu/diary/rss/33440",
-      "date": "2026-10-21"
     }
   ]
 }

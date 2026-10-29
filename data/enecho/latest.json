@@ -1,12 +1,7 @@
 {
-  "fetched_at": "2026-10-28T10:04:03.889991+09:00",
+  "fetched_at": "2026-10-29T10:40:27.443098+09:00",
   "source_url": "https://www.enecho.meti.go.jp/notice/whatsnew/",
   "entries": [
-    {
-      "title": "水素の国際会議が幕張メッセで開催！各国閣僚が集結し、官民シンポジウムや展示会には一般市民も参加",
-      "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/suisokakuryokaigi_2026.html",
-      "date": "2026-10-28"
-    },
     {
       "title": "公募を更新しました",
       "url": "https://www.enecho.meti.go.jp/appli/public_offer/",
@@ -106,81 +101,6 @@
       "title": "日本のガソリン価格は世界と比べて安い？高い？中東情勢を踏まえた燃料油の「緊急的激変緩和措置」",
       "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/fuel_price_shien_2026.html",
       "date": "2026-05-11"
-    },
-    {
-      "title": "世界で見直しがはじまった自動車産業政策〜日本の「マルチパスウェイ戦略」にも注目が",
-      "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/automobile_industry_policy_01.html",
-      "date": "2026-04-20"
-    },
-    {
-      "title": "27年4月からエアコンの新たな省エネ基準がスタート！エアコンについて知っておくべきポイントは？",
-      "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/air_conditioner_2026.html",
-      "date": "2026-04-13"
-    },
-    {
-      "title": "今こそ知りたい、日本の「石油備蓄」のしくみとは？",
-      "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/government_stockpiled_oil.html",
-      "date": "2026-04-01"
-    },
-    {
-      "title": "鉄鋼業で進むGX―「グリーン鉄」普及へ政府も支援",
-      "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_2026.html",
-      "date": "2026-03-19"
-    },
-    {
-      "title": "アジアの脱炭素化と経済成長をめざす「AZEC」（後編）日本企業が参加する先進的プロジェクト",
-      "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/azec_2025_02.html",
-      "date": "2026-03-13"
-    },
-    {
-      "title": "日本のエネルギー2025を公開しました",
-      "url": "https://www.enecho.meti.go.jp/about/pamphlet/",
-      "date": "2026-02-17"
-    },
-    {
-      "title": "「エネルギー基本計画」をもっと読み解く④：安定供給と脱炭素の両立をめざす電力システム改革",
-      "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/energykihonkeikaku2025_kaisetu04.html",
-      "date": "2026-01-16"
-    },
-    {
-      "title": "「COP30」で日本の脱炭素技術を世界に発信！持続可能燃料の共同宣言にも注目",
-      "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/cop30.html",
-      "date": "2025-12-26"
-    },
-    {
-      "title": "暖房費のかさむこの冬も、電気・ガス料金の支援を実施。よくいただく質問に資源エネルギー庁がお答えします！",
-      "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/denki_gas_price_shien_2025winter.html",
-      "date": "2025-12-05"
-    },
-    {
-      "title": "第2回\n                                    原子力人材育成・強化に係る協議会を開催しました",
-      "url": "https://www.enecho.meti.go.jp/category/electricity_and_gas/nuclear/001/event/humanresource/mainpage/mainpage.html",
-      "date": "2025-12-01"
-    },
-    {
-      "title": "ガソリンの暫定税率（当分の間税率）の廃止でガソリン代はどうなるの？よくいただく質問に、資源エネルギー庁がお答えします！",
-      "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/zanteizeiritsu.html",
-      "date": "2025-11-14"
-    },
-    {
-      "title": "持続可能燃料と水素の国際会議が大阪で開催！万博視察も交えて日本の取り組みを世界へ発信（後編）",
-      "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/gx_week2025_02.html",
-      "date": "2025-10-31"
-    },
-    {
-      "title": "持続可能燃料と水素の国際会議が大阪で開催！万博視察も交えて日本の取り組みを世界へ発信（前編）",
-      "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/gx_week2025_01.html",
-      "date": "2025-10-16"
-    },
-    {
-      "title": "脱炭素と経済成長を同時に実現！「GX政策」の今",
-      "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/gxseisaku2025.html",
-      "date": "2025-10-07"
-    },
-    {
-      "title": "最新の「エネルギー白書2025」で日本と世界のエネルギー動向を知ろう！",
-      "url": "https://www.enecho.meti.go.jp/about/special/johoteikyo/energyhakusho2025.html",
-      "date": "2025-10-01"
     }
   ]
 }

@@ -91,3 +91,6 @@
 {"title": "Google security advisory (AV26-1085)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1085", "date": "2026-10-26", "found_at": "2026-10-27T10:21:04.298616+09:00"}
 {"title": "Adobe security advisory (AV26-697) – Update 1", "url": "https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-697", "date": "2026-10-27", "found_at": "2026-10-28T10:04:46.226278+09:00"}
 {"title": "[Control systems] Hitachi security advisory (AV26-1091)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av26-1091", "date": "2026-10-27", "found_at": "2026-10-28T10:04:46.226278+09:00"}
+{"title": "VMware security advisory (AV26-763) – Update 2", "url": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-763", "date": "2026-10-28", "found_at": "2026-10-29T10:41:13.243220+09:00"}
+{"title": "Juniper Networks security advisory (AV26-1101)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av26-1101", "date": "2026-10-28", "found_at": "2026-10-29T10:41:13.243220+09:00"}
+{"title": "Mozilla security advisory (AV26-1100)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-1100", "date": "2026-10-28", "found_at": "2026-10-29T10:41:13.243220+09:00"}
