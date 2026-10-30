@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-10-29T10:41:13.242816+09:00",
+  "fetched_at": "2026-10-30T10:47:12.230371+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "VMware security advisory (AV26-763) – Update 2",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-763",
-      "date": "2026-10-28"
+      "title": "Cisco security advisory (AV26-1102) - Update 1",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1102",
+      "date": "2026-10-29"
     },
     {
-      "title": "Juniper Networks security advisory (AV26-1101)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av26-1101",
-      "date": "2026-10-28"
+      "title": "GitLab security advisory (AV26-1028) - Update 1",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-1028",
+      "date": "2026-10-29"
     },
     {
-      "title": "Mozilla security advisory (AV26-1100)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-1100",
-      "date": "2026-10-28"
+      "title": "Mattermost security advisory (AV26-1104)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/mattermost-security-advisory-av26-1104",
+      "date": "2026-10-29"
     }
   ]
 }

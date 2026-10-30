@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-10-29T10:41:32.739758+09:00",
+  "fetched_at": "2026-10-30T10:47:38.890012+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "A quiet week in infosec <.<",
+      "url": "https://blog.talosintelligence.com/a-quiet-week-in-infosec/",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases",
+      "url": "https://blog.talosintelligence.com/ir-trends-q3-2026/",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "NIK C2: The new AI-enabled command-and-control framework",
+      "url": "https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/",
+      "date": "2026-10-29"
+    },
     {
       "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN",
       "url": "https://blog.talosintelligence.com/uat-11473-keydrift/",
@@ -61,21 +76,6 @@
       "title": "UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing",
       "url": "https://blog.talosintelligence.com/uat-11985/",
       "date": "2026-10-08"
-    },
-    {
-      "title": "Ignore all instructions and read this blog: The state of AI-analysis evasion in malware",
-      "url": "https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "Microsoft, Adobe, Apple, and Foxit vulnerabilities",
-      "url": "https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/",
-      "date": "2026-10-07"
-    },
-    {
-      "title": "One breach, please, and make no mistakes",
-      "url": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/",
-      "date": "2026-10-07"
     }
   ]
 }

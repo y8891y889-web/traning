@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-10-29T10:40:26.226111+09:00",
+  "fetched_at": "2026-10-30T10:46:27.888758+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "金融審議会「保険制度ワーキング・グループ」（第１回）議事録について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijiroku/20261001.html",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "金融審議会「保険制度ワーキング・グループ」（第２回）議事次第について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijishidai/20261030.html",
+      "date": "2026-10-29"
+    },
+    {
+      "title": "「Japan Global Capital Markets Conference」の開催について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/etc/20261029/20261029-2.html",
+      "date": "2026-10-29"
+    },
     {
       "title": "企業会計審議会第３回サステナビリティ情報保証部会の議事次第について公表しました。",
       "url": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/hoshou/20261029.html",
@@ -986,21 +1001,6 @@
       "title": "令和８年熊本地震関連の義援金等を装った詐欺にご注意ください。",
       "url": "https://www.fsa.go.jp/ordinary/earthquake202607/gienkinsagi.html",
       "date": "2026-07-31"
-    },
-    {
-      "title": "令和８年熊本地震に関連する有価証券報告書等の提出期限について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20260731/20260731.html",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "令和８年熊本地震の影響を受けた事業者への資金繰り支援の徹底等について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260731-2/20260731-2.html",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "「主要行等向けの総合的な監督指針」等の一部改正（案）（銀行代理業関係等）について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20260730-2/20260730-2.html",
-      "date": "2026-07-30"
     }
   ]
 }
