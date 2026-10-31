@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-30T10:47:12.840081+09:00",
+  "fetched_at": "2026-10-31T10:29:08.659032+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
+      "url": "https://isc.sans.edu/diary/rss/33472",
+      "date": "2026-10-30"
+    },
     {
       "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
       "url": "https://isc.sans.edu/diary/rss/33470",
@@ -46,11 +51,6 @@
       "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
       "url": "https://isc.sans.edu/diary/rss/33454",
       "date": "2026-10-25"
-    },
-    {
-      "title": "(Reliable)&#x3f; php2shell exploitability, (Fri, Oct 23rd)",
-      "url": "https://isc.sans.edu/diary/rss/33452",
-      "date": "2026-10-23"
     }
   ]
 }

@@ -1,7 +1,42 @@
 {
-  "fetched_at": "2026-10-30T10:46:27.888758+09:00",
+  "fetched_at": "2026-10-31T10:28:23.524423+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "個人情報流出の被害に遭われた方・ご心配のある方向けの相談窓口について掲載しました。",
+      "url": "https://www.fsa.go.jp/receipt/soudansitu/index.html#kojinjouhou",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "金融機関における貸付条件の変更等の状況についてを更新しました。",
+      "url": "https://www.fsa.go.jp/ordinary/tariff202504/kashitsuke/202506.html",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "「金融商品取引業等に関する内閣府令の一部を改正する内閣府令」等の公布及びパブリックコメントの結果について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/shouken/20261030/20261030.html",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "国際会計基準（IFRS）財団モニタリング・ボードのプレスリリースについて公表しました。",
+      "url": "https://www.fsa.go.jp/inter/etc/20261030/20261030.html",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "欧州財務報告諮問グループ（EFRAG）による「非EU企業向け欧州サステナビリティ報告基準（ESRS-40a）公開草案」へのコメントレター発出について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/etc/20261030-3/20261030-3.html",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "「諸外国における金融制度の概要に関する調査」報告書について公表しました。",
+      "url": "https://www.fsa.go.jp/common/about/research/20261030/20261030.html",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "ISDA Derivatives Trading Forum Tokyo 2026での基調講演「Derivatives：Grit, Ingenuity, and Growth」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/etc/20261030-2/20261030.html",
+      "date": "2026-10-30"
+    },
     {
       "title": "金融審議会「保険制度ワーキング・グループ」（第１回）議事録について公表しました。",
       "url": "https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijiroku/20261001.html",
@@ -435,11 +470,6 @@
     {
       "title": "令和８年台風第18号に伴う災害等に対する金融上の措置について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/ginkou/20260930.html",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "金融機関における貸付条件の変更等の状況についてを更新しました。",
-      "url": "https://www.fsa.go.jp/ordinary/tariff202504/kashitsuke/202506.html",
       "date": "2026-09-30"
     },
     {
@@ -970,36 +1000,6 @@
     {
       "title": "FSA Analytical Notesー金融庁分析事例集ー（2026.7）vol.2＜主要行等における海外債務者への融資状況の分析＞、＜企業デフォルト率推計モデル構築に向けた分析＞および＜預金動向の実態把握及び預金残高の変動要因に関する定量的分析の試行＞について公表しました。",
       "url": "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/20260731/20260731.html",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "「経営者保証に関するガイドライン」の活用実績等について（個別金融機関等の実績及び取組方針の公表状況）を更新しました。",
-      "url": "https://www.fsa.go.jp/policy/hoshou_jirei/jisseki_kobetsu.html",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "外国人の受入れ・共生に関する金融関連施策について更新しました。",
-      "url": "https://www.fsa.go.jp/user/livinginjapan.html#financial_institution",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "「昭和100年」関連施策　特設ページを更新しました。",
-      "url": "https://www.fsa.go.jp/kouhou/showa100nen/index.html",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "「ベンチャーキャピタルにおいて推奨・期待される事項」（改訂案）について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/singi/20260731.html",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "「金融商品取引業等に関する内閣府令の一部を改正する内閣府令（案）」及び「特別金融商品取引業者及びその子法人等の保有する資産等に照らし当該特別金融商品取引業者及びその子法人等の自己資本の充実の状況が適当であるかどうかを判断するための基準を定める件の一部を改正する件（案）」に対するパブリックコメントの実施について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/shouken/20260731/20260731.html",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "令和８年熊本地震関連の義援金等を装った詐欺にご注意ください。",
-      "url": "https://www.fsa.go.jp/ordinary/earthquake202607/gienkinsagi.html",
       "date": "2026-07-31"
     }
   ]

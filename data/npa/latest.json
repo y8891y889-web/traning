@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-30T10:46:31.863581+09:00",
+  "fetched_at": "2026-10-31T10:28:27.321844+09:00",
   "source_url": "https://www.npa.go.jp/newlyarrived/index.html",
   "entries": [
+    {
+      "title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律に基づく対象特別要人所在施設等の指定について（第81回天皇賜杯・皇后賜杯全日本ソフトテニス選手権大会関係）",
+      "url": "https://www.npa.go.jp/news/release/2026/20261030001.html",
+      "date": "2026-10-30"
+    },
     {
       "title": "サイバー警察局便りR8Vol.19「情報流出に注意」の更新について",
       "url": "https://www.npa.go.jp/bureau/cyber/pdf/R8_Vol.19cpal.pdf",
@@ -93,19 +98,9 @@
       "date": "2026-10-01"
     },
     {
-      "title": "特殊詐欺に係る被害金の追跡、凍結、回復に指向した官民協働型枠組みの協定金融機関の拡大について",
-      "url": "https://www.npa.go.jp/bureau/sosikihanzai/tokushusagi.html",
-      "date": "2026-09-30"
-    },
-    {
       "title": "不正アクセス行為対策等の実態調査及びアクセス制御機能に関する技術の研究開発の状況等に関する調査の実施について",
       "url": "https://www.npa.go.jp/bureau/cyber/what-we-do/research.html",
       "date": "2026-09-30"
-    },
-    {
-      "title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律に基づく対象特別要人所在施設等の指定について（第80回国民スポーツ大会関係）",
-      "url": "https://www.npa.go.jp/news/release/2026/20260929001.html",
-      "date": "2026-09-29"
     }
   ]
 }

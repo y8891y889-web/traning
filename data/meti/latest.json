@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-30T10:46:21.914418+09:00",
+  "fetched_at": "2026-10-31T10:28:18.139054+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "欧州財務報告諮問グループ（EFRAG）による「非EU企業向け欧州サステナビリティ報告基準（ESRS-40a）公開草案」へのコメントレター発出について",
+      "url": "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/sustainability_ESRS40a.html",
+      "date": "2026-10-30"
+    },
     {
       "title": "「冬季の省エネルギーの取組について」を決定しました",
       "url": "https://www.enecho.meti.go.jp/category/saving_and_new/saving/government/shouene_torikumi_r8winter.html",
@@ -281,11 +286,6 @@
       "title": "変革の時代における競争政策セミナー（第6回）を開催します",
       "url": "https://www.meti.go.jp/policy/kyoso_seisaku/kyoso_seminar06.html",
       "date": "2026-07-02"
-    },
-    {
-      "title": "グローバルサウス補助金公募説明会における個人情報の漏えいに関するお詫びとご報告",
-      "url": "https://www.meti.go.jp/policy/external_economy/cooperation/oda/r7hosei_gshojo_20260629.html",
-      "date": "2026-06-29"
     }
   ]
 }

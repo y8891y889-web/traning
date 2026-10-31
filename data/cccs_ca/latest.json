@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-10-30T10:47:12.230371+09:00",
+  "fetched_at": "2026-10-31T10:29:08.225363+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "Cisco security advisory (AV26-1102) - Update 1",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1102",
-      "date": "2026-10-29"
+      "title": "Linux security advisory (AV26-1108)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/linux-security-advisory-av26-1108",
+      "date": "2026-10-30"
     },
     {
-      "title": "GitLab security advisory (AV26-1028) - Update 1",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-1028",
-      "date": "2026-10-29"
+      "title": "Ivanti security advisory (AV26-1035) - Update 2",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-1035",
+      "date": "2026-10-30"
     },
     {
-      "title": "Mattermost security advisory (AV26-1104)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/mattermost-security-advisory-av26-1104",
-      "date": "2026-10-29"
+      "title": "MongoDB security advisory (AV26-1107)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-1107",
+      "date": "2026-10-30"
     }
   ]
 }
