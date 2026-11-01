@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-10-31T10:29:08.659032+09:00",
+  "fetched_at": "2026-11-01T09:52:28.643448+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
+      "url": "https://isc.sans.edu/diary/rss/33476",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "YARA-X 1.22.1 Release, (Sat, Oct 31st)",
+      "url": "https://isc.sans.edu/diary/rss/33474",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
+      "url": "https://isc.sans.edu/diary/rss/33454",
+      "date": "2026-10-31"
+    },
     {
       "title": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
       "url": "https://isc.sans.edu/diary/rss/33472",
@@ -36,21 +51,6 @@
       "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
       "url": "https://isc.sans.edu/diary/rss/33458",
       "date": "2026-10-27"
-    },
-    {
-      "title": "Looking for a Language &#x5b;Guest Diary&#x5d;, (Wed, Oct 21st)",
-      "url": "https://isc.sans.edu/diary/rss/33442",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)",
-      "url": "https://isc.sans.edu/diary/rss/33456",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
-      "url": "https://isc.sans.edu/diary/rss/33454",
-      "date": "2026-10-25"
     }
   ]
 }

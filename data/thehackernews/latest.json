@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-10-31T10:29:09.450784+09:00",
+  "fetched_at": "2026-11-01T09:52:29.307107+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "date": "2026-10-31"
+    },
     {
       "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
       "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
@@ -230,26 +250,6 @@
     {
       "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
       "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-      "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-      "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
-      "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
       "date": "2026-10-27"
     }
   ]

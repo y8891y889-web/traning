@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-10-31T10:29:31.698883+09:00",
+  "fetched_at": "2026-11-01T09:52:46.469944+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "date": "2026-10-31"
+    },
     {
       "title": "A quiet week in infosec <.<",
       "url": "https://blog.talosintelligence.com/a-quiet-week-in-infosec/",
@@ -70,11 +75,6 @@
     {
       "title": "Making sure the checks get printed",
       "url": "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
-      "date": "2026-10-08"
-    },
-    {
-      "title": "UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing",
-      "url": "https://blog.talosintelligence.com/uat-11985/",
       "date": "2026-10-08"
     }
   ]
