@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-01T09:51:36.079254+09:00",
+  "fetched_at": "2026-11-02T10:24:53.826891+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "2026年製品安全総点検月間（11月1日から）",
+      "url": "https://www.meti.go.jp/product_safety/consumer/soutenken.html",
+      "date": "2026-11-02"
+    },
     {
       "title": "欧州財務報告諮問グループ（EFRAG）による「非EU企業向け欧州サステナビリティ報告基準（ESRS-40a）公開草案」へのコメントレター発出について",
       "url": "https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/sustainability_ESRS40a.html",
@@ -281,11 +286,6 @@
       "title": "2026年度夏季の電力需給の見通し（7月3日公表）",
       "url": "https://www.enecho.meti.go.jp/category/electricity_and_gas/electric/pdf/260703_jyukyu.pdf",
       "date": "2026-07-03"
-    },
-    {
-      "title": "変革の時代における競争政策セミナー（第6回）を開催します",
-      "url": "https://www.meti.go.jp/policy/kyoso_seisaku/kyoso_seminar06.html",
-      "date": "2026-07-02"
     }
   ]
 }

@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-01T09:51:47.360139+09:00",
+  "fetched_at": "2026-11-02T10:25:06.237196+09:00",
   "source_url": "https://www.npa.go.jp/newlyarrived/index.html",
   "entries": [
+    {
+      "title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律に基づく対象特別要人所在施設等の指定について（第45回全国豊かな海づくり大会関係）",
+      "url": "https://www.npa.go.jp/news/release/2026/20261102001.html",
+      "date": "2026-11-02"
+    },
     {
       "title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律に基づく対象特別要人所在施設等の指定について（第81回天皇賜杯・皇后賜杯全日本ソフトテニス選手権大会関係）",
       "url": "https://www.npa.go.jp/news/release/2026/20261030001.html",
@@ -91,16 +96,6 @@
       "title": "令和８年８月末の特殊詐欺の認知・検挙状況等について",
       "url": "https://www.npa.go.jp/publications/statistics/sousa/sagi.html",
       "date": "2026-10-02"
-    },
-    {
-      "title": "交通事故統計情報のオープンデータ（2025年（令和７年））公開",
-      "url": "https://www.npa.go.jp/publications/statistics/koutsuu/opendata/index_opendata.html",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "不正アクセス行為対策等の実態調査及びアクセス制御機能に関する技術の研究開発の状況等に関する調査の実施について",
-      "url": "https://www.npa.go.jp/bureau/cyber/what-we-do/research.html",
-      "date": "2026-09-30"
     }
   ]
 }

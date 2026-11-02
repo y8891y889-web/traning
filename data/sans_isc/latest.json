@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-01T09:52:28.643448+09:00",
+  "fetched_at": "2026-11-02T10:25:46.368360+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "OneNote File Extraction, (Sun, Nov 1st)",
+      "url": "https://isc.sans.edu/diary/rss/33478",
+      "date": "2026-11-01"
+    },
     {
       "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
       "url": "https://isc.sans.edu/diary/rss/33476",
@@ -45,11 +50,6 @@
     {
       "title": "ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)",
       "url": "https://isc.sans.edu/diary/rss/33462",
-      "date": "2026-10-27"
-    },
-    {
-      "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
-      "url": "https://isc.sans.edu/diary/rss/33458",
       "date": "2026-10-27"
     }
   ]
