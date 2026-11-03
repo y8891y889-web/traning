@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-11-02T10:25:45.919807+09:00",
+  "fetched_at": "2026-11-03T12:25:07.754753+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "Linux security advisory (AV26-1108)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/linux-security-advisory-av26-1108",
-      "date": "2026-10-30"
+      "title": "SUSE Linux security advisory (AV26-1113)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-1113",
+      "date": "2026-11-02"
     },
     {
-      "title": "Ivanti security advisory (AV26-1035) - Update 2",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-1035",
-      "date": "2026-10-30"
+      "title": "Barracuda Networks security advisory (AV26-1112)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/barracuda-networks-security-advisory-av26-1112",
+      "date": "2026-11-02"
     },
     {
-      "title": "MongoDB security advisory (AV26-1107)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-1107",
-      "date": "2026-10-30"
+      "title": "Red Hat security advisory (AV26-1111)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-1111",
+      "date": "2026-11-02"
     }
   ]
 }

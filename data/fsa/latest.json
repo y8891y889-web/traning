@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-11-02T10:25:01.159472+09:00",
+  "fetched_at": "2026-11-03T12:24:23.417573+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第３回）の開催について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/singi/20261109.html",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "「デジタル・分散型金融への対応のあり方等に関する研究会」（第２回）議事次第について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/digital_2026/shiryo/20261102.html",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "FATF声明の公表について（2026年10月プレナリー）掲載しました。",
+      "url": "https://www.fsa.go.jp/inter/fatf/20261102/20261102.html",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "IFIAR関係の寄稿記事等を更新しました。",
+      "url": "https://www.fsa.go.jp/ifiar/20161207-1.html#Contributions_and_Lectures",
+      "date": "2026-11-02"
+    },
     {
       "title": "個人情報流出の被害に遭われた方・ご心配のある方向けの相談窓口について掲載しました。",
       "url": "https://www.fsa.go.jp/receipt/soudansitu/index.html#kojinjouhou",
@@ -981,26 +1001,6 @@
       "title": "2026年度「記述情報の開示の好事例に関する勉強会」参加企業の募集について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/singi/20260803.html",
       "date": "2026-08-03"
-    },
-    {
-      "title": "証券監督者国際機構（IOSCO）による世界投資者週間（WIW）2026について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/ios/20260722/20260722.html",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "金融庁のバージョンアップの取組について公表しました。",
-      "url": "https://www.fsa.go.jp/common/about/kaikaku/upgrading.html",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "「預金取扱等金融機関モニタリング・分析レポート」について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260731/20260731.html",
-      "date": "2026-07-31"
-    },
-    {
-      "title": "FSA Analytical Notesー金融庁分析事例集ー（2026.7）vol.2＜主要行等における海外債務者への融資状況の分析＞、＜企業デフォルト率推計モデル構築に向けた分析＞および＜預金動向の実態把握及び預金残高の変動要因に関する定量的分析の試行＞について公表しました。",
-      "url": "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/20260731/20260731.html",
-      "date": "2026-07-31"
     }
   ]
 }

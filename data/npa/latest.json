@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-02T10:25:06.237196+09:00",
+  "fetched_at": "2026-11-03T12:24:27.640940+09:00",
   "source_url": "https://www.npa.go.jp/newlyarrived/index.html",
   "entries": [
+    {
+      "title": "日 米 セキュリティ・法執行機関対話(Japan-U.S. Security and Law Enforcement Dialogue)の開催結果について",
+      "url": "https://www.npa.go.jp/news/release/2026/20261027001.html",
+      "date": "2026-11-02"
+    },
     {
       "title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律に基づく対象特別要人所在施設等の指定について（第45回全国豊かな海づくり大会関係）",
       "url": "https://www.npa.go.jp/news/release/2026/20261102001.html",
@@ -81,21 +86,6 @@
       "title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律に基づく対象特別要人所在施設等の指定について（愛知・名古屋2026アジアパラ競技大会関係）",
       "url": "https://www.npa.go.jp/news/release/2026/20261007001.html",
       "date": "2026-10-07"
-    },
-    {
-      "title": "「レジデンシャルプロキシ対策アライアンス」第1回会合の開催結果の公表について",
-      "url": "https://www.npa.go.jp/bureau/cyber/what-we-do/alliance.html",
-      "date": "2026-10-02"
-    },
-    {
-      "title": "令和８年秋の全国交通安全運動の実施について",
-      "url": "https://www.npa.go.jp/news/release/2026/20261002001akikou.html",
-      "date": "2026-10-02"
-    },
-    {
-      "title": "令和８年８月末の特殊詐欺の認知・検挙状況等について",
-      "url": "https://www.npa.go.jp/publications/statistics/sousa/sagi.html",
-      "date": "2026-10-02"
     }
   ]
 }

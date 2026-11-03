@@ -1,50 +1,45 @@
 {
-  "fetched_at": "2026-11-02T10:24:55.935514+09:00",
-  "source_url": "https://www.mof.go.jp/",
+  "fetched_at": "2026-11-03T12:24:19.233639+09:00",
+  "source_url": "https://www.mof.go.jp/public_relations/whats_new/202611.html",
   "entries": [
     {
-      "title": "一覧を見る",
-      "url": "https://www.mof.go.jp/about_mof/pickup/#anker01",
-      "date": "2024-10-28"
+      "title": "会見等片山財務大臣兼内閣府特命担当大臣繰上げ閣議後記者会見の概要(令和8年11月2日(月曜日))",
+      "url": "https://www.mof.go.jp/public_relations/conference/my20261102.html",
+      "date": "2026-11-02"
     },
     {
-      "title": "特別収益前倒し融資（ERAローン）イニシアティブに関するタームシート（令和6年10月28日）［英文］(PDF:159KB)",
-      "url": "https://www.mof.go.jp/policy/international_policy/convention/g7/g7_20241028.pdf",
-      "date": "2024-10-28"
+      "title": "その他人事異動（令和８年１１月１日-所管法人役員の任命）(PDF:31KB)",
+      "url": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.11.1.pdf",
+      "date": "2026-11-01"
     },
     {
-      "title": "一覧を見る",
-      "url": "https://www.mof.go.jp/about_mof/pickup/#anker03",
-      "date": "2026-10-20"
+      "title": "国債5年クライメート・トランジション利付国債（第6回）の入札結果（令和8年11月2日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261102.htm",
+      "date": "2026-11-02"
     },
     {
-      "title": "国際政策片山大臣とオランダのハイネン財務大臣との面会（令和8年10月20日（火））",
-      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261019211115.html",
-      "date": "2026-10-20"
+      "title": "会見等片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月30日(金曜日))",
+      "url": "https://www.mof.go.jp/public_relations/conference/my20261030.html",
+      "date": "2026-10-30"
     },
     {
-      "title": "国際政策片山大臣と韓国のイ・ヒョンイル副総理兼財政経済部長官との面会（令和8年10月15日（木））",
-      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261013104336.html",
-      "date": "2026-10-15"
+      "title": "国債エネルギー対策特別会計の借入金の入札予定（令和8年11月2日公表）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-offer261102.htm",
+      "date": "2026-11-02"
     },
     {
-      "title": "国際政策片山大臣とタイのエクニティ副首相兼財務大臣との面会（令和8年10月15日（木））",
-      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261014103034.html",
-      "date": "2026-10-15"
+      "title": "国債5年クライメート・トランジション利付国債（第6回）の入札発行（令和8年11月2日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261102.htm",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "国債30年利付国債（11月債）の発行予定額等（令和8年11月2日公表）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261102.htm",
+      "date": "2026-11-02"
     },
     {
       "title": "国債国債金利情報(令和8年10月30日)(CSV:3KB)",
       "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-      "date": "2026-10-30"
-    },
-    {
-      "title": "国際政策外国為替平衡操作の実施状況 （令和8年9月29日～令和8年10月28日）",
-      "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/monthly/20261030.html",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "国際政策片山大臣とバングラデシュ人民共和国のコスル財務・計画大臣との面会（令和8年10月30日（金））",
-      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261029145546.html",
       "date": "2026-10-30"
     }
   ]
