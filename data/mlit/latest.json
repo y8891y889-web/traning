@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-11-04T11:04:07.517780+09:00",
+  "fetched_at": "2026-11-05T11:07:46.480946+09:00",
   "source_url": "https://www.mlit.go.jp/",
   "entries": [
+    {
+      "title": "水・国土",
+      "url": "https://www.mlit.go.jp/mizukokudo/index.html",
+      "date": "2026-11-04"
+    },
     {
       "title": "令和８年秋の叙勲について",
       "url": "https://www.mlit.go.jp/report/press/kanbo03_hh_000428.html",
       "date": "2026-11-03"
-    },
-    {
-      "title": "総合政策",
-      "url": "https://www.mlit.go.jp/sogoseisaku/index.html",
-      "date": "2026-11-02"
     },
     {
       "title": "井林大臣会見要旨",
@@ -76,6 +76,11 @@
       "title": "土地・不動産・建設業",
       "url": "https://www.mlit.go.jp/totikensangyo/index.html",
       "date": "2026-10-28"
+    },
+    {
+      "title": "総合政策",
+      "url": "https://www.mlit.go.jp/sogoseisaku/index.html",
+      "date": "2026-10-29"
     },
     {
       "title": "標準共済システム（第三世代）のプログラム保守等及びセンタ運用支援業務の委託(PDF形式:63KB)",

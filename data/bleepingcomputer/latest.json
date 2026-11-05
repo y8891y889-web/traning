@@ -1,7 +1,62 @@
 {
-  "fetched_at": "2026-11-04T11:04:40.082521+09:00",
+  "fetched_at": "2026-11-05T11:08:15.852581+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "mSecure password manager hack prompts password reset warnings",
+      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "US charges two Canadians accused of hacking US universities",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+      "date": "2026-11-04"
+    },
     {
       "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
@@ -21,61 +76,6 @@
       "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
       "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
       "date": "2026-11-03"
-    },
-    {
-      "title": "Barracuda warns of critical flaws allowing root access to devices",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-      "date": "2026-11-03"
-    },
-    {
-      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-      "date": "2026-11-03"
-    },
-    {
-      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-      "date": "2026-11-03"
-    },
-    {
-      "title": "Police seizes over 100 servers in investment scam crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-      "date": "2026-11-03"
-    },
-    {
-      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-      "date": "2026-11-03"
-    },
-    {
-      "title": "Harvard University data breach exposed info of 851,000 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-      "date": "2026-11-03"
-    },
-    {
-      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
-      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
-      "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "Your Mobile Carrier Stores Your Call Logs for Years",
-      "url": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
-      "date": "2026-11-02"
     }
   ]
 }

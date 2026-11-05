@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-04T11:03:43.735846+09:00",
+  "fetched_at": "2026-11-05T11:07:37.167131+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "令和８年秋の叙勲・褒章受章者について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261104/20261104.html",
+      "date": "2026-11-04"
+    },
     {
       "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第３回）の開催について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/singi/20261109.html",
@@ -995,11 +1000,6 @@
     {
       "title": "「金融商品取引業等に関する内閣府令の一部を改正する内閣府令」の公布及びパブリックコメントの結果等について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/shouken/20260803/20260803.html",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "2026年度「記述情報の開示の好事例に関する勉強会」参加企業の募集について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/singi/20260803.html",
       "date": "2026-08-03"
     }
   ]
