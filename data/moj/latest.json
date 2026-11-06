@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-05T11:07:34.244750+09:00",
+  "fetched_at": "2026-11-06T11:08:26.954880+09:00",
   "source_url": "https://www.moj.go.jp/list_info.html",
   "entries": [
+    {
+      "title": "法務大臣閣議後記者会見の概要－令和８年１１月２日（月）",
+      "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_01189.html",
+      "date": "2026-11-02"
+    },
     {
       "title": "法務大臣閣議後記者会見の概要－令和８年１０月３０日（金）",
       "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_01188.html",
@@ -996,11 +1001,6 @@
       "title": "鈴木法務大臣初登庁後記者会見の概要－令和６年１１月１２日（火）",
       "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_00558.html",
       "date": "2024-11-12"
-    },
-    {
-      "title": "法務大臣閣議後記者会見の概要－令和６年１１月８日（金）",
-      "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_00557.html",
-      "date": "2024-11-08"
     }
   ]
 }

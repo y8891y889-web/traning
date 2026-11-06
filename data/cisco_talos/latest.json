@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-05T11:08:36.889692+09:00",
+  "fetched_at": "2026-11-06T11:09:35.121025+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "Bring a tent, I've got the coffee: Lessons from it-sa",
+      "url": "https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/",
+      "date": "2026-11-05"
+    },
     {
       "title": "Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer",
       "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
@@ -71,11 +76,6 @@
       "title": "Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities",
       "url": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
       "date": "2026-10-13"
-    },
-    {
-      "title": "Making sure the checks get printed",
-      "url": "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
-      "date": "2026-10-08"
     }
   ]
 }

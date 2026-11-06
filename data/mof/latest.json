@@ -1,7 +1,32 @@
 {
-  "fetched_at": "2026-11-05T11:07:33.698557+09:00",
+  "fetched_at": "2026-11-06T11:08:26.352020+09:00",
   "source_url": "https://www.mof.go.jp/public_relations/whats_new/202611.html",
   "entries": [
+    {
+      "title": "国債国債金利情報(令和8年11月5日)(CSV:1KB)",
+      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "その他財政制度分科会（令和8年11月5日開催）資料一覧",
+      "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20261105zaiseia.html",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "国債10年利付国債（第384回）の第II非価格競争入札結果（令和8年11月5日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261105a.htm",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "国債交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年11月5日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261105.htm",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "国債10年利付国債（第384回）の入札結果（令和8年11月5日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261105.htm",
+      "date": "2026-11-05"
+    },
     {
       "title": "国債国有林野事業債務管理特別会計の借入金の入札予定（令和8年11月5日公表）",
       "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/rinya-offer261105.htm",
@@ -16,11 +41,6 @@
       "title": "国債10年利付国債（第384回）の入札発行（令和8年11月5日入札）",
       "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261105.htm",
       "date": "2026-11-05"
-    },
-    {
-      "title": "国債国債金利情報(令和8年11月4日)(CSV:1KB)",
-      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-      "date": "2026-11-04"
     },
     {
       "title": "その他財政制度分科会（令和8年11月4日開催）資料一覧",

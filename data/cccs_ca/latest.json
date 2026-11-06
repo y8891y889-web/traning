@@ -1,20 +1,20 @@
 {
-  "fetched_at": "2026-11-05T11:08:13.281541+09:00",
+  "fetched_at": "2026-11-06T11:09:16.963795+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
+      "title": "OpenBSD security advisory (AV26-1130)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/openbsd-security-advisory-av26-1130",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "Rubyonrails security advisory (AV26-1129)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/rubyonrails-security-advisory-av26-1129",
+      "date": "2026-11-05"
+    },
+    {
       "title": "Android security advisory – November 2026 monthly rollup (AV26-1128)",
       "url": "https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2026-monthly-rollup-av26-1128",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Cisco security advisory (AV26-1127)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1127",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "GitHub security advisory (AV26-1126)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av26-1126",
       "date": "2026-11-04"
     }
   ]

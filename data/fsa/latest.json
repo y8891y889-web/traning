@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-11-05T11:07:37.167131+09:00",
+  "fetched_at": "2026-11-06T11:08:30.673490+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月27日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261027-1.html",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣ぶら下がり記者会見の概要（令和８年10月15日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261015-1.html",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第２回）議事録について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijiroku/20261009.html",
+      "date": "2026-11-05"
+    },
     {
       "title": "令和８年秋の叙勲・褒章受章者について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20261104/20261104.html",
@@ -50,6 +65,11 @@
     {
       "title": "欧州財務報告諮問グループ（EFRAG）による「非EU企業向け欧州サステナビリティ報告基準（ESRS-40a）公開草案」へのコメントレター発出について公表しました。",
       "url": "https://www.fsa.go.jp/inter/etc/20261030-3/20261030-3.html",
+      "date": "2026-10-30"
+    },
+    {
+      "title": "金融庁及びClimate Data Steering CommitteeによるClimate Data Utilityに関するデータ連携の開始について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/etc/20261030.html",
       "date": "2026-10-30"
     },
     {
@@ -608,11 +628,6 @@
       "date": "2026-09-18"
     },
     {
-      "title": "期間業務職員（金融サービス相談員）を募集しています。",
-      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-07/ginnsyou-07.html",
-      "date": "2026-09-18"
-    },
-    {
       "title": "片山財務大臣兼内閣府特命担当大臣ぶら下がり記者会見の概要（令和８年8月31日）について掲載しました。",
       "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260831-1.html",
       "date": "2026-09-18"
@@ -986,21 +1001,6 @@
       "title": "「決済に関する規制の見直し」に係る規制の政策評価（RIA）について公表しました。",
       "url": "https://www.fsa.go.jp/seisaku/r8ria.html",
       "date": "2026-08-04"
-    },
-    {
-      "title": "G7サイバー・エキスパート・グループによる再接続枠組みのベストプラクティスに関する技術的付属文書について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/etc/20260804/reconnection.html",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in大阪」の開催について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20260804/20260804.html",
-      "date": "2026-08-04"
-    },
-    {
-      "title": "「金融商品取引業等に関する内閣府令の一部を改正する内閣府令」の公布及びパブリックコメントの結果等について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/shouken/20260803/20260803.html",
-      "date": "2026-08-03"
     }
   ]
 }

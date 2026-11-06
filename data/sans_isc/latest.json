@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-11-05T11:08:13.701448+09:00",
+  "fetched_at": "2026-11-06T11:09:17.495744+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
+      "url": "https://isc.sans.edu/diary/rss/33494",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
+      "url": "https://isc.sans.edu/diary/rss/33492",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
+      "url": "https://isc.sans.edu/diary/rss/33490",
+      "date": "2026-11-05"
+    },
     {
       "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
       "url": "https://isc.sans.edu/diary/rss/33488",
@@ -36,21 +51,6 @@
       "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
       "url": "https://isc.sans.edu/diary/rss/33476",
       "date": "2026-10-31"
-    },
-    {
-      "title": "YARA-X 1.22.1 Release, (Sat, Oct 31st)",
-      "url": "https://isc.sans.edu/diary/rss/33474",
-      "date": "2026-10-31"
-    },
-    {
-      "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
-      "url": "https://isc.sans.edu/diary/rss/33454",
-      "date": "2026-10-31"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
-      "url": "https://isc.sans.edu/diary/rss/33472",
-      "date": "2026-10-30"
     }
   ]
 }
