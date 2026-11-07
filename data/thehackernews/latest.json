@@ -1,7 +1,52 @@
 {
-  "fetched_at": "2026-11-06T11:09:18.133254+09:00",
+  "fetched_at": "2026-11-07T10:45:02.069168+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+      "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+      "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "The Flood is Coming And The Pipes Were Already Full",
+      "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+      "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+      "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+      "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+      "date": "2026-11-06"
+    },
     {
       "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
       "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
@@ -206,51 +251,6 @@
       "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
       "url": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
       "date": "2026-11-02"
-    },
-    {
-      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-      "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-      "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "date": "2026-11-01"
-    },
-    {
-      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-      "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-      "date": "2026-11-01"
-    },
-    {
-      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "date": "2026-11-01"
-    },
-    {
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-      "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-      "date": "2026-11-01"
-    },
-    {
-      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-      "date": "2026-10-31"
-    },
-    {
-      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-      "date": "2026-10-31"
-    },
-    {
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-      "date": "2026-10-31"
     }
   ]
 }

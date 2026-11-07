@@ -111,3 +111,6 @@
 {"title": "GitHub security advisory (AV26-1126)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av26-1126", "date": "2026-11-04", "found_at": "2026-11-05T11:08:13.281917+09:00"}
 {"title": "OpenBSD security advisory (AV26-1130)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/openbsd-security-advisory-av26-1130", "date": "2026-11-05", "found_at": "2026-11-06T11:09:16.964187+09:00"}
 {"title": "Rubyonrails security advisory (AV26-1129)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/rubyonrails-security-advisory-av26-1129", "date": "2026-11-05", "found_at": "2026-11-06T11:09:16.964187+09:00"}
+{"title": "SonicWall security advisory (AV26-1133)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-1133", "date": "2026-11-06", "found_at": "2026-11-07T10:45:01.116261+09:00"}
+{"title": "JetBrains security advisory (AV26-1132)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1132", "date": "2026-11-06", "found_at": "2026-11-07T10:45:01.116261+09:00"}
+{"title": "Mozilla security advisory (AV26-1131)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-1131", "date": "2026-11-06", "found_at": "2026-11-07T10:45:01.116261+09:00"}

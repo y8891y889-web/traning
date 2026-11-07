@@ -1,7 +1,57 @@
 {
-  "fetched_at": "2026-11-06T11:09:19.084004+09:00",
+  "fetched_at": "2026-11-07T10:45:02.643924+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+      "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Chainalysis says breach exposed credentials for all customers",
+      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+      "date": "2026-11-06"
+    },
     {
       "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
@@ -26,56 +76,6 @@
       "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
       "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
       "date": "2026-11-05"
-    },
-    {
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "Closing the Identity Gap at the Service Desk",
-      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "mSecure password manager hack prompts password reset warnings",
-      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "date": "2026-11-04"
     }
   ]
 }
