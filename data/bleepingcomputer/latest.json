@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-11-07T10:45:02.643924+09:00",
+  "fetched_at": "2026-11-08T10:14:21.229444+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+      "date": "2026-11-07"
+    },
     {
       "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
@@ -65,16 +75,6 @@
     {
       "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
       "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
-      "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
       "date": "2026-11-05"
     }
   ]

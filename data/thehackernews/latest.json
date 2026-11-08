@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-07T10:45:02.069168+09:00",
+  "fetched_at": "2026-11-08T10:14:20.499316+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "date": "2026-11-07"
+    },
     {
       "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
       "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
@@ -245,11 +250,6 @@
     {
       "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
       "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
-      "url": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
       "date": "2026-11-02"
     }
   ]
