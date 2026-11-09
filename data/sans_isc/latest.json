@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-08T10:14:19.693247+09:00",
+  "fetched_at": "2026-11-09T10:34:23.827407+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)",
+      "url": "https://isc.sans.edu/diary/rss/33498",
+      "date": "2026-11-08"
+    },
     {
       "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
       "url": "https://isc.sans.edu/diary/rss/33494",
@@ -46,11 +51,6 @@
       "title": "OneNote File Extraction, (Sun, Nov 1st)",
       "url": "https://isc.sans.edu/diary/rss/33478",
       "date": "2026-11-01"
-    },
-    {
-      "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
-      "url": "https://isc.sans.edu/diary/rss/33476",
-      "date": "2026-10-31"
     }
   ]
 }

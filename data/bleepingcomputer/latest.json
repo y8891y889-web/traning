@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-08T10:14:21.229444+09:00",
+  "fetched_at": "2026-11-09T10:34:25.972995+09:00",
   "source_url": "https://www.bleepingcomputer.com/feed/",
   "entries": [
+    {
+      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+      "date": "2026-11-08"
+    },
     {
       "title": "Hackers pull off $133 million French bank heist via service provider",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
@@ -70,11 +75,6 @@
     {
       "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
       "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-      "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
       "date": "2026-11-05"
     }
   ]
