@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-11-09T10:34:23.827407+09:00",
+  "fetched_at": "2026-11-10T13:00:57.969648+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "ISC Stormcast For Tuesday, November 10th, 2026 https://isc.sans.edu/podcastdetail/10172, (Tue, Nov 10th)",
+      "url": "https://isc.sans.edu/diary/rss/33504",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)",
+      "url": "https://isc.sans.edu/diary/rss/33502",
+      "date": "2026-11-09"
+    },
+    {
+      "title": "ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, (Mon, Nov 9th)",
+      "url": "https://isc.sans.edu/diary/rss/33500",
+      "date": "2026-11-09"
+    },
     {
       "title": "Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)",
       "url": "https://isc.sans.edu/diary/rss/33498",
@@ -36,21 +51,6 @@
       "title": "ISC Stormcast For Tuesday, November 3rd, 2026 https://isc.sans.edu/podcastdetail/10162, (Tue, Nov 3rd)",
       "url": "https://isc.sans.edu/diary/rss/33484",
       "date": "2026-11-03"
-    },
-    {
-      "title": "Mutipath TCP: Use and Detection, (Mon, Nov 2nd)",
-      "url": "https://isc.sans.edu/diary/rss/33482",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)",
-      "url": "https://isc.sans.edu/diary/rss/33480",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "OneNote File Extraction, (Sun, Nov 1st)",
-      "url": "https://isc.sans.edu/diary/rss/33478",
-      "date": "2026-11-01"
     }
   ]
 }

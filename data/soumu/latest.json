@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-09T10:33:45.128570+09:00",
+  "fetched_at": "2026-11-10T13:00:17.134958+09:00",
   "source_url": "https://www.soumu.go.jp/toukei/snews_back.html",
   "entries": [
+    {
+      "title": "家計調査報告（家計収支編）2026年（令和8年）9月分及び7〜9月期平均",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei07_01000296.html",
+      "date": "2026-11-10"
+    },
     {
       "title": "2025年基準 消費者物価指数 東京都区部 2026年(令和8年)10月分(中旬速報値)",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000356.html",
@@ -495,11 +500,6 @@
     {
       "title": "小売物価統計調査規則の一部を改正する省令案に関する意見募集の結果",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000328.html",
-      "date": "2025-11-07"
-    },
-    {
-      "title": "家計調査報告（家計収支編）2025年（令和7年）9月分及び7〜9月期平均",
-      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei07_01000277.html",
       "date": "2025-11-07"
     }
   ]
