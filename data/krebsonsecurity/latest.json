@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-10T13:00:58.367377+09:00",
+  "fetched_at": "2026-11-11T10:48:24.209020+09:00",
   "source_url": "https://krebsonsecurity.com/feed/",
   "entries": [
+    {
+      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+      "date": "2026-11-10"
+    },
     {
       "title": "Want to Rent an Internet Address at the White House?",
       "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
@@ -46,11 +51,6 @@
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
       "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
       "date": "2026-09-28"
-    },
-    {
-      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-      "date": "2026-09-25"
     }
   ]
 }

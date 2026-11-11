@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-10T13:01:17.009563+09:00",
+  "fetched_at": "2026-11-11T10:48:44.862231+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities",
+      "url": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/",
+      "date": "2026-11-11"
+    },
     {
       "title": "Bring a tent, I've got the coffee: Lessons from it-sa",
       "url": "https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/",
@@ -71,11 +76,6 @@
       "title": "Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations",
       "url": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/",
       "date": "2026-10-14"
-    },
-    {
-      "title": "Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities",
-      "url": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
-      "date": "2026-10-13"
     }
   ]
 }

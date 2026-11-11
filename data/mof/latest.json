@@ -1,7 +1,32 @@
 {
-  "fetched_at": "2026-11-10T13:00:13.850026+09:00",
+  "fetched_at": "2026-11-11T10:47:38.101451+09:00",
   "source_url": "https://www.mof.go.jp/public_relations/whats_new/202611.html",
   "entries": [
+    {
+      "title": "国債20年利付国債（11月債）の発行予定額等（令和8年11月11日公表）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261111.htm",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "国債国債金利情報(令和8年11月10日)(CSV:1KB)",
+      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "国際政策片山大臣とベトナムのゴー・ヴァン・トゥアン財政大臣との面会（令和8年11月10日（火））",
+      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261110114158.html",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "会見等片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月10日(火曜日))",
+      "url": "https://www.mof.go.jp/public_relations/conference/my20261110.html",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "国債30年利付国債（第92回）の第II非価格競争入札結果（令和8年11月10日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261110a.htm",
+      "date": "2026-11-10"
+    },
     {
       "title": "国債エネルギー対策特別会計の借入金の入札結果（令和8年11月10日入札）",
       "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-result261110.htm",
@@ -21,11 +46,6 @@
       "title": "国債30年利付国債（第92回）の入札発行（令和8年11月10日入札）",
       "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261110.htm",
       "date": "2026-11-10"
-    },
-    {
-      "title": "国債国債金利情報(令和8年11月9日)(CSV:1KB)",
-      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-      "date": "2026-11-09"
     },
     {
       "title": "国債10年物価連動国債（11月債）の発行予定額等（令和8年11月9日公表）",

@@ -1,7 +1,32 @@
 {
-  "fetched_at": "2026-11-10T13:00:17.489182+09:00",
+  "fetched_at": "2026-11-11T10:47:42.343438+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "無登録で金融商品取引業を行う者の名称等について更新しました。",
+      "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣繰上げ閣議後記者会見の概要（令和８年11月2日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261102-1.html",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月30日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261030-1.html",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "「無登録業者との取引は要注意！！～　無登録業者との取引は高リスク　～」のページを更新しました。",
+      "url": "https://www.fsa.go.jp/ordinary/chuui/highrisk.html",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "職員を募集しています。（保険会社等のモニタリング業務等に従事する職員【弁護士】）",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/shiho-05/shiho-05.html",
+      "date": "2026-11-10"
+    },
     {
       "title": "「経済価値ベースのソルベンシー規制に関する告示の一部改正（案）」について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/hoken/20261109/20261109.html",
@@ -250,11 +275,6 @@
     {
       "title": "金融審議会「保険制度ワーキング・グループ」（第２回）の開催について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/singi/20261023.html",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "無登録で金融商品取引業を行う者の名称等について更新しました。",
-      "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html",
       "date": "2026-10-23"
     },
     {
@@ -981,26 +1001,6 @@
       "title": "「資産運用サービスの高度化に向けたプログレスレポート2026」について参考資料を追加公表しました。",
       "url": "https://www.fsa.go.jp/policy/pjlamc/20260724/20260724.html",
       "date": "2026-08-06"
-    },
-    {
-      "title": "暗号資産を用いた詐欺被害等防止に向けた対策の一層の強化について掲載しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20260806/20260806.html",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "「2026年 保険モニタリングレポート」について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/hoken/20260806/20260806.html",
-      "date": "2026-08-06"
-    },
-    {
-      "title": "G7サイバー・エキスパート・グループによる2026年クロスボーダー協調演習実施について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/etc/20260805/cbce.html",
-      "date": "2026-08-05"
-    },
-    {
-      "title": "「サステナブルファイナンス有識者会議（第30回）意見要旨」について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/singi/20260805.html",
-      "date": "2026-08-05"
     }
   ]
 }

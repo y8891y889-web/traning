@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-10T13:00:32.260712+09:00",
+  "fetched_at": "2026-11-11T10:47:58.782157+09:00",
   "source_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
   "entries": [
+    {
+      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+      "date": "2026-11-10"
+    },
     {
       "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
@@ -43,13 +48,13 @@
       "date": "2026-10-30"
     },
     {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "title": "Hitachi Energy TRO600 series products",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
       "date": "2026-10-29"
     },
     {
-      "title": "Hitachi Energy TRO600 series products",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-10-29"
     },
     {
@@ -98,18 +103,13 @@
       "date": "2026-10-23"
     },
     {
-      "title": "InterSystems Corporation InterSystems IRIS for Health",
-      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-295-01",
-      "date": "2026-10-22"
-    },
-    {
       "title": "Siemens Capital Embedded AR Classic",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04",
       "date": "2026-10-22"
     },
     {
-      "title": "Siemens SIMATIC S7-1500 TM MFP",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
+      "title": "Siemens SENTRON 3NA COM Fuse",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
       "date": "2026-10-22"
     },
     {
@@ -128,13 +128,13 @@
       "date": "2026-10-22"
     },
     {
-      "title": "Siemens RUGGEDCOM APE1808 Devices",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
+      "title": "Siemens SIMATIC S7-1500 TM MFP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
       "date": "2026-10-22"
     },
     {
-      "title": "Siemens Software Center",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03",
+      "title": "Siemens RUGGEDCOM APE1808 Devices",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
       "date": "2026-10-22"
     },
     {
@@ -143,13 +143,13 @@
       "date": "2026-10-22"
     },
     {
-      "title": "Siemens RUGGEDCOM CROSSBOW Station Access Controller",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
+      "title": "Siemens Software Center",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03",
       "date": "2026-10-22"
     },
     {
-      "title": "Siemens SIMATIC S7 PLCs Web Server",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
+      "title": "Siemens RUGGEDCOM CROSSBOW Station Access Controller",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
       "date": "2026-10-22"
     }
   ]
