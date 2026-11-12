@@ -1,16 +1,11 @@
 {
-  "fetched_at": "2026-11-11T10:47:55.317362+09:00",
+  "fetched_at": "2026-11-12T11:47:06.296871+09:00",
   "source_url": "https://www.mlit.go.jp/",
   "entries": [
     {
-      "title": "技術調査",
-      "url": "https://www.mlit.go.jp/tec/index.html",
-      "date": "2026-11-11"
-    },
-    {
       "title": "総合政策",
       "url": "https://www.mlit.go.jp/sogoseisaku/index.html",
-      "date": "2026-11-10"
+      "date": "2026-11-11"
     },
     {
       "title": "井林大臣会見要旨",
@@ -61,6 +56,11 @@
       "title": "井林大臣会見要旨",
       "url": "https://www.mlit.go.jp/report/interview/daijin261009.html",
       "date": "2026-10-09"
+    },
+    {
+      "title": "住宅・建築",
+      "url": "https://www.mlit.go.jp/jutakukentiku/index.html",
+      "date": "2026-11-11"
     },
     {
       "title": "鉄道",

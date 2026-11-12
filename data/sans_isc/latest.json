@@ -1,11 +1,21 @@
 {
-  "fetched_at": "2026-11-11T10:48:23.262905+09:00",
+  "fetched_at": "2026-11-12T11:47:33.975734+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
     {
-      "title": "Microsoft Patch Tuesday November 2027 , (Tue, Nov 10th)",
+      "title": "ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)",
+      "url": "https://isc.sans.edu/diary/rss/33512",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)",
       "url": "https://isc.sans.edu/diary/rss/33508",
-      "date": "2026-11-10"
+      "date": "2026-11-11"
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)",
+      "url": "https://isc.sans.edu/diary/rss/33510",
+      "date": "2026-11-11"
     },
     {
       "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
@@ -41,16 +51,6 @@
       "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
       "url": "https://isc.sans.edu/diary/rss/33492",
       "date": "2026-11-05"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
-      "url": "https://isc.sans.edu/diary/rss/33490",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
-      "url": "https://isc.sans.edu/diary/rss/33488",
-      "date": "2026-11-04"
     }
   ]
 }

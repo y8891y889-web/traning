@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-11T10:47:58.932899+09:00",
+  "fetched_at": "2026-11-12T11:47:08.872558+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
+    {
+      "title": "NCSC scheme will help critical organisations test their cyber defences",
+      "url": "https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences",
+      "date": "2026-11-11"
+    },
     {
       "title": "Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years",
       "url": "https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years",
@@ -96,11 +101,6 @@
       "title": "Managing the cyber risk of agentic AI",
       "url": "https://www.ncsc.gov.uk/blogs/managing-the-cyber-risk-of-agentic-ai",
       "date": "2026-08-20"
-    },
-    {
-      "title": "How BitLocker PINs help protect your data and devices",
-      "url": "https://www.ncsc.gov.uk/blogs/how-bitlocker-pins-help-protect-your-data-and-devices",
-      "date": "2026-08-13"
     }
   ]
 }
