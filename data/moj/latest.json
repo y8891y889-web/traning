@@ -1,11 +1,16 @@
 {
-  "fetched_at": "2026-11-12T11:46:54.182971+09:00",
+  "fetched_at": "2026-11-13T11:29:46.784948+09:00",
   "source_url": "https://www.moj.go.jp/list_info.html",
   "entries": [
     {
       "title": "拉致問題を考えるつどいを開催します（令和８年１２月１３日）",
       "url": "https://www.moj.go.jp/JINKEN/jinken02_00082.html",
       "date": "2026-12-13"
+    },
+    {
+      "title": "法務大臣閣議後記者会見の概要－令和８年１１月１０日（火）",
+      "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_01191.html",
+      "date": "2026-11-10"
     },
     {
       "title": "法務大臣閣議後記者会見の概要－令和８年１１月６日（金）",
@@ -996,11 +1001,6 @@
       "title": "法務大臣閣議後記者会見の概要－令和６年１１月１９日（火）",
       "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_00561.html",
       "date": "2024-11-19"
-    },
-    {
-      "title": "法務大臣閣議後記者会見の概要－令和６年１１月１５日（金）",
-      "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_00559.html",
-      "date": "2024-11-15"
     }
   ]
 }

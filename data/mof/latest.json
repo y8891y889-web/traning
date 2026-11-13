@@ -1,7 +1,32 @@
 {
-  "fetched_at": "2026-11-12T11:46:53.540070+09:00",
+  "fetched_at": "2026-11-13T11:29:45.917680+09:00",
   "source_url": "https://www.mof.go.jp/public_relations/whats_new/202611.html",
   "entries": [
+    {
+      "title": "国債国債金利情報(令和8年11月12日)(CSV:2KB)",
+      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "国債5年利付国債（第189回）の第II非価格競争入札結果（令和8年11月12日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261112a.htm",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "国債国有林野事業債務管理特別会計の借入金の入札結果（令和8年11月12日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/rinya-result261112.htm",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "国債5年利付国債（第189回）の入札結果（令和8年11月12日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261112.htm",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "関税制度関税・外国為替等審議会 関税分科会 特殊関税部会(令和8年10月19日)議事録",
+      "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_tokusyu/proceedings/kanb20261019.html",
+      "date": "2026-10-19"
+    },
     {
       "title": "関税制度関税・外国為替等審議会　関税分科会（令和8年10月6日開催）議事録",
       "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_customs/proceedings/kana20261006.html",
@@ -31,11 +56,6 @@
       "title": "財政投融資財政投融資分科会（令和8年10月19日開催）議事要旨",
       "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20261019.html",
       "date": "2026-10-19"
-    },
-    {
-      "title": "国債国債金利情報(令和8年11月11日)(CSV:1KB)",
-      "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-      "date": "2026-11-11"
     },
     {
       "title": "国債20年利付国債（11月債）の発行予定額等（令和8年11月11日公表）",

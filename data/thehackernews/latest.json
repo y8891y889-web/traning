@@ -1,7 +1,87 @@
 {
-  "fetched_at": "2026-11-12T11:47:34.829081+09:00",
+  "fetched_at": "2026-11-13T11:30:31.324429+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+      "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+      "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+      "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+      "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+      "url": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "url": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+      "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+      "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "date": "2026-11-12"
+    },
     {
       "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
       "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
@@ -171,86 +251,6 @@
       "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
       "url": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
       "date": "2026-11-09"
-    },
-    {
-      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-      "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
-      "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
-      "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-      "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-      "date": "2026-11-07"
-    },
-    {
-      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-      "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-      "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-      "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "The Flood is Coming And The Pipes Were Already Full",
-      "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-      "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-      "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
-      "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-      "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-      "date": "2026-11-05"
-    },
-    {
-      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-      "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-      "date": "2026-11-05"
     }
   ]
 }

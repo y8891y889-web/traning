@@ -1,7 +1,32 @@
 {
-  "fetched_at": "2026-11-12T11:47:08.758899+09:00",
+  "fetched_at": "2026-11-13T11:30:05.543151+09:00",
   "source_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
   "entries": [
+    {
+      "title": "Siemens Desigo, Gridscale",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Siemens RUGGEDCOM APE1808",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Siemens RUGGEDCOM APE1808",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Siemens Building Automation and Energy Products",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Siemens Industrial Edge Management",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
+      "date": "2026-11-12"
+    },
     {
       "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
@@ -58,13 +83,13 @@
       "date": "2026-10-29"
     },
     {
-      "title": "Siemens Mendix SAML Module",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
+      "title": "Hitachi Energy CoreTec Product",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
       "date": "2026-10-29"
     },
     {
-      "title": "Hitachi Energy CoreTec Product",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
+      "title": "Siemens Mendix SAML Module",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
       "date": "2026-10-29"
     },
     {
@@ -73,13 +98,13 @@
       "date": "2026-10-28"
     },
     {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
       "date": "2026-10-27"
     },
     {
-      "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-10-27"
     },
     {
@@ -103,23 +128,8 @@
       "date": "2026-10-23"
     },
     {
-      "title": "Siemens Capital Embedded AR Classic",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Siemens SENTRON 3NA COM Fuse",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Siemens Industrial Edge Device Kit",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Siemens WinCC",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
+      "title": "Siemens SIMATIC S7-1500 TM MFP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
       "date": "2026-10-22"
     },
     {
@@ -128,28 +138,18 @@
       "date": "2026-10-22"
     },
     {
-      "title": "Siemens SIMATIC S7-1500 TM MFP",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
+      "title": "Siemens SIMATIC S7 PLCs Web Server",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
       "date": "2026-10-22"
     },
     {
-      "title": "Siemens RUGGEDCOM APE1808 Devices",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
+      "title": "Siemens Industrial Edge Device Kit",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
       "date": "2026-10-22"
     },
     {
-      "title": "Siemens RUGGEDCOM CROSSBOW",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Siemens Software Center",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Siemens RUGGEDCOM CROSSBOW Station Access Controller",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
+      "title": "Siemens Capital Embedded AR Classic",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04",
       "date": "2026-10-22"
     }
   ]

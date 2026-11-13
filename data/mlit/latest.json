@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-12T11:47:06.296871+09:00",
+  "fetched_at": "2026-11-13T11:30:01.070426+09:00",
   "source_url": "https://www.mlit.go.jp/",
   "entries": [
+    {
+      "title": "都市",
+      "url": "https://www.mlit.go.jp/toshi/index.html",
+      "date": "2026-11-12"
+    },
     {
       "title": "総合政策",
       "url": "https://www.mlit.go.jp/sogoseisaku/index.html",
@@ -58,6 +63,11 @@
       "date": "2026-10-09"
     },
     {
+      "title": "港湾",
+      "url": "https://www.mlit.go.jp/kowan/index.html",
+      "date": "2026-11-12"
+    },
+    {
       "title": "住宅・建築",
       "url": "https://www.mlit.go.jp/jutakukentiku/index.html",
       "date": "2026-11-11"
@@ -81,6 +91,11 @@
       "title": "土地・不動産・建設業",
       "url": "https://www.mlit.go.jp/totikensangyo/index.html",
       "date": "2026-10-26"
+    },
+    {
+      "title": "看護師（産休代替任期付職員）の募集について(PDF形式:102KB)",
+      "url": "https://www.mlit.go.jp/content/002046038.pdf",
+      "date": "2026-11-12"
     },
     {
       "title": "標準共済システム（第三世代）のプログラム保守等及びセンタ運用支援業務の委託(PDF形式:63KB)",

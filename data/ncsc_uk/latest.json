@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T11:47:08.872558+09:00",
+  "fetched_at": "2026-11-13T11:30:05.704749+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
     {
@@ -8,13 +8,13 @@
       "date": "2026-11-11"
     },
     {
-      "title": "Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years",
-      "url": "https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years",
+      "title": "Artificial intelligence and cyber intrusion",
+      "url": "https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion",
       "date": "2026-11-03"
     },
     {
-      "title": "Artificial intelligence and cyber intrusion",
-      "url": "https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion",
+      "title": "Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years",
+      "url": "https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years",
       "date": "2026-11-03"
     },
     {

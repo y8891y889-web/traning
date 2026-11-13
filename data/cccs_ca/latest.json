@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-11-12T11:47:33.633290+09:00",
+  "fetched_at": "2026-11-13T11:30:28.749471+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "OpenBSD security advisory (AV26-1130) - Update 1",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/openbsd-security-advisory-av26-1130",
-      "date": "2026-11-09"
+      "title": "Microsoft security advisory – November 2026 monthly rollup (AV26-1142) – Update 1",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-november-2026-monthly-rollup-av26-1142",
+      "date": "2026-11-12"
     },
     {
-      "title": "Barracuda Networks security advisory (AV26-1112) – Update 1",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/barracuda-networks-security-advisory-av26-1112",
-      "date": "2026-11-09"
+      "title": "Google security advisory (AV26-1157)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1157",
+      "date": "2026-11-12"
     },
     {
-      "title": "Red Hat security advisory (AV26-1136)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-1136",
-      "date": "2026-11-09"
+      "title": "Nodejs security advisory (AV26-1156)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/nodejs-security-advisory-av26-1156",
+      "date": "2026-11-12"
     }
   ]
 }

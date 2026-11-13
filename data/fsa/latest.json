@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-12T11:46:56.999955+09:00",
+  "fetched_at": "2026-11-13T11:29:49.886884+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "バーゼル銀行監督委員会による「統合されたガイドライン及びサウンド・プラクティス」の最終化及び市中協議文書「技術的改訂―統合されたガイドライン及びサウンド・プラクティス」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/bis/20261112/20261112.html",
+      "date": "2026-11-12"
+    },
     {
       "title": "金融審議会「ディスクロージャーワーキング・グループ」（第７回）の開催について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/singi/20261118.html",
@@ -996,11 +1001,6 @@
       "title": "職員を募集しています。（金融モニタリング業務に従事する職員【弁護士または行政書士】）",
       "url": "https://www.fsa.go.jp/common/recruit/r7/soumo-13/soumo-13.html",
       "date": "2026-08-07"
-    },
-    {
-      "title": "「貸金業法施行規則の一部を改正する内閣府令」の公布について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/kashikin/20260806/20260806.html",
-      "date": "2026-08-06"
     }
   ]
 }

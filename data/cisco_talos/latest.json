@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-12T11:47:52.444283+09:00",
+  "fetched_at": "2026-11-13T11:30:48.699942+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "Never be afraid to ask questions",
+      "url": "https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/",
+      "date": "2026-11-12"
+    },
     {
       "title": "Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities",
       "url": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/",
@@ -71,11 +76,6 @@
       "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
       "url": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
       "date": "2026-10-15"
-    },
-    {
-      "title": "Break the silence: Kazakhstan-nexus UAT-6275 targets CIS government organizations",
-      "url": "https://blog.talosintelligence.com/break-the-silence-kazakhstan-nexus-uat-6275-targets-cis-government-organizations/",
-      "date": "2026-10-14"
     }
   ]
 }
