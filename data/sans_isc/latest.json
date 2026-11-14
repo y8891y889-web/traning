@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-13T11:30:30.001816+09:00",
+  "fetched_at": "2026-11-14T11:09:34.730766+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)",
+      "url": "https://isc.sans.edu/diary/rss/33518",
+      "date": "2026-11-13"
+    },
     {
       "title": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
       "url": "https://isc.sans.edu/diary/rss/33516",
@@ -46,11 +51,6 @@
       "title": "ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, (Mon, Nov 9th)",
       "url": "https://isc.sans.edu/diary/rss/33500",
       "date": "2026-11-09"
-    },
-    {
-      "title": "Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)",
-      "url": "https://isc.sans.edu/diary/rss/33498",
-      "date": "2026-11-08"
     }
   ]
 }

@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-13T11:30:48.699942+09:00",
+  "fetched_at": "2026-11-14T11:10:01.433634+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "ARTEX and beyond: AI-enabled penetration testing platforms",
+      "url": "https://blog.talosintelligence.com/artex-and-beyond/",
+      "date": "2026-11-13"
+    },
     {
       "title": "Never be afraid to ask questions",
       "url": "https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/",
@@ -71,11 +76,6 @@
       "title": "There's only so much code: the rise in vulnerability numbers",
       "url": "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/",
       "date": "2026-10-20"
-    },
-    {
-      "title": "The Q3 Vulnerability Pulse: Discovery ≠ Exploitation",
-      "url": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
-      "date": "2026-10-15"
     }
   ]
 }

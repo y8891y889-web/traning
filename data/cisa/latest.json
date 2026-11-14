@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-13T11:30:05.543151+09:00",
+  "fetched_at": "2026-11-14T11:09:09.664761+09:00",
   "source_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
   "entries": [
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "date": "2026-11-13"
+    },
     {
       "title": "Siemens Desigo, Gridscale",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
@@ -43,13 +48,13 @@
       "date": "2026-11-06"
     },
     {
-      "title": "Post-Quantum Questions to Ask Your Vendors",
-      "url": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
+      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+      "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
       "date": "2026-11-05"
     },
     {
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+      "title": "Post-Quantum Questions to Ask Your Vendors",
+      "url": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
       "date": "2026-11-05"
     },
     {
@@ -78,13 +83,13 @@
       "date": "2026-10-29"
     },
     {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "title": "Hitachi Energy CoreTec Product",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
       "date": "2026-10-29"
     },
     {
-      "title": "Hitachi Energy CoreTec Product",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "date": "2026-10-29"
     },
     {
@@ -119,18 +124,13 @@
     },
     {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
       "date": "2026-10-23"
     },
     {
-      "title": "Siemens SIMATIC S7-1500 TM MFP",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
-      "date": "2026-10-22"
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
+      "date": "2026-10-23"
     },
     {
       "title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP",
@@ -138,13 +138,13 @@
       "date": "2026-10-22"
     },
     {
-      "title": "Siemens SIMATIC S7 PLCs Web Server",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
+      "title": "Siemens SIMATIC S7-1500 TM MFP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
       "date": "2026-10-22"
     },
     {
-      "title": "Siemens Industrial Edge Device Kit",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
+      "title": "Siemens SIMATIC S7 PLCs Web Server",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
       "date": "2026-10-22"
     },
     {
