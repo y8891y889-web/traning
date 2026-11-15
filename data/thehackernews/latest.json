@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-14T11:09:35.988321+09:00",
+  "fetched_at": "2026-11-15T10:40:47.047737+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "date": "2026-11-14"
+    },
     {
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
       "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
@@ -245,11 +250,6 @@
     {
       "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
       "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-      "date": "2026-11-10"
-    },
-    {
-      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
       "date": "2026-11-10"
     }
   ]
