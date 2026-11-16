@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-15T10:39:57.077551+09:00",
+  "fetched_at": "2026-11-16T10:43:13.182042+09:00",
   "source_url": "https://www.cao.go.jp/press/houdou.html",
   "entries": [
+    {
+      "title": "四半期別ＧＤＰ速報（2026年7-9月期・1次速報）",
+      "url": "https://www.esri.cao.go.jp/jp/sna/menu.html",
+      "date": "2026-07-09"
+    },
     {
       "title": "第502回消費者委員会本会議【11月10日開催】",
       "url": "https://www.cao.go.jp/consumer/iinkai/2026/502/kaisai/index.html",
@@ -25,11 +30,6 @@
     {
       "title": "栄養成分関連添加物ワーキンググループ（第24回）の開催について【9月16日開催】",
       "url": "https://www.fsc.go.jp/senmon/sonota/annai/wg_eiyou_annai_24.html",
-      "date": "2026-04-06"
-    },
-    {
-      "title": "四半期別ＧＤＰ速報（2026年4-6月期・1次速報）",
-      "url": "https://www.esri.cao.go.jp/jp/sna/menu.html",
       "date": "2026-04-06"
     },
     {

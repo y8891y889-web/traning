@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-15T10:40:46.735209+09:00",
+  "fetched_at": "2026-11-16T10:44:00.527500+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "YARA-X 1.23.0 Release, (Sun, Nov 15th)",
+      "url": "https://isc.sans.edu/diary/rss/33496",
+      "date": "2026-11-15"
+    },
     {
       "title": "Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)",
       "url": "https://isc.sans.edu/diary/rss/33518",
@@ -45,11 +50,6 @@
     {
       "title": "Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)",
       "url": "https://isc.sans.edu/diary/rss/33502",
-      "date": "2026-11-09"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, (Mon, Nov 9th)",
-      "url": "https://isc.sans.edu/diary/rss/33500",
       "date": "2026-11-09"
     }
   ]
