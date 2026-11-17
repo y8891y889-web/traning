@@ -1,7 +1,32 @@
 {
-  "fetched_at": "2026-11-16T10:43:21.809879+09:00",
+  "fetched_at": "2026-11-17T13:23:34.008519+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
+      "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "バーゼル銀行監督委員会による市中協議文書「銀行勘定の金利リスクに関する追加的な第２の柱ガイダンス」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/bis/20261116/20261116.html",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "大手金融機関グループ等の取組状況（運用力向上・ガバナンス強化等）について更新しました。",
+      "url": "https://www.fsa.go.jp/policy/pjlamc/initiativesbythefinancialindustry/20240124.html",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "金融機関のEMPに係る取組事例一覧を更新しました。",
+      "url": "https://www.fsa.go.jp/policy/pjlamc/emp/examples_of_initiatives.html",
+      "date": "2026-11-16"
+    },
+    {
+      "title": "職員を募集しています。（自動車運転手）",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/kanri-01/kanri-01.html",
+      "date": "2026-11-16"
+    },
     {
       "title": "令和８年金融商品取引法等改正に係る政令・内閣府令案等（サステナビリティ情報の開示・保証、スタートアップ企業への資金供給の促進関係）について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/shouken/20261113/20261113.html",
@@ -290,11 +315,6 @@
     {
       "title": "「アジアGXコンソーシアム」ハイレベル会合2026の開催について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20261023/20261023.html",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
-      "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
       "date": "2026-10-23"
     },
     {
@@ -981,26 +1001,6 @@
       "title": "片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要（令和８年８月５日）について掲載しました。",
       "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260805-1.html",
       "date": "2026-08-17"
-    },
-    {
-      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年８月４日）について掲載しました。",
-      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260804-1.html",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "「主要行等向けの総合的な監督指針」等の一部改正について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20260817/20260817.html",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "令和８年８月13日からの大雨に伴う災害等に対する金融上の措置について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260814.html",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "ＳＮＳ等におけるなりすまし詐欺広告に関する対策の強化について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20260807/20260807.html",
-      "date": "2026-08-07"
     }
   ]
 }

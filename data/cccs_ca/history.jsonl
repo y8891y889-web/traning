@@ -123,3 +123,6 @@
 {"title": "Check Point security advisory (AV26-1154) – Update 1", "url": "https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-1154", "date": "2026-11-13", "found_at": "2026-11-14T11:09:34.221303+09:00"}
 {"title": "n8n security advisory (AV26-1160)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-1160", "date": "2026-11-13", "found_at": "2026-11-14T11:09:34.221303+09:00"}
 {"title": "Apache security advisory (AV26-1159)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-1159", "date": "2026-11-13", "found_at": "2026-11-14T11:09:34.221303+09:00"}
+{"title": "Qualcomm security advisory (AV26-1164)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av26-1164", "date": "2026-11-16", "found_at": "2026-11-17T13:24:16.314735+09:00"}
+{"title": "Red Hat security advisory (AV26-1163)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-1163", "date": "2026-11-16", "found_at": "2026-11-17T13:24:16.314735+09:00"}
+{"title": "IBM security advisory (AV26-1162)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1162", "date": "2026-11-16", "found_at": "2026-11-17T13:24:16.314735+09:00"}
