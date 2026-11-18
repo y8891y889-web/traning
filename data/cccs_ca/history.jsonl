@@ -126,3 +126,6 @@
 {"title": "Qualcomm security advisory (AV26-1164)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av26-1164", "date": "2026-11-16", "found_at": "2026-11-17T13:24:16.314735+09:00"}
 {"title": "Red Hat security advisory (AV26-1163)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-1163", "date": "2026-11-16", "found_at": "2026-11-17T13:24:16.314735+09:00"}
 {"title": "IBM security advisory (AV26-1162)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1162", "date": "2026-11-16", "found_at": "2026-11-17T13:24:16.314735+09:00"}
+{"title": "[Control systems] CODESYS security advisory (AV26-1169)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-codesys-security-advisory-av26-1169", "date": "2026-11-17", "found_at": "2026-11-18T12:31:57.360783+09:00"}
+{"title": "GitLab security advisory (AV26-1168)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-1168", "date": "2026-11-17", "found_at": "2026-11-18T12:31:57.360783+09:00"}
+{"title": "Zyxel security advisory (AV26-1167)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av26-1167", "date": "2026-11-17", "found_at": "2026-11-18T12:31:57.360783+09:00"}

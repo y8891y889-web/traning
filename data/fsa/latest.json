@@ -1,7 +1,42 @@
 {
-  "fetched_at": "2026-11-17T13:23:34.008519+09:00",
+  "fetched_at": "2026-11-18T12:31:12.106623+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "「Japan Fintech Week 2027」の開催について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261113/japanfintechweek.html",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "金融安定理事会による「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/fsf/20261117/261117.html",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "金融審議会「ディスクロージャーワーキング・グループ」（第７回）議事次第について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/shiryou/20261118.html",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "IOSCO(証券監督者国際機構) 常設委員会議長・副議長選出について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/ios/20261117/20261117.html",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "職員を募集しています。（金融モニタリング業務（各種リスク管理態勢）に従事する職員）",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-10/ginnsyou-10.html",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "職員を募集しています。（金融モニタリング業務（マネー・ローンダリング・テロ資金供与対策）に従事する職員）",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-12/ginnsyou-12.html",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月13日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261113-1.html",
+      "date": "2026-11-17"
+    },
     {
       "title": "つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
       "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
@@ -315,11 +350,6 @@
     {
       "title": "「アジアGXコンソーシアム」ハイレベル会合2026の開催について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20261023/20261023.html",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "職員を募集しています。（金融モニタリング業務(市場リスク管理及び流動性リスク管理)に従事する職員）",
-      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-10/ginnsyou-10.html",
       "date": "2026-10-23"
     },
     {
@@ -971,36 +1001,6 @@
       "title": "第57回金融審議会総会・第45回金融分科会合同会合の開催について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/singi/20260831.html",
       "date": "2026-08-24"
-    },
-    {
-      "title": "令和８年７月17日から18日にかけての大雨に伴う災害等に対する金融上の措置について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260821.html",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "「事務ガイドライン（第三分冊：金融会社関係）」等の一部改正について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20260821/20260821.html",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "「トランジション・ファイナンス環境整備検討会」（第13回）議事要旨について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/transition_finance/gijiyousi/20260227.html",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "「トランジション・ファイナンス環境整備検討会」（第14回）の開催について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/singi/20260818.html",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "職員を募集しています。（国内金融及び金融機関等の行う国際業務に関する制度の企画及び立案等に従事する職員（課長補佐クラス）【弁護士資格を有する者】）",
-      "url": "https://www.fsa.go.jp/common/recruit/r8/kikaku-02/kikaku-02.html",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要（令和８年８月５日）について掲載しました。",
-      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260805-1.html",
-      "date": "2026-08-17"
     }
   ]
 }

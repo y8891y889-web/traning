@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-17T13:24:55.453737+09:00",
+  "fetched_at": "2026-11-18T12:32:38.651917+09:00",
   "source_url": "https://www.oracle.com/security-alerts/public-vuln-to-advisory-mapping.html",
   "entries": [
+    {
+      "title": "Oracle Critical Security Patch Update November 2026",
+      "url": "https://www.oracle.com/security-alerts/cspunov2026.html",
+      "date": null
+    },
     {
       "title": "Oracle Critical Patch Update October 2026",
       "url": "https://www.oracle.com/security-alerts/cpuoct2026.html",

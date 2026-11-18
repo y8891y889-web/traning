@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-17T13:24:37.750877+09:00",
+  "fetched_at": "2026-11-18T12:32:19.572366+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
+    {
+      "title": "CVE-2026-114938: Critical vulnerability in OpenJDK JAVA",
+      "url": "https://blog.talosintelligence.com/java4shell/",
+      "date": "2026-11-18"
+    },
     {
       "title": "ARTEX and beyond: AI-enabled penetration testing platforms",
       "url": "https://blog.talosintelligence.com/artex-and-beyond/",
@@ -71,11 +76,6 @@
       "title": "Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers",
       "url": "https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/",
       "date": "2026-10-21"
-    },
-    {
-      "title": "There's only so much code: the rise in vulnerability numbers",
-      "url": "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/",
-      "date": "2026-10-20"
     }
   ]
 }

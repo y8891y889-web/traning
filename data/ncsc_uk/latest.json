@@ -1,20 +1,25 @@
 {
-  "fetched_at": "2026-11-17T13:23:51.871021+09:00",
+  "fetched_at": "2026-11-18T12:31:27.506446+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
+    {
+      "title": "Why threat hunting should matter to every board",
+      "url": "https://www.ncsc.gov.uk/blogs/why-threat-hunting-should-matter-to-every-board",
+      "date": "2026-11-17"
+    },
     {
       "title": "NCSC scheme will help critical organisations test their cyber defences",
       "url": "https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences",
       "date": "2026-11-11"
     },
     {
-      "title": "Artificial intelligence and cyber intrusion",
-      "url": "https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion",
+      "title": "Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years",
+      "url": "https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years",
       "date": "2026-11-03"
     },
     {
-      "title": "Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years",
-      "url": "https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years",
+      "title": "Artificial intelligence and cyber intrusion",
+      "url": "https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion",
       "date": "2026-11-03"
     },
     {
@@ -33,13 +38,13 @@
       "date": "2026-10-20"
     },
     {
-      "title": "Using TLS to protect data",
-      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
+      "title": "Post-quantum updates to our TLS guidance",
+      "url": "https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance",
       "date": "2026-10-15"
     },
     {
-      "title": "Post-quantum updates to our TLS guidance",
-      "url": "https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance",
+      "title": "Using TLS to protect data",
+      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
       "date": "2026-10-15"
     },
     {
@@ -96,11 +101,6 @@
       "title": "Disruptive cyber activity highlights risk from internet-exposed systems and edge devices",
       "url": "https://www.ncsc.gov.uk/news/disruptive-cyber-activity-highlights-risk-from-internet-exposed-systems-and-edge-devices",
       "date": "2026-08-27"
-    },
-    {
-      "title": "Managing the cyber risk of agentic AI",
-      "url": "https://www.ncsc.gov.uk/blogs/managing-the-cyber-risk-of-agentic-ai",
-      "date": "2026-08-20"
     }
   ]
 }
