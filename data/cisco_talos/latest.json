@@ -1,9 +1,19 @@
 {
-  "fetched_at": "2026-11-18T12:32:19.572366+09:00",
+  "fetched_at": "2026-11-19T12:04:39.971220+09:00",
   "source_url": "https://blog.talosintelligence.com/rss/",
   "entries": [
     {
-      "title": "CVE-2026-114938: Critical vulnerability in OpenJDK JAVA",
+      "title": "The challenge of defending against bulletproof dead drops on public blockchains",
+      "url": "https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing",
+      "url": "https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "CVE-2026-114938: Critical vulnerability in OpenJDK Java",
       "url": "https://blog.talosintelligence.com/java4shell/",
       "date": "2026-11-18"
     },
@@ -65,16 +75,6 @@
     {
       "title": "Compromised eMudhra intermediate certificates",
       "url": "https://blog.talosintelligence.com/compromised-intermediate-certificates/",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Two critical RCEs in PHP core",
-      "url": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers",
-      "url": "https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/",
       "date": "2026-10-21"
     }
   ]

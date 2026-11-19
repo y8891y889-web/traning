@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-11-18T12:31:57.360418+09:00",
+  "fetched_at": "2026-11-19T12:04:16.923735+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "[Control systems] CODESYS security advisory (AV26-1169)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-codesys-security-advisory-av26-1169",
-      "date": "2026-11-17"
+      "title": "SmarterTools security advisory (AV26-1177)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/smartertools-security-advisory-av26-1177",
+      "date": "2026-11-18"
     },
     {
-      "title": "GitLab security advisory (AV26-1168)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-1168",
-      "date": "2026-11-17"
+      "title": "JetBrains security advisory (AV26-1176)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1176",
+      "date": "2026-11-18"
     },
     {
-      "title": "Zyxel security advisory (AV26-1167)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av26-1167",
-      "date": "2026-11-17"
+      "title": "Cisco security advisory (AV26-1175)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1175",
+      "date": "2026-11-18"
     }
   ]
 }

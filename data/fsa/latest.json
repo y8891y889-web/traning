@@ -1,7 +1,27 @@
 {
-  "fetched_at": "2026-11-18T12:31:12.106623+09:00",
+  "fetched_at": "2026-11-19T12:03:37.207986+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "証券監督者国際機構（IOSCO）による「市場仲介業者（証券会社等）の個人顧客を標的とした詐欺の増加に係る声明」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/ios/20261118/20261118.html",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "金融安定理事会による本会合議事要旨について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/fsf/20261118/20261118.html",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "「銀行法施行規則」等、「自己資本比率規制（第１の柱・第３の柱）に関する告示」等及び「主要行等向けの総合的な監督指針」等の一部改正（案）について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20261118.html",
+      "date": "2026-11-18"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月17日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261117-1.html",
+      "date": "2026-11-18"
+    },
     {
       "title": "「Japan Fintech Week 2027」の開催について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20261113/japanfintechweek.html",
@@ -981,26 +1001,6 @@
       "title": "「第70回金融トラブル連絡調整協議会」議事録について公表しました。",
       "url": "https://www.fsa.go.jp/singi/singi_trouble/gijiroku/20260619.html",
       "date": "2026-08-28"
-    },
-    {
-      "title": "金融審議会委員の任命について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/singi/20260828.html",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "「金融商品取引業等に関するQ&A」の改訂について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/shouken/20260827/20260827.html",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "「中小・地域金融機関向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等（自己資本比率規制（第１の柱・第３の柱）に関する告示）について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260824.html",
-      "date": "2026-08-24"
-    },
-    {
-      "title": "第57回金融審議会総会・第45回金融分科会合同会合の開催について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/singi/20260831.html",
-      "date": "2026-08-24"
     }
   ]
 }
