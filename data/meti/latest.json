@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-11-19T12:03:29.422107+09:00",
+  "fetched_at": "2026-11-20T11:55:05.223901+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "日本産業規格（JIS）を制定・改正しました（2026年11月分）",
+      "url": "https://www.meti.go.jp/policy/economy/hyojun-kijun/jiskouji/20261120001.html",
+      "date": "2026-11-20"
+    },
+    {
+      "title": "NEXUS Japan-GS Forum（日・グローバルサウス経済共創フォーラム）を開催しました",
+      "url": "https://www.meti.go.jp/policy/external_economy/cooperation/oda/forum_highlights.html",
+      "date": "2026-11-19"
+    },
     {
       "title": "2026年度中の再エネ特措法に基づく認定の申請にかかる期限日について",
       "url": "https://www.enecho.meti.go.jp/category/saving_and_new/saiene/kaitori/dl/announce/20261106_nendokigen.pdf",
@@ -276,16 +286,6 @@
       "title": "高度外国人材就業者日本語等研修の募集を開始しました",
       "url": "https://www.aots.jp/hrd/technology-transfer/highly-skilled-foreign-professionals/",
       "date": "2026-07-17"
-    },
-    {
-      "title": "2026年度夏季の電力需給の見通し（7月10日公表）",
-      "url": "https://www.enecho.meti.go.jp/category/electricity_and_gas/electric/pdf/260710_jyukyu.pdf",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "物流効率化法に基づく調査結果の公表及びトラックドライバーの1運行当たりの平均高速時間に関する調査結果の公表について",
-      "url": "https://www.meti.go.jp/policy/economy/distribution/bukkoho-survey.html ",
-      "date": "2026-07-10"
     }
   ]
 }

@@ -1,7 +1,22 @@
 {
-  "fetched_at": "2026-11-19T12:03:37.207986+09:00",
+  "fetched_at": "2026-11-20T11:55:11.716818+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "事業者支援の促進及び金融の円滑化について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20261119-2/20261119-2.html",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "職員を募集しています。（国内金融に関する制度の企画及び立案等に従事する職員）",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/kikaku-04/kikaku-04.html",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "職員を募集しています。（金融モニタリング業務（顧客本位の業務運営実践状況等に係る分析・対話等業務）に従事する職員）",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-13/ginnsyou-13.html",
+      "date": "2026-11-19"
+    },
     {
       "title": "証券監督者国際機構（IOSCO）による「市場仲介業者（証券会社等）の個人顧客を標的とした詐欺の増加に係る声明」について公表しました。",
       "url": "https://www.fsa.go.jp/inter/ios/20261118/20261118.html",
@@ -985,21 +1000,6 @@
     {
       "title": "金融審議会「ディスクロージャーワーキング・グループ」（第６回）の開催について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/singi/20260904.html",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "令和７年保険業法改正に係る内閣府令及び「保険会社向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/hoken/20260828/20260828.html",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "「多重債務者相談強化キャンペーン2026」における相談会の開催状況及び予定等について公表しました。",
-      "url": "https://www.fsa.go.jp/policy/kashikin/soudankai2026.html",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "「第70回金融トラブル連絡調整協議会」議事録について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/singi_trouble/gijiroku/20260619.html",
       "date": "2026-08-28"
     }
   ]

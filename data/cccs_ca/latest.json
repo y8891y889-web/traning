@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-11-19T12:04:16.923735+09:00",
+  "fetched_at": "2026-11-20T11:55:45.800912+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "SmarterTools security advisory (AV26-1177)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/smartertools-security-advisory-av26-1177",
-      "date": "2026-11-18"
+      "title": "Drupal security advisory (AV26-1186)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1186",
+      "date": "2026-11-19"
     },
     {
-      "title": "JetBrains security advisory (AV26-1176)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1176",
-      "date": "2026-11-18"
+      "title": "VMware security advisory (AV26-1185)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-1185",
+      "date": "2026-11-19"
     },
     {
-      "title": "Cisco security advisory (AV26-1175)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1175",
-      "date": "2026-11-18"
+      "title": "Mitel security advisory (AV26-1184)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av26-1184",
+      "date": "2026-11-19"
     }
   ]
 }
