@@ -135,3 +135,5 @@
 {"title": "Drupal security advisory (AV26-1186)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1186", "date": "2026-11-19", "found_at": "2026-11-20T11:55:45.837080+09:00"}
 {"title": "VMware security advisory (AV26-1185)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-1185", "date": "2026-11-19", "found_at": "2026-11-20T11:55:45.837080+09:00"}
 {"title": "Mitel security advisory (AV26-1184)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av26-1184", "date": "2026-11-19", "found_at": "2026-11-20T11:55:45.837080+09:00"}
+{"title": "Cisco security advisory (AV26-1073) – Update 1", "url": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1073", "date": "2026-11-20", "found_at": "2026-11-21T12:03:53.715616+09:00"}
+{"title": "SAP security advisory – November 2025 monthly rollup (AV25-738) – Update 1", "url": "https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-november-2025-monthly-rollup-av25-738", "date": "2026-11-20", "found_at": "2026-11-21T12:03:53.715616+09:00"}

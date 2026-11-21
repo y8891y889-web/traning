@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-19T12:03:46.231114+09:00",
+  "fetched_at": "2026-11-21T12:03:24.283609+09:00",
   "source_url": "https://www.jogmec.go.jp/news/information/index.html",
   "entries": [
+    {
+      "title": "2026年11月20日[お知らせ]PHPの脆弱性対応に伴うJOGMECウェブサイトの再開について",
+      "url": "https://www.jogmec.go.jp/news/information/information_00719.html",
+      "date": "2026-11-20"
+    },
     {
       "title": "2026年11月11日[お知らせ]志布志国家石油備蓄基地における総合防災訓練の実施について",
       "url": "https://www.jogmec.go.jp/news/information/information_00716.html",
@@ -11,11 +16,6 @@
       "title": "2026年11月11日[お知らせ]久慈国家石油備蓄基地における総合防災訓練の実施について",
       "url": "https://www.jogmec.go.jp/news/information/information_00715.html",
       "date": "2026-11-11"
-    },
-    {
-      "title": "2026年11月9日[お知らせ]串木野国家石油備蓄基地における総合防災訓練の実施について",
-      "url": "https://www.jogmec.go.jp/news/information/information_00714.html",
-      "date": "2026-11-09"
     }
   ]
 }
