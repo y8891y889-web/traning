@@ -1,7 +1,32 @@
 {
-  "fetched_at": "2026-11-21T12:03:54.730520+09:00",
+  "fetched_at": "2026-11-22T11:00:40.155460+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "date": "2026-11-21"
+    },
+    {
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "date": "2026-11-21"
+    },
+    {
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "date": "2026-11-21"
+    },
+    {
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "date": "2026-11-21"
+    },
+    {
+      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+      "date": "2026-11-21"
+    },
     {
       "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
       "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
@@ -226,31 +251,6 @@
       "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
       "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
       "date": "2026-11-16"
-    },
-    {
-      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-      "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-      "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-      "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-      "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-      "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-      "date": "2026-11-15"
     }
   ]
 }
