@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-11-22T11:00:39.600209+09:00",
+  "fetched_at": "2026-11-23T11:26:09.099899+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
+      "url": "https://isc.sans.edu/diary/rss/33548",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "A brief history of syslog timestamps, (Sun, Nov 22nd)",
+      "url": "https://isc.sans.edu/diary/rss/33530",
+      "date": "2026-11-22"
+    },
     {
       "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
       "url": "https://isc.sans.edu/diary/rss/33538",
@@ -41,16 +51,6 @@
       "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
       "url": "https://isc.sans.edu/diary/rss/33522",
       "date": "2026-11-16"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, (Mon, Nov 16th)",
-      "url": "https://isc.sans.edu/diary/rss/33520",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "YARA-X 1.23.0 Release, (Sun, Nov 15th)",
-      "url": "https://isc.sans.edu/diary/rss/33496",
-      "date": "2026-11-15"
     }
   ]
 }
