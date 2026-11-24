@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-11-23T11:25:29.214789+09:00",
+  "fetched_at": "2026-11-24T14:49:33.197962+09:00",
   "source_url": "https://www.soumu.go.jp/toukei/snews_back.html",
   "entries": [
+    {
+      "title": "経済構造実態調査規則の一部を改正する省令案に関する意見募集",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000349.html",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "「サービス産業動態統計調査」2026年（令和8年）9月分（速報）",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000350.html",
+      "date": "2026-11-24"
+    },
     {
       "title": "2025年基準 消費者物価指数 全国 2026年(令和8年)10月分",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000357.html",
@@ -491,16 +501,6 @@
       "title": "2020年基準 消費者物価指数 全国 2025年(令和7年)10月分",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000330.html",
       "date": "2025-11-21"
-    },
-    {
-      "title": "「サービス産業動態統計調査」2025年（令和7年）9月分（速報）",
-      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000324.html",
-      "date": "2025-11-21"
-    },
-    {
-      "title": "「消費者物価指数2025年基準改定計画」の公表",
-      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000329.html",
-      "date": "2025-11-14"
     }
   ]
 }

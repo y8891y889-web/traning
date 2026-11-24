@@ -138,3 +138,6 @@
 {"title": "Cisco security advisory (AV26-1073) – Update 1", "url": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1073", "date": "2026-11-20", "found_at": "2026-11-21T12:03:53.715616+09:00"}
 {"title": "SAP security advisory – November 2025 monthly rollup (AV25-738) – Update 1", "url": "https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-november-2025-monthly-rollup-av25-738", "date": "2026-11-20", "found_at": "2026-11-21T12:03:53.715616+09:00"}
 {"title": "Apache security advisory (AV26-1188)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-1188", "date": "2026-11-21", "found_at": "2026-11-22T11:00:39.142253+09:00"}
+{"title": "MISP security advisory (AV26-1197)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/misp-security-advisory-av26-1197", "date": "2026-11-23", "found_at": "2026-11-24T14:50:08.747330+09:00"}
+{"title": "Splunk security advisory (AV26-1196)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-1196", "date": "2026-11-23", "found_at": "2026-11-24T14:50:08.747330+09:00"}
+{"title": "Spring security advisory (AV26-1195)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-1195", "date": "2026-11-23", "found_at": "2026-11-24T14:50:08.747330+09:00"}

@@ -1,21 +1,21 @@
 {
-  "fetched_at": "2026-11-23T11:26:08.681789+09:00",
+  "fetched_at": "2026-11-24T14:50:08.746959+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
     {
-      "title": "Apache security advisory (AV26-1188)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-1188",
-      "date": "2026-11-21"
+      "title": "MISP security advisory (AV26-1197)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/misp-security-advisory-av26-1197",
+      "date": "2026-11-23"
     },
     {
-      "title": "VMware security advisory (AV26-1185) – Update 1",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-1185",
-      "date": "2026-11-20"
+      "title": "Splunk security advisory (AV26-1196)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-1196",
+      "date": "2026-11-23"
     },
     {
-      "title": "Cisco security advisory (AV26-1073) – Update 1",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1073",
-      "date": "2026-11-20"
+      "title": "Spring security advisory (AV26-1195)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-1195",
+      "date": "2026-11-23"
     }
   ]
 }
