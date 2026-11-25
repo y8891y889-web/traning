@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-24T14:50:08.967167+09:00",
+  "fetched_at": "2026-11-25T13:50:53.398533+09:00",
   "source_url": "https://isc.sans.edu/rssfeed.xml",
   "entries": [
+    {
+      "title": "ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)",
+      "url": "https://isc.sans.edu/diary/rss/33554",
+      "date": "2026-11-25"
+    },
     {
       "title": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
       "url": "https://isc.sans.edu/diary/rss/33550",
@@ -46,11 +51,6 @@
       "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
       "url": "https://isc.sans.edu/diary/rss/33528",
       "date": "2026-11-18"
-    },
-    {
-      "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
-      "url": "https://isc.sans.edu/diary/rss/33526",
-      "date": "2026-11-17"
     }
   ]
 }

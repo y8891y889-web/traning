@@ -1,10 +1,15 @@
 {
-  "fetched_at": "2026-11-24T14:49:41.180187+09:00",
+  "fetched_at": "2026-11-25T13:50:26.107406+09:00",
   "source_url": "https://www.mlit.go.jp/",
   "entries": [
     {
       "title": "土地・不動産・建設業",
       "url": "https://www.mlit.go.jp/totikensangyo/index.html",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "井林大臣会見要旨",
+      "url": "https://www.mlit.go.jp/report/interview/daijin261124.html",
       "date": "2026-11-24"
     },
     {
@@ -53,11 +58,6 @@
       "date": "2026-10-23"
     },
     {
-      "title": "井林大臣会見要旨",
-      "url": "https://www.mlit.go.jp/report/interview/daijin261020.html",
-      "date": "2026-10-20"
-    },
-    {
       "title": "水・国土",
       "url": "https://www.mlit.go.jp/mizukokudo/index.html",
       "date": "2026-11-24"
@@ -76,11 +76,6 @@
       "title": "看護師（産休代替任期付職員）の募集について(PDF形式:102KB)",
       "url": "https://www.mlit.go.jp/content/002046038.pdf",
       "date": "2026-11-12"
-    },
-    {
-      "title": "標準共済システム（第三世代）のプログラム保守等及びセンタ運用支援業務の委託(PDF形式:63KB)",
-      "url": "https://www.mlit.go.jp/content/002028865.pdf",
-      "date": "2026-10-29"
     },
     {
       "title": "被害回復等を装った詐欺（二次被害トラブル）にご注意ください！（不動産特定共同事業法関係）",

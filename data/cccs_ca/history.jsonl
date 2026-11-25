@@ -141,3 +141,6 @@
 {"title": "MISP security advisory (AV26-1197)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/misp-security-advisory-av26-1197", "date": "2026-11-23", "found_at": "2026-11-24T14:50:08.747330+09:00"}
 {"title": "Splunk security advisory (AV26-1196)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-1196", "date": "2026-11-23", "found_at": "2026-11-24T14:50:08.747330+09:00"}
 {"title": "Spring security advisory (AV26-1195)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-1195", "date": "2026-11-23", "found_at": "2026-11-24T14:50:08.747330+09:00"}
+{"title": "Erlang security advisory (AV26-1204)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/erlang-security-advisory-av26-1204", "date": "2026-11-24", "found_at": "2026-11-25T13:50:52.924339+09:00"}
+{"title": "Drupal security advisory (AV26-1186) – Update 1", "url": "https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1186", "date": "2026-11-24", "found_at": "2026-11-25T13:50:52.924339+09:00"}
+{"title": "VMware security advisory (AV26-1203)", "url": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-1203", "date": "2026-11-24", "found_at": "2026-11-25T13:50:52.924339+09:00"}

@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-24T14:49:31.093108+09:00",
+  "fetched_at": "2026-11-25T13:50:16.267931+09:00",
   "source_url": "https://www.moj.go.jp/list_info.html",
   "entries": [
+    {
+      "title": "法務大臣閣議後記者会見の概要－令和８年１１月２０日（金）",
+      "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_01194.html",
+      "date": "2026-11-20"
+    },
     {
       "title": "法務大臣閣議後記者会見の概要－令和８年１１月１７日（火）",
       "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_01193.html",
@@ -996,11 +1001,6 @@
       "title": "法務大臣閣議後記者会見の概要－令和６年１２月３日（火）",
       "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_00565.html",
       "date": "2024-12-03"
-    },
-    {
-      "title": "第76回人権週間　令和6年12月4日(水) ～ 12月10日(火)",
-      "url": "https://www.moj.go.jp/JINKEN/jinken04_00305.html",
-      "date": "2024-12-04"
     }
   ]
 }

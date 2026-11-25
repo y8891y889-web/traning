@@ -1,11 +1,36 @@
 {
-  "fetched_at": "2026-11-24T14:49:30.238117+09:00",
+  "fetched_at": "2026-11-25T13:50:15.811491+09:00",
   "source_url": "https://www.mof.go.jp/public_relations/whats_new/202611.html",
   "entries": [
     {
-      "title": "国債国債金利情報(令和8年11月20日)(CSV:2KB)",
+      "title": "国債交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年11月25日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261125.htm",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "国債40年利付国債（第19回）の入札結果（令和8年11月25日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261125.htm",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "国債40年利付国債（第19回）の入札発行（令和8年11月25日入札）",
+      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261125.htm",
+      "date": "2026-11-25"
+    },
+    {
+      "title": "財政投融資財政投融資分科会（令和8年10月28日開催）議事要旨",
+      "url": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20261028.html",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "国債国債金利情報(令和8年11月24日)(CSV:2KB)",
       "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-      "date": "2026-11-20"
+      "date": "2026-11-24"
+    },
+    {
+      "title": "会見等片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月24日(火曜日))",
+      "url": "https://www.mof.go.jp/public_relations/conference/my20261124.html",
+      "date": "2026-11-24"
     },
     {
       "title": "会見等片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月20日(金曜日))",

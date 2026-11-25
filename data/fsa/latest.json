@@ -1,7 +1,47 @@
 {
-  "fetched_at": "2026-11-24T14:49:33.680755+09:00",
+  "fetched_at": "2026-11-25T13:50:18.663695+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "「AI等の健全な利活用の推進に関する研究会」（第１回）議事次第について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/ai_2026/shiryou/20261124.html",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "金融安定理事会による「金融機関の実効的な破綻処理の枠組みの主要な特性」に整合的な破綻処理計画基準に服する保険会社のリストを公表しました。",
+      "url": "https://www.fsa.go.jp/inter/fsf/20261124/20261124.html",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "バーゼル銀行監督委員会による議事要旨について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/bis/20261124/20261124.html",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "令和８年11月20日からの大雪に係る災害等に対する金融上の措置について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20261124.html",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "移行期間特例業務の時限措置終了に伴い「海外投資家等特例業務を行うみなさまへ」のページを更新しました。",
+      "url": "https://www.fsa.go.jp/common/shinsei/spbfitp/index.html",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "「金融商品取引業者等向けの総合的な監督指針」の一部改正について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/shouken/20261124/20261124.html",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "期間業務職員（事務補佐員）を募集しています。",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/kanbohisyo-01/kanbohisyo-01.html",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "非常勤職員（事務補佐員【障害者】）を募集しています。",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/kanbohisyo-02/kanbohisyo-02.html",
+      "date": "2026-11-24"
+    },
     {
       "title": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in広島」の開催について更新しました。",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20261020/20261020.html",
@@ -961,46 +1001,6 @@
       "title": "被害回復等を装った詐欺（二次被害トラブル）にご注意ください！（不動産特定共同事業法関係）",
       "url": "https://www.fsa.go.jp/ordinary/chuui/20260901.html",
       "date": "2026-09-01"
-    },
-    {
-      "title": "令和８年８月27日からの大雨に伴う災害等に対する金融上の措置について更新しました。",
-      "url": "https://www.fsa.go.jp/news/r8/ginkou/20260827.html",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "「貸金業法施行規則の一部を改正する内閣府令」の公布及びパブリックコメントの結果について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/kashikin/20260831/20260831.html",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "令和７年保険業法改正に係る「少額短期保険業者向けの監督指針」の一部改正（案）に係るパブリックコメント結果等について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/hoken/20260831-2/20260831-2.html",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "令和９年度歳出概算要求書について公表しました。",
-      "url": "https://www.fsa.go.jp/common/budget/yosan/9youkyuu-2.html",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "金融庁の令和９年度税制改正要望について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20260831.html",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "令和９年度予算、機構・定員要求について公表しました。",
-      "url": "https://www.fsa.go.jp/common/budget/yosan/9youkyuu.html",
-      "date": "2026-08-31"
-    },
-    {
-      "title": "第57回金融審議会総会・第45回金融分科会合同会合 議事次第について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/singi_kinyu/soukai/siryou/20260831.html",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "金融審議会「ディスクロージャーワーキング・グループ」（第６回）の開催について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/singi/20260904.html",
-      "date": "2026-08-28"
     }
   ]
 }

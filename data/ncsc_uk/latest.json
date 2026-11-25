@@ -1,7 +1,17 @@
 {
-  "fetched_at": "2026-11-24T14:49:44.083502+09:00",
+  "fetched_at": "2026-11-25T13:50:28.804389+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
+    {
+      "title": "Introducing CORNERSTONE: delivering external services for the NCSC",
+      "url": "https://www.ncsc.gov.uk/blogs/introducing-cornerstone-delivering-external-services-for-the-ncsc",
+      "date": "2026-11-24"
+    },
+    {
+      "title": "Familiar weaknesses, exploited faster: defending against agentic cyber attacks",
+      "url": "https://www.ncsc.gov.uk/blogs/familiar-weaknesses-exploited-faster-defending-against-agentic-cyber-attacks",
+      "date": "2026-11-24"
+    },
     {
       "title": "Why threat hunting should matter to every board",
       "url": "https://www.ncsc.gov.uk/blogs/why-threat-hunting-should-matter-to-every-board",
@@ -73,13 +83,13 @@
       "date": "2026-09-21"
     },
     {
-      "title": "Cyber Adversary Simulation (CyAS): scheme documents now available",
-      "url": "https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available",
+      "title": "Adversary simulation: what you need to know",
+      "url": "https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know",
       "date": "2026-09-17"
     },
     {
-      "title": "Adversary simulation: what you need to know",
-      "url": "https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know",
+      "title": "Cyber Adversary Simulation (CyAS): scheme documents now available",
+      "url": "https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available",
       "date": "2026-09-17"
     },
     {
@@ -91,16 +101,6 @@
       "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
       "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
       "date": "2026-09-15"
-    },
-    {
-      "title": "The hidden risks of shadow AI",
-      "url": "https://www.ncsc.gov.uk/blogs/the-hidden-risks-of-shadow-ai",
-      "date": "2026-09-07"
-    },
-    {
-      "title": "Disruptive cyber activity highlights risk from internet-exposed systems and edge devices",
-      "url": "https://www.ncsc.gov.uk/news/disruptive-cyber-activity-highlights-risk-from-internet-exposed-systems-and-edge-devices",
-      "date": "2026-08-27"
     }
   ]
 }
