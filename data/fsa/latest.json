@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-25T13:50:18.663695+09:00",
+  "fetched_at": "2026-11-26T13:02:12.925355+09:00",
   "source_url": "https://www.fsa.go.jp/recent/recent2026.html",
   "entries": [
+    {
+      "title": "「トランジション・ファイナンス環境整備検討会」（第15回）の開催について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/singi/20261125.html",
+      "date": "2026-11-25"
+    },
     {
       "title": "「AI等の健全な利活用の推進に関する研究会」（第１回）議事次第について公表しました。",
       "url": "https://www.fsa.go.jp/singi/ai_2026/shiryou/20261124.html",
@@ -995,11 +1000,6 @@
     {
       "title": "金融安定理事会によるG20財務大臣・中央銀行総裁へのレターについて公表しました。",
       "url": "https://www.fsa.go.jp/inter/fsf/20260831/20260831.html",
-      "date": "2026-09-01"
-    },
-    {
-      "title": "被害回復等を装った詐欺（二次被害トラブル）にご注意ください！（不動産特定共同事業法関係）",
-      "url": "https://www.fsa.go.jp/ordinary/chuui/20260901.html",
       "date": "2026-09-01"
     }
   ]

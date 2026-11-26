@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-25T13:50:13.747531+09:00",
+  "fetched_at": "2026-11-26T13:02:06.565587+09:00",
   "source_url": "https://www.meti.go.jp/oshirase/index.html",
   "entries": [
+    {
+      "title": "顧客に選ばれるサービスをつくる標準化セミナーを12月9日（水曜日）に開催します",
+      "url": "https://www.jpc-net.jp/seminar/detail/008232.html",
+      "date": "2026-11-25"
+    },
     {
       "title": "日本産業規格（JIS）を制定・改正しました（2026年11月分）",
       "url": "https://www.meti.go.jp/policy/economy/hyojun-kijun/jiskouji/20261120001.html",
@@ -280,11 +285,6 @@
     {
       "title": "2026年度夏季の電力需給の見通し（7月17日公表）",
       "url": "https://www.enecho.meti.go.jp/category/electricity_and_gas/electricity_measures/pdf/260717_jyukyu.pdf",
-      "date": "2026-07-17"
-    },
-    {
-      "title": "高度外国人材就業者日本語等研修の募集を開始しました",
-      "url": "https://www.aots.jp/hrd/technology-transfer/highly-skilled-foreign-professionals/",
       "date": "2026-07-17"
     }
   ]
