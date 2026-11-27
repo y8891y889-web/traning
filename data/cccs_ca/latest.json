@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-26T13:02:49.695553+09:00",
+  "fetched_at": "2026-11-27T13:00:57.414685+09:00",
   "source_url": "https://www.cyber.gc.ca/en/",
   "entries": [
+    {
+      "title": "PostgreSQL security advisory (AV26-1211)",
+      "url": "https://www.cyber.gc.ca/en/alerts-advisories/postgresql-security-advisory-av26-1211",
+      "date": "2026-11-26"
+    },
     {
       "title": "Mitel security advisory (AV26-1184) – Update 1",
       "url": "https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av26-1184",
@@ -10,11 +15,6 @@
     {
       "title": "GitLab security advisory (AV26-1210)",
       "url": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-1210",
-      "date": "2026-11-25"
-    },
-    {
-      "title": "Drupal security advisory (AV26-1209)",
-      "url": "https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1209",
       "date": "2026-11-25"
     }
   ]

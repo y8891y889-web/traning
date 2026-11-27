@@ -1,7 +1,12 @@
 {
-  "fetched_at": "2026-11-26T13:02:12.284031+09:00",
+  "fetched_at": "2026-11-27T13:00:16.523883+09:00",
   "source_url": "https://www.soumu.go.jp/toukei/snews_back.html",
   "entries": [
+    {
+      "title": "2025年基準 消費者物価指数 東京都区部 2026年(令和8年)11月分(中旬速報値)",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000358.html",
+      "date": "2026-11-27"
+    },
     {
       "title": "経済構造実態調査規則の一部を改正する省令案に関する意見募集",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000349.html",
@@ -496,11 +501,6 @@
       "title": "「データ利活用シンポジウム〜データから読み解く地方の将来像〜」の開催",
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei01_02000129.html",
       "date": "2025-11-25"
-    },
-    {
-      "title": "2020年基準 消費者物価指数 全国 2025年(令和7年)10月分",
-      "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000330.html",
-      "date": "2025-11-21"
     }
   ]
 }

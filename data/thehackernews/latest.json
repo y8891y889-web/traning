@@ -1,7 +1,42 @@
 {
-  "fetched_at": "2026-11-26T13:02:50.727975+09:00",
+  "fetched_at": "2026-11-27T13:00:59.103949+09:00",
   "source_url": "https://feeds.feedburner.com/TheHackersNews",
   "entries": [
+    {
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+      "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+      "date": "2026-11-26"
+    },
+    {
+      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+      "url": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+      "date": "2026-11-26"
+    },
     {
       "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
@@ -216,41 +251,6 @@
       "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
       "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
       "date": "2026-11-20"
-    },
-    {
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-      "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "date": "2026-11-19"
-    },
-    {
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-      "date": "2026-11-19"
     }
   ]
 }

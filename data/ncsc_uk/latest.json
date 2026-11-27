@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-26T13:02:26.721019+09:00",
+  "fetched_at": "2026-11-27T13:00:31.976707+09:00",
   "source_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
   "entries": [
     {
-      "title": "Introducing CORNERSTONE: delivering external services for the NCSC",
-      "url": "https://www.ncsc.gov.uk/blogs/introducing-cornerstone-delivering-external-services-for-the-ncsc",
+      "title": "Familiar weaknesses, exploited faster: defending against agentic cyber attacks",
+      "url": "https://www.ncsc.gov.uk/blogs/familiar-weaknesses-exploited-faster-defending-against-agentic-cyber-attacks",
       "date": "2026-11-24"
     },
     {
-      "title": "Familiar weaknesses, exploited faster: defending against agentic cyber attacks",
-      "url": "https://www.ncsc.gov.uk/blogs/familiar-weaknesses-exploited-faster-defending-against-agentic-cyber-attacks",
+      "title": "Introducing CORNERSTONE: delivering external services for the NCSC",
+      "url": "https://www.ncsc.gov.uk/blogs/introducing-cornerstone-delivering-external-services-for-the-ncsc",
       "date": "2026-11-24"
     },
     {
@@ -48,13 +48,13 @@
       "date": "2026-10-20"
     },
     {
-      "title": "Post-quantum updates to our TLS guidance",
-      "url": "https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance",
+      "title": "Using TLS to protect data",
+      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
       "date": "2026-10-15"
     },
     {
-      "title": "Using TLS to protect data",
-      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
+      "title": "Post-quantum updates to our TLS guidance",
+      "url": "https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance",
       "date": "2026-10-15"
     },
     {
